@@ -1,0 +1,1071 @@
+id,Publishing Year,Book Name,Author,language_code,Author_Rating,Book_average_rating,Book_ratings_count,genre
+0,1975,Beowulf,"Unknown, Seamus Heaney",en-US,Novice,3.42,155903,genre fiction
+1,1987,Batman: Year One,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",eng,Intermediate,4.23,145267,genre fiction
+2,2015,Go Set a Watchman,Harper Lee,eng,Novice,3.31,138669,genre fiction
+3,2008,When You Are Engulfed in Flames,David Sedaris,en-US,Intermediate,4.04,150898,fiction
+4,2011,Daughter of Smoke & Bone,Laini Taylor,eng,Intermediate,4.04,198283,genre fiction
+5,2015,Red Queen,Victoria Aveyard,eng,Intermediate,4.08,83354,genre fiction
+6,2011,The Power of Habit,Charles Duhigg,eng,Intermediate,4.03,155977,genre fiction
+7,1994,Midnight in the Garden of Good and Evil,John Berendt,eng,Intermediate,3.9,167997,nonfiction
+8,2012,Hopeless,Colleen Hoover,eng,Intermediate,4.34,189938,genre fiction
+9,1905,A Little Princess,"Frances Hodgson Burnett, Nancy Bond",eng,Intermediate,4.2,199872,genre fiction
+10,2004,The Truth About Forever,Sarah Dessen,en-US,Intermediate,4.13,179415,genre fiction
+11,1954,The horse and his boy,C.S. Lewis,eng,Intermediate,3.9,189671,fiction
+12,2010,Last Sacrifice ,Richelle Mead,eng,Famous,4.42,206792,genre fiction
+13,1935,Little House on the Prairie,"Laura Ingalls Wilder, Garth Williams",eng,Intermediate,4.18,195424,genre fiction
+14,1922,The Velveteen Rabbit,"Margery Williams Bianco, William   Nicholson",eng,Intermediate,4.29,173469,genre fiction
+15,1974,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,eng,Intermediate,3.76,139411,genre fiction
+16,1897,The War of the Worlds,"H.G. Wells, Arthur C. Clarke",eng,Intermediate,3.8,159752,genre fiction
+17,2006,Pretty Little Liars,Sara Shepard,en-US,Intermediate,3.9,156328,genre fiction
+18,1948,Corduroy,Don Freeman,en-US,Intermediate,4.28,160860,genre fiction
+19,2006,The Omnivore's Dilemma,Michael Pollan,eng,Intermediate,4.17,133271,genre fiction
+20,2013,Life After Life,Kate Atkinson,eng,Intermediate,3.74,138454,genre fiction
+21,2000,The Rescue,Nicholas Sparks,en-US,Intermediate,4.1,142092,genre fiction
+22,1991,Needful Things,Stephen King,,Intermediate,3.87,153821,genre fiction
+23,1993,Voyager,Diana Gabaldon,eng,Intermediate,4.38,157395,genre fiction
+24,1996,,"Kenneth Branagh, William Shakespeare",eng,Intermediate,4.12,156869,genre fiction
+25,1981,Cujo,Stephen King,spa,Intermediate,3.65,158215,genre fiction
+26,1993,The Virgin Suicides,Jeffrey Eugenides,eng,Intermediate,3.83,159249,genre fiction
+27,2004,Dead to the World,Charlaine Harris,eng,Intermediate,4.13,199572,genre fiction
+28,1891,Tess of the d'Urbervilles: A Pure Woman Faithfully Presented,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet",eng,Intermediate,3.77,171599,nonfiction
+29,1856,Madame Bovary,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",eng,Intermediate,3.64,158877,genre fiction
+30,1961,The Phantom Tollbooth,"Norton Juster, Jules Feiffer",en-US,Intermediate,4.22,178432,genre fiction
+31,2010,The Way of Kings,Brandon Sanderson,eng,Famous,4.64,144822,genre fiction
+32,2003,Club Dead,Charlaine Harris,en-GB,Intermediate,4.03,181323,genre fiction
+33,2006,It's Kind of a Funny Story,Ned Vizzini,en-US,Intermediate,4.14,161001,nonfiction
+34,2007,,Brandon Sanderson,eng,Intermediate,4.35,150736,genre fiction
+35,2015,After You,Jojo Moyes,eng,Intermediate,3.7,99342,genre fiction
+36,2011,The Language of Flowers,Vanessa Diffenbaugh,eng,Intermediate,4.07,140076,genre fiction
+37,1986,Batman: The Dark Knight Returns,"Frank Miller, Klaus Janson, Lynn Varley",eng,Intermediate,4.25,135979,genre fiction
+38,2005,The Angel Experiment,James Patterson,eng,Intermediate,4.08,172302,genre fiction
+39,1995,High Fidelity,Nick Hornby,eng,Intermediate,3.94,134849,genre fiction
+40,2003,The Guardian,Nicholas Sparks,en-US,Intermediate,4.14,136427,genre fiction
+41,2003,Oryx and Crake,Margaret Atwood,eng,Intermediate,4,151500,genre fiction
+42,1998,"Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships",John Gray,en-US,Intermediate,3.52,113915,genre fiction
+43,2000,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,eng,Intermediate,4,134177,genre fiction
+44,1999,Timeline,Michael Crichton,en-US,Intermediate,3.83,148563,genre fiction
+45,1759,Candide,Voltaire,eng,Intermediate,3.76,151471,genre fiction
+46,1975,Tuck Everlasting,Natalie Babbitt,eng,Intermediate,3.85,174280,nonfiction
+47,1983,Christine,"Stephen King, Marie Milpois",fre,Intermediate,3.72,151160,nonfiction
+48,1960,Are You My Mother?,P.D. Eastman,eng,Intermediate,4.16,174204,genre fiction
+49,1950,The Story of Art,E.H. Gombrich,en-US,Intermediate,3.83,164708,genre fiction
+50,2013,Scarlet,Marissa Meyer,eng,Intermediate,4.3,193766,genre fiction
+51,1997,"Rich Dad , Poor Dad",Robert T. Kiyosaki,eng,Intermediate,3.95,153764,genre fiction
+52,2011,Silence ,Becca Fitzpatrick,eng,Intermediate,4.16,190722,genre fiction
+53,2009,The Magicians,Lev Grossman,eng,Novice,3.47,147908,genre fiction
+54,2004,ãƒ‡ã‚¹ãƒŽãƒ¼ãƒˆ #1 (Desu NÅto) Taikutsu (é€€å±ˆ),"Tsugumi Ohba, Takeshi Obata",eng,Famous,4.42,139501,genre fiction
+55,2003,A Great and Terrible Beauty,Libba Bray,eng,Intermediate,3.79,173613,genre fiction
+56,2002,Everything Is Illuminated,Jonathan Safran Foer,eng,Intermediate,3.9,131492,genre fiction
+57,1986,The Bourne Supremacy,Robert Ludlum,en-US,Intermediate,4.09,142168,genre fiction
+58,2012,Easy,Tammara Webber,en-CA,Intermediate,4.11,133937,genre fiction
+59,1849,David Copperfield,"Charles Dickens, Jeremy Tambling",eng,Intermediate,3.96,150512,genre fiction
+60,2007,The Absolutely True Diary of a Part-Time Indian,"Sherman Alexie, Ellen Forney",eng,Intermediate,4.11,160607,genre fiction
+61,1967,ÐœÐ°ÑÑ‚ÐµÑ€ Ð¸ ÐœÐ°Ñ€Ð³Ð°Ñ€Ð¸Ñ‚Ð°,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer",eng,Intermediate,4.32,131389,genre fiction
+62,1968,A Wizard of Earthsea,Ursula K. Le Guin,en-US,Intermediate,3.99,155042,genre fiction
+63,2000,Because of Winn-Dixie,"Kate DiCamillo, Chris Sheban",eng,Intermediate,4,154476,genre fiction
+64,1959,A Separate Peace,John Knowles,en-US,Intermediate,3.56,155901,genre fiction
+65,1995,The Rainmaker,John Grisham,eng,Intermediate,3.91,137412,genre fiction
+66,1605,Don Quijote de La Mancha,"Miguel de Cervantes Saavedra, Roberto GonzÃ¡lez EchevarrÃ­a, John Rutherford",eng,Intermediate,3.85,134931,genre fiction
+67,1995,Assassin's Apprentice,Robin Hobb,eng,Intermediate,4.14,132777,genre fiction
+68,1980,The Restaurant at the End of the Universe,Douglas Adams,eng,Intermediate,4.22,153838,genre fiction
+69,2010,Torment,Lauren Kate,eng,Intermediate,3.89,174393,genre fiction
+70,1901,The Tale of Peter Rabbit,Beatrix Potter,eng,Intermediate,4.17,162373,genre fiction
+71,1953,The Silver Chair,"C.S. Lewis, Pauline Baynes",eng,Intermediate,3.95,170453,genre fiction
+72,2008,The Hero of Ages,Brandon Sanderson,eng,Famous,4.46,143622,nonfiction
+73,1993,"Girl, Interrupted",Susanna Kaysen,eng,Intermediate,3.9,145161,genre fiction
+74,2007,"Are You There, Vodka? It's Me, Chelsea",Chelsea Handler,,Intermediate,3.85,127096,genre fiction
+75,1970,Jonathan Livingston Seagull,"Richard Bach, Russell Munson",en-US,Intermediate,3.8,133728,genre fiction
+76,2014,City of Heavenly Fire,Cassandra Clare,eng,Famous,4.48,177796,genre fiction
+77,1986,Love You Forever,"Robert Munsch, Sheila McGraw",en-GB,Intermediate,4.34,159703,genre fiction
+78,2006,Cell,Stephen King,en-US,Intermediate,3.64,144591,genre fiction
+79,2013,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,eng,Intermediate,4.32,113565,genre fiction
+80,1977,The Silmarillion,"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",eng,Intermediate,3.87,134106,genre fiction
+81,1987,The Drawing of the Three,Stephen King,eng,Intermediate,4.23,139052,nonfiction
+82,2008,The Forgotten Garden,Kate Morton,en-GB,Intermediate,4.12,138377,genre fiction
+83,1925,Der ProzeÃŸ,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod",eng,Intermediate,3.98,131856,genre fiction
+84,2002,This Lullaby,Sarah Dessen,eng,Intermediate,4.03,151829,genre fiction
+85,2000,Plain Truth,Jodi Picoult,eng,Intermediate,3.97,128406,genre fiction
+86,2010,Orange Is the New Black: My Year in a Women's Prison,Piper Kerman,eng,Intermediate,3.7,127186,fiction
+87,1902,The Hound of the Baskervilles,"Arthur Conan Doyle, Anne Perry",eng,Intermediate,4.09,154517,genre fiction
+88,2011,"Thinking, Fast and Slow",Daniel Kahneman,eng,Intermediate,4.08,136950,genre fiction
+89,1982,The Mists of Avalon,Marion Zimmer Bradley,eng,Intermediate,4.12,157736,genre fiction
+90,1970,"Are You There God? It's Me, Margaret",Judy Blume,eng,Intermediate,3.89,151789,genre fiction
+91,2002,Nights in Rodanthe,Nicholas Sparks,eng,Intermediate,3.82,129807,genre fiction
+92,2014,Mr. Mercedes,Stephen King,eng,Intermediate,3.92,125847,genre fiction
+93,2007,All Together Dead,Charlaine Harris,eng,Intermediate,4.05,162689,genre fiction
+94,1997,Midwives,Chris Bohjalian,en-US,Intermediate,3.97,133155,genre fiction
+95,1985,The Polar Express,Chris Van Allsburg,en-US,Intermediate,4.29,168001,nonfiction
+96,1989,The True Story of the Three Little Pigs,"Jon Scieszka, Lane Smith",en-GB,Intermediate,4.29,141945,genre fiction
+97,1987,Patriot Games,Tom Clancy,eng,Intermediate,4.11,141674,genre fiction
+98,1998,Veronika decide morrer,"Paulo Coelho, Margaret Jull Costa",eng,Intermediate,3.69,111856,genre fiction
+99,2013,"Lean In: Women, Work, and the Will to Lead","Sheryl Sandberg, Nell Scovell",eng,Intermediate,3.94,135635,genre fiction
+100,2005,Dead as a Doornail ,Charlaine Harris,eng,Intermediate,4.01,169560,genre fiction
+101,2011,"Shatter Me (Shatter Me, #1)",Tahereh Mafi,en-US,Intermediate,4.01,176433,fiction
+102,1959,Starship Troopers,Robert A. Heinlein,en-CA,Intermediate,3.99,136886,genre fiction
+103,2011,I've Got Your Number,Sophie Kinsella,eng,Intermediate,3.93,144533,genre fiction
+104,1991,Sofies Verden,"Jostein Gaarder, Paulette MÃ¸ller",eng,Intermediate,3.88,109692,genre fiction
+105,2011,,Mark Cotta Vaz,eng,Intermediate,4.3,188136,genre fiction
+106,1950,The Martian Chronicles,Ray Bradbury,en-US,Intermediate,4.12,143236,genre fiction
+107,2010,A Visit From the Goon Squad,Jennifer Egan,eng,Intermediate,3.64,120126,genre fiction
+108,1880,Heidi,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",eng,Intermediate,3.97,144497,genre fiction
+109,2002,Prey,Michael Crichton,,Intermediate,3.72,131352,genre fiction
+110,1956,The Last Battle,C.S. Lewis,eng,Intermediate,4.02,158701,genre fiction
+111,2007,World Without End,Ken Follett,eng,Intermediate,4.23,128715,genre fiction
+112,2008,Chosen: A House of Night Novel,"P.C. Cast, Kristin Cast",en-US,Intermediate,3.9,180961,fiction
+113,2012,Slammed,Colleen Hoover,eng,Intermediate,4.29,153882,genre fiction
+114,2007,"Beastly (Beastly, #1, Kendra Chronicles, #1)",Alex Flinn,eng,Intermediate,3.84,150003,genre fiction
+115,1390,Tales of Caunterbury,"Geoffrey Chaucer, Nevill Coghill",eng,Novice,3.48,148480,genre fiction
+116,2006,Baby Proof,Emily Giffin,en-US,Intermediate,3.71,124371,nonfiction
+117,2011,Inheritance,Christopher Paolini,en-US,Intermediate,4.08,146905,nonfiction
+118,2009,ã„ã¡ãã‚…ã†ã¯ã¡ã‚ˆã‚“ [Ichi-KyÅ«-Hachi-Yon],"Haruki Murakami, Jay Rubin, Philip Gabriel",eng,Intermediate,3.89,125195,genre fiction
+119,1852,Uncle Tom's Cabin or Life Among the Lowly,Harriet Beecher Stowe,eng,Intermediate,3.83,137858,fiction
+120,1909,Le FantÃ´me de l'OpÃ©ra,"Gaston Leroux, Alexander Teixeira de Mattos",eng,Intermediate,3.97,141110,genre fiction
+121,2006,"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris,en-US,Intermediate,4.02,163054,genre fiction
+122,1995,Ensaio Sobre a Cegueira,"JosÃ© Saramago, Giovanni Pontiero",en-US,Intermediate,4.08,98738,genre fiction
+123,2010,Freedom,Jonathan Franzen,en-US,Intermediate,3.73,119213,genre fiction
+124,2011,Crossed,Ally Condie,eng,Intermediate,3.52,100886,genre fiction
+125,2006,"I'd Tell You I Love You, But Then I'd Have to Kill You",Ally Carter,en-US,Intermediate,3.82,150222,genre fiction
+126,2008,The White Tiger,Aravind Adiga,eng,Intermediate,3.71,114531,genre fiction
+127,2001,The Corrections,Jonathan Franzen,eng,Intermediate,3.78,117657,genre fiction
+128,1995,Dreams from My Father,Barack Obama,eng,Intermediate,3.81,128961,nonfiction
+129,1980,Congo,Michael Crichton,eng,Intermediate,3.55,129811,nonfiction
+130,1972,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Judith Viorst, Ray Cruz",en-CA,Intermediate,4.22,146073,genre fiction
+131,1999,Interpreter of Maladies,Jhumpa Lahiri,eng,Intermediate,4.12,110651,genre fiction
+132,1980,A People's History of the United States: 1492 to Present ,Howard Zinn,eng,Intermediate,4.07,137372,genre fiction
+133,1958,Breakfast at Tiffany's,Truman Capote,eng,Intermediate,3.89,129778,genre fiction
+134,2010,The Passage,Justin Cronin,eng,Intermediate,4.04,126993,genre fiction
+135,2005,Anansi Boys,Neil Gaiman,eng,Intermediate,4,137639,nonfiction
+136,2009,Along for the Ride,Sarah Dessen,eng,Intermediate,4.08,151721,genre fiction
+137,2014,Everything I Never Told You,Celeste Ng,eng,Intermediate,3.78,108703,genre fiction
+138,1982,La casa de los espÃ­ritus,"Isabel Allende, Magda Bogin",en-US,Intermediate,4.2,119930,genre fiction
+139,1979,The Dead Zone,Stephen King,en-US,Intermediate,3.9,132723,genre fiction
+140,1920,The Mysterious Affair at Styles,"Agatha Christie, Î¡Î¿Î¶Î¯Ï„Î± Î£ÏŽÎºÎ¿Ï…",eng,Intermediate,3.98,135514,genre fiction
+141,1934,Murder in the Calais Coach,Agatha Christie,eng,Intermediate,4.16,138444,genre fiction
+142,2013,Americanah,Chimamanda Ngozi Adichie,eng,Intermediate,4.26,113252,genre fiction
+143,2001,Suzanne's Diary for Nicholas,James Patterson,eng,Intermediate,4.16,121398,genre fiction
+144,1980,Firestarter,Stephen King,eng,Intermediate,3.85,142213,genre fiction
+145,2013,Entwined with You,Sylvia Day,eng,Intermediate,4.19,141641,genre fiction
+146,2009,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Christopher McDougall,eng,Intermediate,4.27,109642,genre fiction
+147,2014,The Storied Life of A.J. Fikry,Gabrielle Zevin,eng,Intermediate,3.98,115393,genre fiction
+148,1939,Mad About Madeline,Ludwig Bemelmans,en-GB,Intermediate,4.22,156726,genre fiction
+149,1937,Think and Grow Rich,Napoleon Hill,eng,Intermediate,4.17,87445,genre fiction
+150,1932,Little House In The Big Woods,"Laura Ingalls Wilder, Garth Williams",eng,Intermediate,4.16,165127,genre fiction
+151,2004,Jonathan Strange & Mr Norrell,Susanna Clarke,eng,Intermediate,3.8,133683,genre fiction
+152,2001,A Bend in the Road,Nicholas Sparks,eng,Intermediate,4.02,116800,genre fiction
+153,2013,The House of Hades,Rick Riordan,eng,Famous,4.54,159774,nonfiction
+154,2008,Gone,Michael  Grant,eng,Intermediate,3.85,144606,genre fiction
+155,2003,The Wedding,Nicholas Sparks,en-US,Intermediate,3.98,118045,genre fiction
+156,2005,1776,David McCullough,eng,Intermediate,4.06,130293,genre fiction
+157,2003,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,eng,Intermediate,3.98,112167,genre fiction
+158,2012,Beautiful Ruins,Jess Walter,eng,Intermediate,3.67,116053,genre fiction
+159,2006,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,en-US,Intermediate,3.69,110873,genre fiction
+160,1999,On Writing: A Memoir of the Craft,Stephen King,eng,Intermediate,4.31,131481,genre fiction
+161,2008,Firefly Lane,Kristin Hannah,en-US,Intermediate,4.04,121966,genre fiction
+162,1987,Sphere,Michael Crichton,eng,Intermediate,3.77,128244,genre fiction
+163,2008,Love the One You're With,Emily Giffin,en-US,Intermediate,3.7,124812,genre fiction
+164,2014,The Silkworm,"Robert Galbraith, J.K. Rowling",eng,Intermediate,4.03,120008,genre fiction
+165,1985,The Vampire Lestat,Anne Rice,eng,Intermediate,4.05,141299,genre fiction
+166,2011,State of Wonder,Ann Patchett,eng,Intermediate,3.85,124837,genre fiction
+167,2008,The Silver Linings Playbook,Matthew Quick,en-US,Intermediate,4,110939,genre fiction
+168,1869,Vingt Mille Lieues Sous les Mers,"Jules Verne, Anthony Bonner",eng,Intermediate,3.86,121112,genre fiction
+169,2005,The Constant Princess,Philippa Gregory,en-US,Intermediate,3.88,124786,genre fiction
+170,1925,Mrs Dalloway,"Virginia Woolf, Maureen Howard",en-US,Intermediate,3.78,136327,genre fiction
+171,2009,HundraÃ¥ringen som klev ut genom fÃ¶nstret och fÃ¶rsvann,"Jonas Jonasson, Rod Bradbury",en-GB,Intermediate,3.81,92275,genre fiction
+172,1998,Bag of Bones,Stephen King,en-US,Intermediate,3.87,131004,genre fiction
+173,1985,The Cider House Rules,John Irving,eng,Intermediate,4.1,124876,genre fiction
+174,1984,Thinner,"Richard Bachman, Stephen King",en-GB,Intermediate,3.66,130219,genre fiction
+175,1872,Le tour du monde en quatre-vingts jours,"Jules Verne, Michael Glencross, Brian W. Aldiss",eng,Intermediate,3.9,117108,genre fiction
+176,1994,Walk Two Moons,Sharon Creech,eng,Intermediate,3.95,129350,nonfiction
+177,2003,Onze minutos,"Paulo Coelho, Margaret Jull Costa",eng,Intermediate,3.69,102206,genre fiction
+178,1953,Nine Stories,J.D. Salinger,eng,Intermediate,4.19,105138,genre fiction
+179,2005,"Julie & Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen",Julie Powell,eng,Intermediate,3.67,121373,nonfiction
+180,2007,Unwind,Neal Shusterman,eng,Intermediate,4.18,143892,genre fiction
+181,1996,"Drums of Autumn (Outlander, #4)",Diana Gabaldon,eng,Intermediate,4.34,123736,nonfiction
+182,2013,Prodigy,Marie Lu,eng,Intermediate,4.29,149702,genre fiction
+183,1603,The Tragedie of King Lear,William Shakespeare,eng,Intermediate,3.89,135448,genre fiction
+184,1949,Death of a Salesman,Arthur Miller,eng,Novice,3.49,132061,genre fiction
+185,2007,The Choice,Nicholas Sparks,en-US,Intermediate,3.99,93479,genre fiction
+186,2012,,Kate Egan,en-US,Famous,4.51,119915,genre fiction
+187,1929,The Sound and the Fury,William Faulkner,eng,Intermediate,3.86,124665,genre fiction
+188,2005,A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle,eng,Intermediate,4.02,106211,genre fiction
+189,2002,BLEACHâ€•ãƒ–ãƒªãƒ¼ãƒâ€•ã€€1,Tite Kubo,eng,Intermediate,4.21,120004,fiction
+190,2013,,Allie Brosh,eng,Intermediate,4.17,118910,genre fiction
+191,1992,The Shadow Rising ,Robert Jordan,en-US,Intermediate,4.21,122524,nonfiction
+192,2003,Shantaram,Gregory David Roberts,eng,Intermediate,4.26,95213,genre fiction
+193,2008,From Dead to Worse,Charlaine Harris,eng,Intermediate,4.01,151095,genre fiction
+194,1991,The Waste Lands,"Stephen King, Ned Dameron",eng,Intermediate,4.24,117483,genre fiction
+195,1997,The Bone Collector,Jeffery Deaver,en-US,Intermediate,4.18,120541,genre fiction
+196,1995,Der Vorleser,"Bernhard Schlink, Carol Brown Janeway",eng,Intermediate,3.73,119911,genre fiction
+197,1967,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr., Eric Carle",eng,Intermediate,4.19,125668,genre fiction
+198,1989,Hyperion,Dan Simmons,eng,Intermediate,4.21,122225,genre fiction
+199,1947,The Pearl of the World,John Steinbeck,eng,Novice,3.41,133264,genre fiction
+200,1971,The Exorcist,William Peter Blatty,en-US,Intermediate,4.14,124467,genre fiction
+201,2009,The Short Second Life of Bree Tanner,Stephenie Meyer,eng,Intermediate,3.51,145874,genre fiction
+202,1994,Snow Falling on Cedars,David Guterson,eng,Intermediate,3.8,131945,genre fiction
+203,1976,Roots,Alex Haley,en-US,Famous,4.42,118951,genre fiction
+204,1988,Batman: The Killing Joke ,"Alan Moore, Brian Bolland, Tim Sale",eng,Intermediate,4.36,113855,genre fiction
+205,1952,Invisible Man,Ralph Ellison,eng,Intermediate,3.84,123073,genre fiction
+206,2007,A Long Way Gone. Memoirs of a Boy Soldier,Ishmael Beah,en-US,Intermediate,4.14,116260,genre fiction
+207,1971,Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien,,Intermediate,4.13,135978,genre fiction
+208,1982,Different Seasons,Stephen King,eng,Intermediate,4.34,105961,genre fiction
+209,1953,The Little House Collection,"Laura Ingalls Wilder, Garth Williams",,Intermediate,4.33,124320,genre fiction
+210,1998,The Girls' Guide to Hunting and Fishing,Melissa Bank,,Novice,3.29,113977,nonfiction
+211,2012,Wool Omnibus,Hugh Howey,eng,Intermediate,4.24,81982,genre fiction
+212,2002,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,en-US,Intermediate,4.26,118576,genre fiction
+213,1997,The Power of Now,Eckhart Tolle,eng,Intermediate,4.1,104549,genre fiction
+214,2012,Let's Pretend This Never Happened (A Mostly True Memoir),Jenny  Lawson,eng,Intermediate,3.9,118475,genre fiction
+215,2006,The Lies of Locke Lamora,Scott Lynch,eng,Intermediate,4.3,118751,genre fiction
+216,1995,Sabriel,Garth Nix,en-US,Intermediate,4.17,137047,genre fiction
+217,2009,Dead and Gone,Charlaine Harris,eng,Intermediate,4.01,145157,genre fiction
+218,2013,The Storyteller,Jodi Picoult,eng,Intermediate,4.26,109313,genre fiction
+219,2011,Obsidian,Jennifer L. Armentrout,eng,Intermediate,4.23,164832,genre fiction
+220,1982,"Life, the Universe and Everything",Douglas Adams,eng,Intermediate,4.19,131562,genre fiction
+221,2013,Crown of Midnight,Sarah J. Maas,en-CA,Famous,4.49,160485,genre fiction
+222,2004,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",Bryan Lee O'Malley,eng,Intermediate,4.18,126864,genre fiction
+223,2008,Half Broke Horses: A True Life Novel,Jeannette Walls,eng,Intermediate,4.05,110597,genre fiction
+224,1987,Mort,Terry Pratchett,eng,Intermediate,4.22,128450,genre fiction
+225,2010,"The Iron King (The Iron Fey, #1) ",Julie Kagawa,eng,Intermediate,3.92,158063,genre fiction
+226,1985,Lonesome Dove,Larry McMurtry,en-US,Famous,4.47,111498,genre fiction
+227,2003,Stiff: The Curious Lives of Human Cadavers,Mary Roach,eng,Intermediate,4.05,122502,nonfiction
+228,2011,Bloodlines,Richelle Mead,en-US,Intermediate,4.22,140599,genre fiction
+229,1998,Ender's Shadow,Orson Scott Card,eng,Intermediate,4.3,115521,nonfiction
+230,2009,Twenties Girl,Sophie Kinsella,eng,Intermediate,3.82,119105,genre fiction
+231,1982,Schindler's Ark,Thomas Keneally,eng,Intermediate,4.34,108338,genre fiction
+232,1970,The Bluest Eye,Toni Morrison,eng,Intermediate,3.99,109944,genre fiction
+233,2009,The White Queen,Philippa Gregory,eng,Intermediate,3.9,119739,genre fiction
+234,1965,The Autobiography of Malcolm X,"Malcolm X, Alex Haley",eng,Intermediate,4.29,124805,nonfiction
+235,1989,Preludes & Nocturnes,"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger",eng,Intermediate,4.3,122540,nonfiction
+236,1999,Seabiscuit,Laura Hillenbrand,en-US,Intermediate,4.2,111497,genre fiction
+237,2003,Shutter Island,Dennis Lehane,eng,Intermediate,4.07,113718,genre fiction
+238,1894,The Complete Sherlock Holmes,Arthur Conan Doyle,eng,Famous,4.5,109754,genre fiction
+239,1599,The Tragedy of Julius Caesar,"William Shakespeare, Roma Gill",eng,Intermediate,3.65,119933,genre fiction
+240,2011,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Erik Larson,eng,Intermediate,3.81,110481,genre fiction
+241,-380,Î Î¿Î»Î¹Ï„ÎµÎ¯Î±,"Plato, Desmond Lee",eng,Intermediate,3.9,110274,genre fiction
+242,1593,The Taming of the Shrew,William Shakespeare,en-US,Intermediate,3.81,126318,nonfiction
+243,2014,Cress,Marissa Meyer,eng,Famous,4.46,162069,nonfiction
+244,2010,Just Kids,Patti Smith,en-US,Intermediate,4.14,106542,genre fiction
+245,1997,,Phaidon Press,eng,Intermediate,3.79,102746,genre fiction
+246,2001,Jemima J,Jane Green,en-US,Intermediate,3.62,101436,genre fiction
+247,1831,Notre-Dame de Paris,"Victor Hugo, Walter J. Cobb",eng,Intermediate,3.97,119851,nonfiction
+248,1996,A Fine Balance,Rohinton Mistry,eng,Intermediate,4.34,99252,genre fiction
+249,1987,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau",en-US,Famous,4.61,117788,nonfiction
+250,2006,Specials,Scott Westerfeld,eng,Intermediate,3.77,139168,genre fiction
+251,1899,The Awakening,Kate Chopin,eng,Intermediate,3.63,125474,genre fiction
+252,2009,Hunted,"P.C. Cast, Kristin Cast",eng,Intermediate,3.93,138103,genre fiction
+253,2006,For One More Day,Mitch Albom,en-US,Intermediate,4.09,102193,genre fiction
+254,1989,Clear and Present Danger,Tom Clancy,eng,Intermediate,4.08,105317,genre fiction
+255,1996,Falling Up,Shel Silverstein,en-US,Intermediate,4.33,111779,genre fiction
+256,2010,Sh*t My Dad Says,Justin Halpern,,Intermediate,3.98,102560,nonfiction
+257,1993,Trainspotting,"Irvine Welsh, Eric Lindor Fall",fre,Intermediate,4.07,59453,genre fiction
+258,1952,Foundation and Empire,Isaac Asimov,eng,Intermediate,4.2,105595,genre fiction
+259,1997,"The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book",Miguel Ruiz,,Intermediate,4.12,97016,genre fiction
+260,2010,House Rules,Jodi Picoult,en-US,Intermediate,4.01,111239,nonfiction
+261,1812,BrÃ¼der Grimm: Kinder- und HausmÃ¤rchen,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern",eng,Intermediate,4.31,116324,genre fiction
+262,1967,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,eng,Intermediate,4.15,134537,genre fiction
+263,2013,Doctor Sleep,Stephen King,eng,Intermediate,4.1,95276,genre fiction
+264,1998,About a Boy,Nick Hornby,en-US,Intermediate,3.79,101999,genre fiction
+265,2012,On Dublin Street,Samantha Young,eng,Intermediate,4.24,136761,nonfiction
+266,2008,Crazy Love: Overwhelmed by a Relentless God,"Francis Chan, Danae Yankoski, Chris Tomlin",eng,Intermediate,4.15,106351,genre fiction
+267,1960,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,,Intermediate,4.12,117582,nonfiction
+268,1987,Watchers,Dean Koontz,,Intermediate,4.16,109595,genre fiction
+269,1902,The Story of My Life,Helen Keller,eng,Intermediate,4.07,107313,nonfiction
+270,2009,This Is Where I Leave You,Jonathan Tropper,eng,Intermediate,3.88,98645,genre fiction
+271,2010,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,en-US,Intermediate,3.7,106336,genre fiction
+272,1999,ãƒ•ãƒ«ãƒ¼ãƒ„ãƒã‚¹ã‚±ãƒƒãƒˆ 1,"Natsuki Takaya, Alethea Nibley, Athena Nibley",eng,Intermediate,4.23,118467,nonfiction
+273,1623,The Tempest,William Shakespeare,en-US,Intermediate,3.8,125178,genre fiction
+274,2010,Burned: A House of Night Novel,"P.C. Cast, Kristin Cast",eng,Intermediate,3.98,120763,genre fiction
+275,1997,Wizard and Glass,"Stephen King, Dave McKean",eng,Intermediate,4.24,105026,fiction
+276,2013,The Circle,Dave Eggers,eng,Novice,3.46,109412,genre fiction
+277,2007,The Invention of Hugo Cabret,Brian Selznick,eng,Intermediate,4.23,132159,genre fiction
+278,1932,Brave New World/Brave New World Revisited,"Aldous Huxley, Christopher Hitchens",eng,Intermediate,4.16,108124,genre fiction
+279,2003,æ¡œè˜­é«˜æ ¡ãƒ›ã‚¹ãƒˆéƒ¨ 1,Bisco Hatori,eng,Excellent,4.36,113881,genre fiction
+280,2014,The Good Girl,Mary Kubica,eng,Intermediate,3.81,100936,genre fiction
+281,2012,"Fallen Too Far (Too Far, #1)",Abbi Glines,eng,Excellent,4.21,138871,genre fiction
+282,2014,Landline,Rainbow Rowell,eng,Intermediate,3.55,113805,genre fiction
+283,2008,Tempted,"P.C. Cast, Kristin Cast",eng,Intermediate,3.96,127387,fiction
+284,2005,No Country for Old Men,Cormac McCarthy,eng,Excellent,4.12,100513,genre fiction
+285,2009,Wolf Hall,Hilary Mantel,eng,Intermediate,3.85,102936,genre fiction
+286,1986,Howl's Moving Castle,Diana Wynne Jones,eng,Excellent,4.3,123945,genre fiction
+287,2001,Dreamcatcher,"Stephen King, William Olivier Desmond",fre,Intermediate,3.59,115855,genre fiction
+288,1854,Walden; or Life in the Woods,Henry David Thoreau,eng,Intermediate,3.79,108062,nonfiction
+289,1989,The Remains of the Day,Kazuo Ishiguro,eng,Excellent,4.1,105892,nonfiction
+290,2010,The Best of Me,Nicholas Sparks,en-US,Intermediate,3.91,103915,genre fiction
+291,2011,The Sense of an Ending,Julian Barnes,eng,Intermediate,3.7,94968,genre fiction
+292,1982,A is for Alibi,Sue Grafton,en-US,Intermediate,3.82,116026,genre fiction
+293,-430,ÎŸá¼°Î´Î¯Ï€Î¿Ï…Ï‚ Î¤ÏÏÎ±Î½Î½Î¿Ï‚,"Sophocles, J.E. Thomas",eng,Intermediate,3.67,119496,genre fiction
+294,2009,Shanghai Girls,Lisa See,eng,Intermediate,3.87,106729,nonfiction
+295,1908,The Wind in the Willows,"Kenneth Grahame, Gillian Avery",eng,Intermediate,3.98,124612,genre fiction
+296,2014,To All the Boys I've Loved Before,Jenny Han,eng,Excellent,4.11,136938,nonfiction
+297,2000,Persepolis,"Marjane Satrapi, Mattias Ripa",eng,Excellent,4.23,117103,genre fiction
+298,1908,A Room with a View,E.M. Forster,eng,Intermediate,3.91,109994,genre fiction
+299,2010,The DUFF: Designated Ugly Fat Friend,Kody Keplinger,en-US,Intermediate,3.86,136736,genre fiction
+300,2008,Lock and Key,Sarah Dessen,eng,Excellent,4.01,120475,nonfiction
+301,1995,Naked in Death,J.D. Robb,en-US,Excellent,4.13,78028,genre fiction
+302,1994,The Chamber,John Grisham,eng,Intermediate,3.76,102715,genre fiction
+303,2008,Midnight Sun (Partial Draft),Stephenie Meyer,eng,Excellent,4.03,138118,genre fiction
+304,1999,NARUTO -ãƒŠãƒ«ãƒˆ- å·»ãƒŽä¸€ ,"Masashi Kishimoto, Katy Bridges",eng,Excellent,4.35,104633,nonfiction
+305,2012,The Unlikely Pilgrimage of Harold Fry,Rachel Joyce,eng,Intermediate,3.89,94012,genre fiction
+306,2012,Every Day,David Levithan,eng,Intermediate,3.99,121863,genre fiction
+307,1991,Xenocide,Orson Scott Card,eng,Intermediate,3.77,104467,genre fiction
+308,1596,The Merchant of Venice,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine",eng,Intermediate,3.78,115621,genre fiction
+309,1975,ShÅgun,James Clavell,eng,Excellent,4.37,104339,genre fiction
+310,2006,"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,eng,Famous,4.45,134249,genre fiction
+311,2015,A Court of Thorns and Roses,Sarah J. Maas,eng,Excellent,4.29,167848,nonfiction
+312,2012,,E.L. James,,Excellent,4.13,76876,genre fiction
+313,1989,Chicka Chicka Boom Boom,"Bill Martin Jr., John Archambault, Lois Ehlert",eng,Excellent,4.21,105192,fiction
+314,2009,Smile,Raina Telgemeier,eng,Excellent,4.19,98628,genre fiction
+315,1950, Animal Farm & 1984,"George Orwell, Christopher Hitchens",eng,Excellent,4.26,116197,genre fiction
+316,1996,The Deep End of the Ocean,Jacquelyn Mitchard,en-US,Intermediate,3.84,102733,genre fiction
+317,2001,The Bonesetter's Daughter,Amy Tan,en-US,Intermediate,3.98,99926,nonfiction
+318,1999,"Angus, Thongs and Full-Frontal Snogging",Louise Rennison,eng,Intermediate,3.74,112733,genre fiction
+319,2012,Mr. Penumbra's 24-Hour Bookstore,Robin Sloan,eng,Intermediate,3.75,110552,genre fiction
+320,1979,Flowers in the Attic,V.C. Andrews,eng,Intermediate,3.79,109063,children
+321,2016,When Breath Becomes Air,"Paul Kalanithi, Abraham Verghese",eng,Excellent,4.32,116771,genre fiction
+322,1990,Maniac Magee,Jerry Spinelli,eng,Intermediate,3.86,99831,genre fiction
+323,1999,Invisible Monsters,Chuck Palahniuk,eng,Intermediate,4,54937,genre fiction
+324,1601,"Twelfth Night; or, What You Will",William Shakespeare,eng,Intermediate,3.97,119607,genre fiction
+325,2000,Gathering Blue,Lois Lowry,eng,Intermediate,3.8,114917,genre fiction
+326,1978,The Westing Game,Ellen Raskin,eng,Excellent,4.03,117108,genre fiction
+327,2014,Red Rising,Pierce Brown,eng,Excellent,4.26,104939,genre fiction
+328,2008,The Way of Shadows,Brent Weeks,en-US,Excellent,4.15,109236,genre fiction
+329,1988,The Bean Trees,Barbara Kingsolver,eng,Intermediate,3.94,105032,children
+330,2013,Walking Disaster,Jamie McGuire,eng,Excellent,4.23,134022,genre fiction
+331,2014,Words of Radiance,Brandon Sanderson,eng,Famous,4.77,73572,genre fiction
+332,1988,Guess How Much I Love You,"Sam McBratney, Anita Jeram",en-US,Excellent,4.36,104690,genre fiction
+333,2001,The Fiery Cross,Diana Gabaldon,eng,Excellent,4.26,103552,genre fiction
+334,1978,Night Shift,"Stephen King, John D. MacDonald",en-GB,Intermediate,3.96,104248,genre fiction
+335,1974,Jaws,Peter Benchley,eng,Intermediate,3.96,102574,genre fiction
+336,2005,The History of Love,Nicole Krauss,eng,Intermediate,3.91,98379,genre fiction
+337,1945,Pippi LÃ¥ngstrump,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn",eng,Excellent,4.11,123065,genre fiction
+338,2006,L'Ã©lÃ©gance du hÃ©risson,"Muriel Barbery, Alison Anderson",eng,Intermediate,3.73,101669,genre fiction
+339,2005,Team of Rivals: The Political Genius of Abraham Lincoln,"Doris Kearns Goodwin, Suzanne Toren",eng,Excellent,4.3,102923,genre fiction
+340,2010,Dead in the Family,Charlaine Harris,en-US,Intermediate,3.88,127379,genre fiction
+341,1947,La peste,"Albert Camus, Stuart Gilbert",en-US,Intermediate,3.97,95803,genre fiction
+342,1999,The Reptile Room,"Lemony Snicket, Brett Helquist",eng,Intermediate,3.95,130213,genre fiction
+343,2012,Brain on Fire,Susannah Cahalan,eng,Intermediate,4,92849,genre fiction
+344,2007,Wicked Lovely ,Melissa Marr,en-US,Intermediate,3.69,131034,genre fiction
+345,1941,Curious George,H.A. Rey,en-CA,Excellent,4.13,105473,genre fiction
+346,1979,Die unendliche Geschichte,"Michael Ende, Ralph Manheim, Roswitha Quadflieg",eng,Excellent,4.17,109110,genre fiction
+347,1998,A Beautiful Mind,Sylvia Nasar,en-GB,Excellent,4.12,98276,genre fiction
+348,1906,The Jungle,"Upton Sinclair, Earl Lee, Kathleen DeGrave",eng,Intermediate,3.72,97468,genre fiction
+349,2008,The Summoning,Kelley Armstrong,en-US,Excellent,4.03,132285,genre fiction
+350,1985,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,en-US,Excellent,4.04,102419,nonfiction
+351,1978,Storm Island,Ken Follett,en-US,Excellent,4.16,93475,fiction
+352,2000,The Blind Assassin,Margaret Atwood,eng,Intermediate,3.95,98464,nonfiction
+353,2014,Hollow City,Ransom Riggs,eng,Excellent,4.07,73149,genre fiction
+354,1999,House of Sand and Fog,Andre Dubus III,eng,Intermediate,3.83,55381,genre fiction
+355,2014,The Girl with All the Gifts,M.R. Carey,eng,Intermediate,3.93,99729,genre fiction
+356,1930,As I Lay Dying,William Faulkner,eng,Intermediate,3.72,103547,nonfiction
+357,1955,Harold and the Purple Crayon,Crockett Johnson,eng,Excellent,4.24,107221,genre fiction
+358,2006,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,eng,Excellent,4.35,137558,nonfiction
+359,1953,,Isaac Asimov,eng,Excellent,4.23,96865,nonfiction
+360,2001,Fool Moon ,Jim Butcher,eng,Excellent,4.04,111371,genre fiction
+361,2011,David and Goliath,Malcolm Gladwell,eng,Intermediate,3.9,90083,nonfiction
+362,2002,é‹¼ã®éŒ¬é‡‘è¡“å¸« 1,"Hiromu Arakawa, Akira Watanabe",eng,Famous,4.49,93990,genre fiction
+363,1989,Guards! Guards!,Terry Pratchett,eng,Excellent,4.32,108652,genre fiction
+364,2005,The Year of Magical Thinking,Joan Didion,eng,Intermediate,3.86,94590,genre fiction
+365,2003,We Need to Talk About Kevin,Lionel Shriver,eng,Excellent,4.07,101343,genre fiction
+366,1973,Rendezvous with Rama,Arthur C. Clarke,eng,Excellent,4.06,93151,genre fiction
+367,1988,The Queen of the Damned,Anne Rice,eng,Intermediate,3.86,110693,genre fiction
+368,1920,The Age of Innocence,"Edith Wharton, Maureen Howard",eng,Intermediate,3.93,102646,genre fiction
+369,1976,The Selfish Gene,Richard Dawkins,eng,Excellent,4.11,96564,genre fiction
+370,2001,Year of Wonders: A Novel of the Plague,Geraldine Brooks,eng,Intermediate,4,104283,genre fiction
+371,1992,The Black Echo,Michael Connelly,eng,Excellent,4.08,98591,nonfiction
+372,1938,Anthem,Ayn Rand,eng,Intermediate,3.62,95620,genre fiction
+373,2011,Gabriel's Inferno,Sylvain Reynard,eng,Excellent,4.02,119633,genre fiction
+374,1978,Cloudy with a Chance of Meatballs,"Judi Barrett, Ron Barrett",eng,Excellent,4.15,104677,genre fiction
+375,2010,Major Pettigrew's Last Stand,Helen Simonson,eng,Intermediate,3.87,97745,genre fiction
+376,2009,Vision in White,Nora Roberts,eng,Excellent,4.1,103933,genre fiction
+377,2006,The Tenth Circle,Jodi Picoult,eng,Novice,3.48,99170,genre fiction
+378,2011,The Throne of Fire,Rick Riordan,eng,Excellent,4.2,116360,nonfiction
+379,2005,Old Man's War,John Scalzi,eng,Excellent,4.23,97653,genre fiction
+380,1992,Gerald's Game,Stephen King,eng,Famous,3.47,100158,fiction
+381,1996,Two for the Dough,Janet Evanovich,eng,Excellent,4.11,116171,nonfiction
+382,1931,The Joy of Cooking,"Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker",,Excellent,4.14,102348,fiction
+383,1974,The Forever War,Joe Haldeman,eng,Excellent,4.15,87636,genre fiction
+384,1994,Insomnia,"Stephen King, Bettina Blanch Tyroller",spa,Intermediate,3.79,100972,genre fiction
+385,2003,Reading Lolita in Tehran: A Memoir in Books,Azar Nafisi,eng,Intermediate,3.57,94696,genre fiction
+386,2006,The Blade Itself,Joe Abercrombie,eng,Excellent,4.14,97501,genre fiction
+387,2002,The Arctic Incident,Eoin Colfer,eng,Intermediate,3.94,108031,nonfiction
+388,1993,The Shipping News,Annie Proulx,eng,Intermediate,3.83,103151,genre fiction
+389,2011,äººç”ŸãŒã¨ãã‚ãç‰‡ã¥ã‘ã®é­”æ³•,"Marie KondÅ, Cathy Hirano",eng,Intermediate,3.77,105063,genre fiction
+390,2015,All the Bright Places,"Jennifer Niven, ÙØ±Ø§Ù†Ú© Ù…Ø¹Ù†ÙˆÛŒ",eng,Excellent,4.19,132087,genre fiction
+391,1997,DÃ©jÃ  Dead,Kathy Reichs,eng,Intermediate,3.86,100369,genre fiction
+392,2007,The Alchemyst: The Secrets of The Immortal Nicholas Flamel,Michael Scott,eng,Intermediate,3.84,58396,genre fiction
+393,2011,The Marriage Plot,Jeffrey Eugenides,eng,Novice,3.42,90551,genre fiction
+394,1998,Hija de la fortuna,"Isabel Allende, Margaret Sayers Peden",eng,Intermediate,3.89,89770,genre fiction
+395,2015,Luckiest Girl Alive,Jessica Knoll,eng,Novice,3.48,82504,genre fiction
+396,2004,"Crank (Crank, #1)",Ellen Hopkins,eng,Excellent,4.16,104168,genre fiction
+397,2012,The Raven Boys,Maggie Stiefvater,eng,Excellent,4.05,121727,nonfiction
+398,1954,I Am Legend and Other Stories,Richard Matheson,eng,Intermediate,3.99,98795,genre fiction
+399,2008,Olive Kitteridge,Elizabeth Strout,eng,Intermediate,3.78,85019,genre fiction
+400,2014,Not that Kind of Girl,"Lena Dunham, Joana Avillez",eng,Novice,3.33,88251,nonfiction
+401,2001,Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins,eng,Excellent,4.04,85277,genre fiction
+402,2009,Fire,Kristin Cashore,en-US,Excellent,4.12,98180,genre fiction
+403,1952,En attendant Godot,Samuel Beckett,eng,Intermediate,3.81,98950,genre fiction
+404,1906,White Fang,Jack London,eng,Intermediate,3.94,100223,genre fiction
+405,2003,Wolves of the Calla,"Stephen King, Bernie Wrightson",eng,Excellent,4.17,98182,genre fiction
+406,2000,His Dark Materials,Philip Pullman,eng,Excellent,4.25,88227,genre fiction
+407,2012,The Edge of Never,J.A. Redmerski,en-US,Excellent,4.26,117508,genre fiction
+408,2013,Reconstructing Amelia,Kimberly McCreight,eng,Intermediate,3.82,86965,nonfiction
+409,2014,The One Plus One,Jojo Moyes,eng,Intermediate,3.94,87412,genre fiction
+410,1998,The Hours,Michael Cunningham,en-US,Intermediate,3.91,97462,genre fiction
+411,2012,Wallbanger,Alice Clayton,eng,Excellent,4.1,134805,nonfiction
+412,1997,Holidays on Ice,David Sedaris,eng,Intermediate,3.95,82591,genre fiction
+413,1996,Desperation,Stephen King,eng,Intermediate,3.8,94821,genre fiction
+414,2011,Passion,Lauren Kate,eng,Intermediate,3.89,119735,genre fiction
+415,2012,The Kill Order,James Dashner,eng,Intermediate,3.69,96568,genre fiction
+416,2011,Angelfall,Susan Ee,en-US,Excellent,4.19,73886,genre fiction
+417,2001,Empire Falls,Richard Russo,eng,Intermediate,3.91,90811,genre fiction
+418,1993,The Fires of Heaven,Robert Jordan,en-US,Excellent,4.13,93227,children
+419,2014,I'll Give You the Sun,Jandy Nelson,eng,Excellent,4.14,140937,genre fiction
+420,1999,Survivor,Chuck Palahniuk,en-US,Intermediate,3.93,49551,genre fiction
+421,2007,Shopaholic and Baby,Sophie Kinsella,eng,Intermediate,3.77,98130,genre fiction
+422,2004,The Dark Tower,Stephen King,en-US,Excellent,4.27,93296,genre fiction
+423,2009,Twilight Director's Notebook,Catherine Hardwicke,en-US,Excellent,4.2,88847,genre fiction
+424,2001,Shopaholic Abroad,Sophie Kinsella,en-US,Intermediate,3.75,93498,genre fiction
+425,1984,"Surely You're Joking, Mr. Feynman! Adventures of a Curious Character",Richard Feynman,en-US,Excellent,4.29,91625,genre fiction
+426,2010,Linger,Maggie Stiefvater,en-US,Intermediate,3.91,125363,genre fiction
+427,1908,The Complete Anne of Green Gables Boxed Set,L.M. Montgomery,,Famous,4.42,92142,genre fiction
+428,1916,A Portrait of the Artist as a Young Man,"James Joyce, Seamus Deane",eng,Intermediate,3.6,92569,fiction
+429,2009,The Gathering Storm,"Robert Jordan, Brandon Sanderson",eng,Excellent,4.34,94095,genre fiction
+430,1871,Middlemarch,"George Eliot, Michel Faber",eng,Intermediate,3.93,95995,nonfiction
+431,2012,Point of Retreat,Colleen Hoover,eng,Excellent,4.3,109344,genre fiction
+432,1997,The Partner,John Grisham,,Intermediate,3.89,86870,genre fiction
+433,1973,The Hobbit and The Lord of the Rings,J.R.R. Tolkien,eng,Famous,4.59,90907,genre fiction
+434,2009,Thoughtless,S.C. Stephens,eng,Excellent,4.12,90483,genre fiction
+435,1986,Presumed Innocent,Scott Turow,,Excellent,4.1,91774,genre fiction
+436,1989,The Dark Half,Stephen King,eng,Intermediate,3.74,94624,genre fiction
+437,2006,Cleopatra: A Life,Stacy Schiff,eng,Intermediate,3.62,73994,genre fiction
+438,2005,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,en-US,Intermediate,3.66,78271,genre fiction
+439,2013,Steelheart,Brandon Sanderson,eng,Excellent,4.16,76261,genre fiction
+440,1995,,"Marcus Pfister, J. Alison James",en-US,Excellent,4.15,95421,genre fiction
+441,1864,Voyage au centre de la Terre,Jules Verne,eng,Intermediate,3.84,89410,nonfiction
+442,2009,The Happiness Project,Gretchen Rubin,eng,Intermediate,3.57,94456,genre fiction
+443,1962,The Man in the High Castle,Philip K. Dick,eng,Intermediate,3.66,84180,genre fiction
+444,1974,Helter Skelter: The True Story of The Manson Murders,"Vincent Bugliosi, Curt Gentry",en-GB,Intermediate,4,92158,genre fiction
+445,,,"Robert Kapilow, Dr. Seuss",,Famous,4.44,90574,nonfiction
+446,1320,Inferno,"Dante Alighieri, Anthony M. Esolen",,Intermediate,3.99,87511,fiction
+447,2012,Shadow of Night,Deborah Harkness,eng,Excellent,4.04,97925,genre fiction
+448,2014,Leaving Time,Jodi Picoult,eng,Intermediate,3.94,76553,fiction
+449,2006,Moon Called,Patricia Briggs,eng,Excellent,4.18,129150,genre fiction
+450,2006,Blue Bloods,Melissa de la Cruz,en-US,Intermediate,3.68,116687,genre fiction
+451,1994,The Alienist,Caleb Carr,eng,Excellent,4.05,96981,genre fiction
+452,2015,Between the World and Me,Ta-Nehisi Coates,eng,Famous,4.4,74218,genre fiction
+453,1667,Paradise Lost,"John Milton, John      Leonard",eng,Intermediate,3.8,96316,genre fiction
+454,2009,The Big Short: Inside the Doomsday Machine,Michael   Lewis,en-US,Excellent,4.26,37090,fiction
+455,1999,The Girl Who Loved Tom Gordon,Stephen King,,Intermediate,3.56,95768,nonfiction
+456,2011, A Monster Calls ,"Patrick Ness, Jim Kay, Siobhan Dowd",eng,Excellent,4.36,104579,genre fiction
+457,2010,Towers of Midnight,"Robert Jordan, Brandon Sanderson",en-US,Famous,4.42,91383,fiction
+458,1971,The Day of the Jackal,Frederick Forsyth,eng,Excellent,4.25,85883,genre fiction
+459,2010,Rework,"Jason Fried, David Heinemeier Hansson",eng,Intermediate,3.93,88626,genre fiction
+460,2011,Attachments,Rainbow Rowell,eng,Intermediate,3.95,105414,genre fiction
+461,2005,The Twilight Saga,"Stephenie Meyer, Ilyana Kadushin, Matt Walters",,Intermediate,3.88,89204,genre fiction
+462,2012,Tell the Wolves I'm Home,Carol Rifka Brunt,eng,Excellent,4.04,85582,genre fiction
+463,1972,All Creatures Great And Small,James Herriot,eng,Excellent,4.31,64779,genre fiction
+464,2011,The Unbecoming of Mara Dyer,Michelle Hodkin,eng,Excellent,4.09,83847,fiction
+465,1997,Three to Get Deadly,Janet Evanovich,en-US,Excellent,4.14,113400,genre fiction
+466,1905,The Scarlet Pimpernel,Emmuska Orczy,eng,Excellent,4.06,93217,fiction
+467,1971,The Monster at the End of This Book,"Jon Stone, Michael J. Smollin",eng,Famous,4.45,102184,genre fiction
+468,1972,Tales of a Fourth Grade Nothing,Judy Blume,eng,Excellent,4.09,106435,genre fiction
+469,2012,Shadow and Bone,Leigh Bardugo,eng,Excellent,4.05,135225,fiction
+470,2009,Het diner,"Herman Koch, Sam Garrett",eng,Novice,3.22,74979,genre fiction
+471,2013,Champion,Marie Lu,eng,Excellent,4.37,114623,nonfiction
+472,1985,Contact,Carl Sagan,eng,Excellent,4.11,90917,genre fiction
+473,2011,Lola and the Boy Next Door,Stephanie Perkins,en-US,Intermediate,4,108370,genre fiction
+474,1999,White Teeth,Zadie Smith,en-US,Intermediate,3.75,82474,fiction
+475,2012,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,"Chris Kyle, Scott McEwen, Jim DeFelice",eng,Intermediate,3.97,61422,genre fiction
+476,2004,My Horizontal Life: A Collection of One-Night Stands,Chelsea Handler,en-GB,Intermediate,3.79,83607,nonfiction
+477,2011,The Power of Six,Pittacus Lore,eng,Excellent,4.17,97938,fiction
+478,2013,The Interestings,Meg Wolitzer,eng,Intermediate,3.54,76566,genre fiction
+479,1988,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson,en-US,Famous,4.65,93001,genre fiction
+480,2008,People of the Book,Geraldine Brooks,eng,Intermediate,4,95796,genre fiction
+481,2012,The Secret Keeper,Kate Morton,,Excellent,4.13,89460,genre fiction
+482,1953,Better Homes & Gardens New Cook Book,Better Homes and Gardens,,Excellent,4.14,93640,nonfiction
+483,1984,"So Long, and Thanks for All the Fish",Douglas Adams,eng,Excellent,4.08,93774,genre fiction
+484,1927,Der Steppenwolf: ErzÃ¤hlung,"Hermann Hesse, Basil Creighton",eng,Excellent,4.11,80769,fiction
+485,2001,The Surgeon,Tess Gerritsen,en-GB,Excellent,4.1,89468,nonfiction
+486,2012,The Girl You Left Behind,Jojo Moyes,eng,Intermediate,3.95,80991,genre fiction
+487,1996,Royal Assassin,Robin Hobb,eng,Excellent,4.21,82608,fiction
+488,1953,Childhood's End,Arthur C. Clarke,en-US,Excellent,4.09,87141,genre fiction
+489,2004, The Tale of Despereaux,"Kate DiCamillo, Timothy Basil Ering",en-US,Intermediate,4,113066,genre fiction
+490,2007,"Animal, Vegetable, Miracle: A Year of Food Life","Barbara Kingsolver, Steven L. Hopp, Camille Kingsolver, Richard A. Houser",en-US,Excellent,4.03,83881,genre fiction
+491,2014,Heir of Fire,Sarah J. Maas,eng,Famous,4.53,123843,genre fiction
+492,1994,,Robert Jordan,eng,Excellent,4.1,91046,fiction
+493,2009,The Sweetness at the Bottom of the Pie,Alan Bradley,eng,Intermediate,3.81,99841,genre fiction
+494,2003,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Donald Miller,en-US,Intermediate,3.92,82090,genre fiction
+495,2005,A Breath of Snow and Ashes,Diana Gabaldon,eng,Famous,4.43,87098,nonfiction
+496,2014,The Blood of Olympus,Rick Riordan,eng,Famous,4.41,110719,genre fiction
+497,2016,Truly Madly Guilty,Liane Moriarty,eng,Intermediate,3.55,90477,genre fiction
+498,2012,"Saga, Volume One","Brian K. Vaughan, Fiona Staples",eng,Excellent,4.25,131906,genre fiction
+499,2011,The Art of Fielding,Chad Harbach,eng,Intermediate,3.99,81712,genre fiction
+500,1964,A Moveable Feast,Ernest Hemingway,eng,Excellent,4.04,69992,genre fiction
+501,2006,Fablehaven,Brandon Mull,eng,Excellent,4.08,99390,genre fiction
+502,2000,The Wide Window,"Lemony Snicket, Brett Helquist",eng,Intermediate,3.91,118624,genre fiction
+503,2001,Grave Peril,Jim Butcher,eng,Excellent,4.18,97736,nonfiction
+504,2007,Einstein. His Life and Universe,Walter Isaacson,eng,Excellent,4.08,71156,nonfiction
+505,2011,Effortless,S.C. Stephens,eng,Excellent,4.37,83085,genre fiction
+506,1998,The Street Lawyer,John Grisham,eng,Intermediate,3.81,80577,genre fiction
+507,1976,"Roll of Thunder, Hear My Cry",Mildred D. Taylor,eng,Intermediate,3.79,92980,nonfiction
+508,2009,Pride and Prejudice and Zombies,"Seth Grahame-Smith, Jane Austen",eng,Novice,3.28,103995,genre fiction
+509,2013,Lets Explore Diabetes with Owls,David Sedaris,eng,Intermediate,3.8,81616,genre fiction
+510,1868,Ð˜Ð´Ð¸Ð¾Ñ‚,"Fyodor Dostoyevsky, Constance Garnett, Alan Myers, Joseph Frank, Anna Brailovsky",eng,Excellent,4.18,74642,fiction
+511,1987,Dirk Gently's Holistic Detective Agency,Douglas Adams,en-US,Intermediate,3.97,89569,nonfiction
+512,2008,Rodrick Rules,Jeff Kinney,en-US,Excellent,4.1,91831,genre fiction
+513,2015,Why Not Me?,Mindy Kaling,eng,Intermediate,3.89,74199,genre fiction
+514,2014,Four: A Divergent Collection,Veronica Roth,eng,Excellent,4.1,97058,fiction
+515,2015,Modern Romance,"Aziz Ansari, Eric Klinenberg",eng,Intermediate,3.85,94231,genre fiction
+516,2012,The One and Only Ivan,"Katherine Applegate, Patricia Castelao",eng,Excellent,4.24,85136,genre fiction
+517,1997,The Perfect Storm: A True Story of Men Against the Sea,Sebastian Junger,en-US,Excellent,4.07,45382,genre fiction
+518,2005,Elantris,Brandon Sanderson,eng,Excellent,4.17,95950,genre fiction
+519,2008,The Knife of Never Letting Go,Patrick Ness,eng,Intermediate,3.96,99638,genre fiction
+520,1998,One Thousand White Women: The Journals of May Dodd,Jim Fergus,eng,Intermediate,3.88,84367,genre fiction
+521,2009,Handle with Care,Jodi Picoult,eng,Intermediate,3.96,90138,fiction
+522,2004,Song of Susannah,"Stephen King, Darrel Anderson",eng,Intermediate,3.98,84957,genre fiction
+523,2012,Reached,Ally Condie,,Intermediate,3.56,109290,genre fiction
+524,1981,Midnight's Children,Salman Rushdie,eng,Intermediate,3.99,75502,nonfiction
+525,2004,The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks,eng,Intermediate,3.86,82535,genre fiction
+526,1999,The Testament,John Grisham,,Intermediate,3.83,80377,nonfiction
+527,1930,Murder at the Vicarage,Agatha Christie,eng,Excellent,4.03,93963,nonfiction
+528,1998,Among the Hidden ,Margaret Peterson Haddix,eng,Intermediate,3.97,94478,genre fiction
+529,2007,In Defense of Food: An Eater's Manifesto,Michael Pollan,en-US,Excellent,4.07,80434,genre fiction
+530,1958,The Witch of Blackbird Pond,Elizabeth George Speare,en-US,Intermediate,3.97,105770,nonfiction
+531,2015,The Heir,Kiera Cass,eng,Intermediate,3.85,111044,genre fiction
+532,2002,Shopaholic Ties the Knot,Sophie Kinsella,eng,Intermediate,3.77,88139,genre fiction
+533,1859,The Woman in White,"Wilkie Collins, Matthew Sweet",eng,Intermediate,3.98,93134,genre fiction
+534,2015,Career of Evil,"Robert Galbraith, J.K. Rowling",eng,Excellent,4.21,66979,genre fiction
+535,2009,The Summer I Turned Pretty,Jenny Han,en-US,Intermediate,3.96,104730,genre fiction
+536,1998,Four to Score ,Janet Evanovich,en-US,Excellent,4.17,106871,genre fiction
+537,1996,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,en-US,Excellent,4.06,80906,genre fiction
+538,2009,"SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance","Steven D. Levitt, Stephen J. Dubner",en-US,Intermediate,3.95,85006,genre fiction
+539,2006,Darkfever,Karen Marie Moning,eng,Excellent,4.14,110812,genre fiction
+540,1995,Stone of Tears,Terry Goodkind,en-US,Excellent,4.1,83235,genre fiction
+541,2010,Heart of the Matter,Emily Giffin,en-US,Intermediate,3.73,83461,genre fiction
+542,1847,Vanity Fair: A Novel Without a Hero,"William Makepeace Thackeray, John Carey",eng,Intermediate,3.76,91323,genre fiction
+543,1959,The Sirens of Titan,Kurt Vonnegut Jr.,en-GB,Excellent,4.16,72493,genre fiction
+544,1992,Dolores Claiborne,"Stephen King, Dominique Dill",fre,Intermediate,3.81,71053,genre fiction
+545,2016,The Nest,Cynthia D'Aprix Sweeney,eng,Novice,3.45,79762,nonfiction
+546,2001,"Fables, Volume 1: Legends in Exile","Bill Willingham, Lan Medina, Steve Leialoha, Craig Hamilton, James Jean",eng,Intermediate,3.99,101016,genre fiction
+547,2001,Getting Things Done: How To Achieve Stress-free Productivity,David    Allen,en-GB,Intermediate,3.98,75665,genre fiction
+548,1993,The Celestine Prophecy,James Redfield,en-US,Intermediate,3.6,72675,genre fiction
+549,2012,My Life Next Door ,Huntley Fitzpatrick,eng,Excellent,4.02,102012,genre fiction
+550,2012,Winter of the World,Ken Follett,eng,Excellent,4.29,71971,nonfiction
+551,2013,"è‰²å½©ã‚’æŒãŸãªã„å¤šå´Žã¤ãã‚‹ã¨ã€å½¼ã®å·¡ç¤¼ã®å¹´ [Shikisai o motanai Tazaki Tsukuru to, kare no junrei no toshi]","Haruki Murakami, Philip Gabriel",eng,Intermediate,3.82,67873,fiction
+552,1999,Lucky,Alice Sebold,eng,Intermediate,3.77,77462,children
+553,1927,To The Lighthouse ,Virginia Woolf,eng,Intermediate,3.76,83066,genre fiction
+554,2004,Five Point Someone: What Not to Do at IIT,Chetan Bhagat,en-GB,Novice,3.43,67438,genre fiction
+555,1993,Guilty Pleasures,Laurell K. Hamilton,eng,Excellent,4.02,104252,genre fiction
+556,2002,The Messenger,Markus Zusak,en-US,Excellent,4.09,93119,genre fiction
+557,1874,Far from the Madding Crowd,"Thomas Hardy, Rosemarie Morgan, Shannon Russell",eng,Intermediate,3.92,87427,genre fiction
+558,1987,Equal Rites,Terry Pratchett,eng,Intermediate,4,88673,genre fiction
+559,2000,House of Leaves,Mark Z. Danielewski,eng,Excellent,4.13,75469,genre fiction
+560,1993,Cruel & Unusual,Patricia Cornwell,nl,Excellent,4.11,83695,genre fiction
+561,2013,Sycamore Row,John Grisham,eng,Intermediate,3.98,56315,genre fiction
+562,2011,Awakened,"P.C. Cast, Kristin Cast",en-US,Excellent,4.02,101234,genre fiction
+563,1918,My Ãntonia,Willa Cather,eng,Intermediate,3.76,81102,genre fiction
+564,2006,Life As We Knew It,Susan Beth Pfeffer,eng,Intermediate,3.89,94282,nonfiction
+565,2004,America (The Book): A Citizen's Guide to Democracy Inaction,"Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms",eng,Excellent,4.02,74511,nonfiction
+566,2004,90 Minutes in Heaven,"Don Piper, Cecil Murphey",,Intermediate,3.91,67937,genre fiction
+567,2012,The Longest Ride,Nicholas Sparks,eng,Excellent,4.14,71276,genre fiction
+568,-300,é“å¾·ç¶“ [dÃ o dÃ© jÄ«ng],"Lao Tzu, Gia-Fu Feng, Jane English, Chungliang Al Huang, Rowena Pattee Kryder, Toinette Lippe",eng,Excellent,4.31,39863,genre fiction
+569,1979,Kane and Abel,Jeffrey Archer,en-US,Excellent,4.27,74052,fiction
+570,2008,Change of Heart,Jodi Picoult,en-US,Intermediate,3.91,86471,genre fiction
+571,2003,Dry: A Memoir,Augusten Burroughs,eng,Excellent,4.01,70550,children
+572,2001,Sam's Letters To Jennifer,James Patterson,,Excellent,4.15,77538,genre fiction
+573,2015,Grey,E.L. James,en-GB,Intermediate,3.76,75320,genre fiction
+574,1969,Dune Messiah ,Frank Herbert,eng,Intermediate,3.86,82580,genre fiction
+575,1945,The Great Divorce,C.S. Lewis,en-US,Excellent,4.28,75031,fiction
+576,2004,Little Earthquakes,Jennifer Weiner,,Intermediate,3.76,77592,nonfiction
+577,1835,Eventyr og historier,"Hans Christian Andersen, Lily Owens, Arthur Rackham, Hans Richter",eng,Excellent,4.28,90999,genre fiction
+578,2009,New Moon: The Complete Illustrated Movie Companion,Mark Cotta Vaz,en-US,Excellent,4.34,82399,genre fiction
+579,2014,Maybe Someday,Colleen Hoover,eng,Excellent,4.33,81707,genre fiction
+580,1999,Mr Maybe,Jane Green,eng,Novice,3.41,78132,genre fiction
+581,1915,Anne of the Island,L.M. Montgomery,eng,Excellent,4.21,97049,genre fiction
+582,1883,Also sprach Zarathustra,"Friedrich Nietzsche, Walter Kaufmann",eng,Excellent,4.05,65362,genre fiction
+583,1854,North and South,"Elizabeth Gaskell, Alan Shelston",eng,Excellent,4.13,95274,genre fiction
+584,2011,A Stolen Life,Jaycee Dugard,en-US,Intermediate,3.89,72713,fiction
+585,2010,The Immortals of Meluha,Amish Tripathi,eng,Intermediate,4,62784,genre fiction
+586,1995,The Lost World,Michael Crichton,eng,Intermediate,3.72,83389,genre fiction
+587,2013,Requiem,Lauren Oliver,eng,Intermediate,3.74,100593,genre fiction
+588,1996,A Crown of Swords,Robert Jordan,eng,Intermediate,4,86421,nonfiction
+589,-560,Aesopica,"Aesop, Laura Harris, Laura Gibbs",eng,Excellent,4.05,88508,genre fiction
+590,1985,Blood Meridian: Or the Evening Redness in the West,Cormac McCarthy,eng,Excellent,4.18,71095,genre fiction
+591,2012,Finale,Becca Fitzpatrick,eng,Excellent,4.22,107569,genre fiction
+592,1985,Skeleton Crew,Stephen King,eng,Intermediate,3.93,82320,genre fiction
+593,2002,Lullaby,Chuck Palahniuk,,Intermediate,3.73,66713,genre fiction
+594,2009,Two States,Chetan Bhagat,eng,Intermediate,3.42,67866,genre fiction
+595,2005,ãƒ´ã‚¡ãƒ³ãƒ‘ã‚¤ã‚¢é¨Žå£« 1,"Matsuri Hino, Tomo Kimura",eng,Excellent,4.1,89733,nonfiction
+596,2002,Summer Knight,Jim Butcher,eng,Excellent,4.3,91012,genre fiction
+597,1968,Dragonflight,"Anne McCaffrey, Teodor PanasiÅ„ski",eng,Excellent,4.1,95378,genre fiction
+598,2007,"The History of the Hobbit, Part One: Mr. Baggins","John D. Rateliff, J.R.R. Tolkien",eng,Intermediate,3.81,108399,genre fiction
+599,2014,Ugly Love,Colleen Hoover,eng,Excellent,4.3,107583,genre fiction
+600,1998,Chocolat,Joanne Harris,eng,Intermediate,3.95,84770,nonfiction
+601,1977,The Amityville Horror,Jay Anson,eng,Intermediate,3.82,80959,genre fiction
+602,1992,The English Patient,Michael Ondaatje,,Intermediate,3.88,83741,genre fiction
+603,2012,Gabriel's Rapture,Sylvain Reynard,eng,Excellent,4.22,91213,genre fiction
+604,1914,Dubliners,"James Joyce, Jeri Johnson",eng,Intermediate,3.85,73140,fiction
+605,2009,Let the Great World Spin,Colum McCann,en-US,Intermediate,3.93,71515,genre fiction
+606,2003,The Eternity Code,Eoin Colfer,eng,Excellent,4.04,94437,fiction
+607,2001,Tell No One,Harlan Coben,eng,Excellent,4.11,78070,genre fiction
+608,1987,The Tommyknockers,Stephen King,eng,Famous,3.48,89262,genre fiction
+609,2010,Hex Hall,Rachel Hawkins,eng,Intermediate,3.96,109881,fiction
+610,2010,Steal Like an Artist,Austin Kleon,en-US,Intermediate,3.86,93625,genre fiction
+611,1999,Cryptonomicon,Neal Stephenson,eng,Excellent,4.25,72683,children
+612,2013,Beautiful Bastard,Christina Lauren,eng,Excellent,4.05,111668,genre fiction
+613,2000,Prodigal Summer,Barbara Kingsolver,en-US,Intermediate,3.98,78529,genre fiction
+614,1996,We Were the Mulvaneys,Joyce Carol Oates,eng,Intermediate,3.7,77251,genre fiction
+615,1993,Understanding Comics: The Invisible Art,Scott McCloud,en-US,Intermediate,3.98,77277,nonfiction
+616,2010,Beautiful Darkness,"Kami Garcia, Margaret Stohl",en-US,Intermediate,3.84,95447,nonfiction
+617,2011,The Psychopath Test,Jon Ronson,eng,Intermediate,3.91,44097,genre fiction
+618,2005,Vanishing Acts,Jodi Picoult,en-US,Intermediate,3.68,79662,genre fiction
+619,1995,Absolute Power,David Baldacci,eng,Excellent,4.15,72481,genre fiction
+620,2000,Hot Six,Janet Evanovich,eng,Excellent,4.18,99329,genre fiction
+621,2012,The Time Keeper,Mitch Albom,eng,Intermediate,3.85,72277,genre fiction
+622,2006,A Dirty Job,Christopher Moore,en-US,Excellent,4.08,78523,nonfiction
+623,2003,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,en-US,Excellent,4.24,66406,genre fiction
+624,2003,The Amulet of Samarkand,Jonathan Stroud,en-US,Intermediate,3.99,86062,genre fiction
+625,2007,I Am America (And So Can You!),"Stephen Colbert, Richard Dahm, Paul Dinello, Allison Silverman, Michael Brumm, Eric Drydale, Rob Dubbin, Glenn Eichler, Peter Grosz, Peter Gwinn, Jay Katsir, Laura Krafft, Frank Lesser, Tom Purcell",en-US,Intermediate,3.91,71023,genre fiction
+626,1981,The One Minute Manager,"Kenneth H. Blanchard, Spencer Johnson",en-US,Intermediate,3.85,70241,children
+627,1958,Exodus,Leon Uris,eng,Excellent,4.33,77258,genre fiction
+628,1994,Stones from the River,Ursula Hegi,en-GB,Excellent,4.07,80056,genre fiction
+629,1939,The Big Sleep,Raymond Chandler,eng,Excellent,4.04,84489,genre fiction
+630,1945,Cannery Row ,John Steinbeck,eng,Excellent,4.02,81598,genre fiction
+631,2011,Seriously...I'm Kidding,Ellen DeGeneres,en-US,Intermediate,3.72,74358,genre fiction
+632,2000,The Miserable Mill,"Lemony Snicket, Brett Helquist",en-US,Intermediate,3.83,101325,genre fiction
+633,2012,The Snow Child,Eowyn Ivey,eng,Intermediate,3.95,72328,genre fiction
+634,2013,Wait for You,"J. Lynn, Jennifer L. Armentrout",eng,Excellent,4.19,106236,genre fiction
+635,2009,The Last Straw,Jeff Kinney,eng,Excellent,4.11,82518,genre fiction
+636,1308,La Divina Commedia,"Dante Alighieri, Allen Mandelbaum, Eugenio Montale",eng,Excellent,4.06,74130,genre fiction
+637,1982,The Tao of Pooh,"Benjamin Hoff, Ernest H. Shepard",eng,Excellent,4.01,69975,genre fiction
+638,2012,Onyx,Jennifer L. Armentrout,eng,Excellent,4.33,111448,genre fiction
+639,2013,"Unravel Me (Shatter Me, #2)",Tahereh Mafi,eng,Excellent,4.28,109183,genre fiction
+640,2003,The Birth of Venus,Sarah Dunant,en-US,Intermediate,3.79,78129,genre fiction
+641,2005,The Opal Deception,Eoin Colfer,eng,Excellent,4.04,95638,genre fiction
+642,2015,Det som inte dÃ¶dar oss,"David Lagercrantz, Stieg Larsson, George Goulding",eng,Intermediate,3.73,53751,genre fiction
+643,2016,The Girls,Emma Cline,eng,Novice,3.49,76761,genre fiction
+644,2003,The Goose Girl,Shannon Hale,en-US,Excellent,4.18,92952,genre fiction
+645,2001,Mystic River,Dennis Lehane,en-US,Excellent,4.19,86103,genre fiction
+646,2010,Warm Bodies,Isaac Marion,,Intermediate,3.93,66381,genre fiction
+647,1881,The Prince and the Pauper,"Mark Twain, Everett H. Emerson",eng,Intermediate,3.84,84682,genre fiction
+648,1966,The Moon is a Harsh Mistress,Robert A. Heinlein,eng,Excellent,4.17,80366,genre fiction
+649,2010,The Forty Rules of Love,"Elif Shafak, Ø¥Ù„ÙŠÙ Ø´Ø§ÙØ§Ù‚, Ø§Ø±Ø³Ù„Ø§Ù† ÙØµÛŒØ­ÛŒ, Ù…Ø­Ù…Ø¯ Ø¯Ø±ÙˆÙŠØ´",eng,Excellent,4.17,35283,genre fiction
+650,1999,High Five,Janet Evanovich,eng,Excellent,4.17,92737,children
+651,2013,Joyland,Stephen King,eng,Intermediate,3.9,75018,genre fiction
+652,2010,é€²æ’ƒã®å·¨äºº 1,"Hajime Isayama, Sheldon Drzka",eng,Famous,4.42,82565,genre fiction
+653,1933,Tender Is the Night,F. Scott Fitzgerald,en-US,Intermediate,3.83,79008,genre fiction
+654,1984,Cold Sassy Tree,Olive Ann Burns,,Intermediate,3.99,82281,genre fiction
+655,1945,The Glass Menagerie,Tennessee Williams,eng,Intermediate,3.67,90032,nonfiction
+656,2011,L'amica geniale,"Elena Ferrante, Ann Goldstein",eng,Intermediate,3.88,64637,nonfiction
+657,2007,"The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",Timothy Ferriss,eng,Intermediate,3.84,66129,genre fiction
+658,1996,The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams & Reaching Your Destiny,Robin S. Sharma,eng,Intermediate,3.77,52031,genre fiction
+659,2011,Rules of Civility,Amor Towles,eng,Intermediate,3.99,75541,genre fiction
+660,1970,Ringworld,Larry Niven,eng,Intermediate,3.96,76925,genre fiction
+661,2011,Between Shades of Gray,Ruta Sepetys,eng,Excellent,4.36,87718,genre fiction
+662,1996,Frindle,"Andrew Clements, Brian Selznick",en-US,Intermediate,3.79,83351,genre fiction
+663,2009,Dog Days,Jeff Kinney,en-US,Excellent,4.14,78592,genre fiction
+664,2012,The Round House,Louise Erdrich,eng,Intermediate,3.91,67928,genre fiction
+665,1973,A Wind in the Door,Madeleine L'Engle,eng,Excellent,4.07,87277,genre fiction
+666,2012,Free Four: Tobias Tells the Divergent Story,Veronica Roth,eng,Excellent,4.18,81621,nonfiction
+667,2015,A Little Life,Hanya Yanagihara,eng,Excellent,4.27,66782,genre fiction
+668,2003,"Y: The Last Man, Vol. 1: Unmanned","Brian K. Vaughan, Pia Guerra, JosÃ© MarzÃ¡n Jr.",eng,Excellent,4.12,81326,genre fiction
+669,2011,The Alloy of Law,Brandon Sanderson,eng,Excellent,4.2,72185,genre fiction
+670,2011,Dead Reckoning,Charlaine Harris,eng,Intermediate,3.77,87066,nonfiction
+671,1985,The Accidental Tourist,"Anne Tyler, Jennifer Bassett",eng,Intermediate,3.9,80075,genre fiction
+672,2012,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire SÃ¡enz,,Excellent,4.34,108884,fiction
+673,1897,The Invisible Man,H.G. Wells,eng,Intermediate,3.62,84778,genre fiction
+674,1985,ä¸–ç•Œã®çµ‚ã‚Šã¨ãƒãƒ¼ãƒ‰ãƒœã‚¤ãƒ«ãƒ‰ãƒ»ãƒ¯ãƒ³ãƒ€ãƒ¼ãƒ©ãƒ³ãƒ‰ [Sekai no owari to hÄdoboirudo wandÄrando],"Haruki Murakami, Alfred Birnbaum",eng,Excellent,4.15,63764,genre fiction
+675,1994,Na margem do rio Piedra eu sentei e chorei,"Paulo Coelho, Alan R. Clarke",eng,Intermediate,3.57,62106,genre fiction
+676,1812,Der Schweizerische Robinson,"Johann David Wyss, Scott McKowen, Arthur Pober",eng,Intermediate,3.92,78355,genre fiction
+677,1990,Four Past Midnight,Stephen King,en-GB,Intermediate,3.9,76376,nonfiction
+678,2012,The Marriage Bargain,Jennifer Probst,eng,Intermediate,3.81,91630,genre fiction
+679,1909,Anne of Avonlea,L.M. Montgomery,en-US,Excellent,4.21,99918,genre fiction
+680,1930,The Little Engine That Could,"Watty Piper, Doris Hauman, George Hauman",en-US,Excellent,4.15,82102,genre fiction
+681,2013,We Are All Completely Beside Ourselves,Karen Joy Fowler,eng,Intermediate,3.71,59973,genre fiction
+682,1996,Children of the Mind,Orson Scott Card,eng,Intermediate,3.74,74517,genre fiction
+683,1922,Ulysses,James Joyce,eng,Intermediate,3.74,76791,genre fiction
+684,1998,Someone Like You,Sarah Dessen,eng,Intermediate,3.94,84358,nonfiction
+685,2003,Moloka'i,Alan Brennert,en-US,Excellent,4.15,75307,nonfiction
+686,1990,The Witching Hour,Anne Rice,eng,Excellent,4.1,79824,nonfiction
+687,1986,This Present Darkness,Frank E. Peretti,eng,Excellent,4.24,71815,genre fiction
+688,2012,The Coincidence of Callie & Kayden,Jessica Sorensen,eng,Excellent,4.21,97615,genre fiction
+689,2015,Fates and Furies,Lauren Groff,eng,Intermediate,3.56,66085,genre fiction
+690,1998,Summer Sisters,Judy Blume,,Intermediate,3.83,73515,genre fiction
+691,1945,Stuart Little,"E.B. White, Garth Williams",en-US,Intermediate,3.88,89033,genre fiction
+692,1953,The Foundation Trilogy,Isaac Asimov,eng,Excellent,4.39,72311,fiction
+693,1999,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,en-US,Excellent,4.06,32626,genre fiction
+694,2000,The Austere Academy,"Lemony Snicket, Brett Helquist",eng,Intermediate,3.97,99311,genre fiction
+695,2001,Seven Up,Janet Evanovich,en-US,Excellent,4.15,94506,genre fiction
+696,2009,The Awakening,Kelley Armstrong,eng,Excellent,4.16,95026,genre fiction
+697,2003,Death Masks,Jim Butcher,eng,Excellent,4.32,83664,children
+698,1993,Stellaluna,Janell Cannon,en-US,Excellent,4.22,87423,genre fiction
+699,2007,Before They Are Hanged,Joe Abercrombie,eng,Excellent,4.27,68865,genre fiction
+700,2007,Loving Frank,Nancy Horan,en-US,Intermediate,3.73,72734,genre fiction
+701,2002,Hard Eight,"Janet Evanovich, Lorelei King",en-US,Excellent,4.17,93057,nonfiction
+702,2001,The Vile Village,"Lemony Snicket, Brett Helquist",eng,Intermediate,3.94,89733,genre fiction
+703,1973,Sybil,Flora Rheta Schreiber,en-US,Intermediate,3.99,72493,nonfiction
+704,1980,Cosmos,Carl Sagan,eng,Excellent,4.35,76440,nonfiction
+705,2005,Haunted: A Novel of Stories,Chuck Palahniuk,eng,Intermediate,3.59,68861,fiction
+706,1987,The Shell Seekers,Rosamunde Pilcher,eng,Excellent,4.13,73573,genre fiction
+707,2006,What Is the What: The Autobiography of Valentino Achak Deng,Dave Eggers,eng,Excellent,4.16,59333,genre fiction
+708,1981,CrÃ³nica de una muerte anunciada,"Gabriel GarcÃ­a MÃ¡rquez, Gregory Rabassa",eng,Intermediate,3.95,56200,genre fiction
+709,1891,A Scandal in Bohemia,"Ronald Holt, Arthur Conan Doyle",,Excellent,4.22,65422,nonfiction
+710,2011,Killing Lincoln: The Shocking Assassination that Changed America Forever,"Bill O'Reilly, Martin Dugard",eng,Excellent,4.02,71868,children
+711,2013,The Lowland,Jhumpa Lahiri,eng,Intermediate,3.82,62231,genre fiction
+712,2004,The Ruins of Gorlan,John Flanagan,eng,Excellent,4.2,83085,nonfiction
+713,2009,Wintergirls,Laurie Halse Anderson,eng,Intermediate,3.98,87665,genre fiction
+714,2000,The Brethren,John Grisham,,Intermediate,3.71,69351,fiction
+715,1997,Assassin's Quest,Robin Hobb,eng,Excellent,4.18,67125,genre fiction
+716,1967,Rosemary's Baby,Ira Levin,eng,Intermediate,3.96,78766,genre fiction
+717,1984,The Talisman,"Stephen King, Peter Straub",en-US,Excellent,4.12,79508,nonfiction
+718,1998,The Path of Daggers,Robert Jordan,eng,Intermediate,3.9,74815,genre fiction
+719,1958,The Dharma Bums,Jack Kerouac,en-US,Intermediate,3.94,62454,children
+720,2010,The Reckoning,Kelley Armstrong,en-GB,Excellent,4.21,92922,genre fiction
+721,2012,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",Katherine Boo,en-US,Intermediate,3.97,69596,fiction
+722,1934,Mary Poppins,"P.L. Travers, Mary Shepard",en-US,Excellent,4.05,82706,genre fiction
+723,2007,Red Seas Under Red Skies,Scott Lynch,eng,Excellent,4.23,68255,genre fiction
+724,1984,The House on Mango Street,Sandra Cisneros,eng,Intermediate,3.57,81579,genre fiction
+725,2008,City of Thieves,David Benioff,en-GB,Excellent,4.28,68063,genre fiction
+726,2007,Halfway to the Grave,Jeaniene Frost,eng,Excellent,4.18,106608,genre fiction
+727,1980,The Twits,"Roald Dahl, Quentin Blake",eng,Intermediate,3.94,82458,genre fiction
+728,2003,Abhorsen,Garth Nix,en-US,Excellent,4.29,80740,nonfiction
+729,2002,The Beach House,"James Patterson, Peter de Jonge",eng,Intermediate,3.82,68676,genre fiction
+730,1987,Eyes of the Dragon,Stephen King,eng,Intermediate,3.92,72714,nonfiction
+731,1976,Children of Dune,Frank Herbert,eng,Intermediate,3.9,74133,genre fiction
+732,2011,Leviathan Wakes,James S.A. Corey,eng,Excellent,4.2,68416,nonfiction
+733,2015,Queen of Shadows,Sarah J. Maas,eng,Famous,4.6,99067,genre fiction
+734,1991,Maus II : And Here My Troubles Began ,Art Spiegelman,eng,Famous,4.41,90147,nonfiction
+735,1962,The Snowy Day,Ezra Jack Keats,eng,Excellent,4.13,81914,genre fiction
+736,2003,To the Nines,Janet Evanovich,eng,Excellent,4.16,86963,genre fiction
+737,2012,Where We Belong,Emily Giffin,en-US,Intermediate,3.86,68224,nonfiction
+738,1994,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Richard   Preston,eng,Excellent,4.1,72207,genre fiction
+739,1999,ã‚¹ãƒ—ãƒ¼ãƒˆãƒ‹ã‚¯ã®æ‹äºº [SupÅ«toniku no Koibito],"Haruki Murakami, Philip Gabriel",eng,Intermediate,3.82,62229,genre fiction
+740,2012,The Signature of All Things,Elizabeth Gilbert,eng,Intermediate,3.81,61135,nonfiction
+741,2003,"Eats, Shoots and Leaves",Lynne Truss,en-US,Intermediate,3.86,79117,genre fiction
+742,2004,Dead Witch Walking,Kim Harrison,en-US,Excellent,4.04,91390,nonfiction
+743,1986,,"Clement C. Moore, Jan Brett",en-US,Excellent,4.36,81553,genre fiction
+744,2009,An Echo in the Bone,Diana Gabaldon,eng,Famous,4.42,68854,genre fiction
+745,2011,Unearthly,Cynthia Hand,en-US,Excellent,4.06,99942,genre fiction
+746,1988,The Case for Christ,Lee Strobel,,Excellent,4.1,67128,genre fiction
+747,2005,Knife of Dreams,Robert Jordan,en-US,Excellent,4.12,71379,genre fiction
+748,2002,Hoot,Carl Hiaasen,eng,Intermediate,3.81,75275,genre fiction
+749,-17,Ã†neis,"Virgil, Robert Fitzgerald",eng,Intermediate,3.81,75051,genre fiction
+750,2012,This is How You Lose Her,Junot DÃ­az,eng,Intermediate,3.75,66720,nonfiction
+751,2004,ã‚¢ãƒ•ã‚¿ãƒ¼ãƒ€ãƒ¼ã‚¯ [AfutÄ dÄku],"Haruki Murakami, Jay Rubin",eng,Intermediate,3.68,64278,genre fiction
+752,1992,Ishmael: An Adventure of the Mind and Spirit,Daniel Quinn,en-US,Intermediate,3.97,63304,genre fiction
+753,2010,It's Not Summer Without You,Jenny Han,en-US,Excellent,4.14,80367,genre fiction
+754,2012,Pushing the Limits,Katie McGarry,eng,Excellent,4.08,93818,genre fiction
+755,2001,Quidditch Through the Ages,"Kennilworthy Whisp, J.K. Rowling",eng,Intermediate,3.85,90908,genre fiction
+756,1977,Miss Nelson Is Missing!,"Harry Allard, James  Marshall",eng,Excellent,4.26,77206,genre fiction
+757,1979,The Long Walk,"Richard Bachman, Stephen King",eng,Excellent,4.11,71775,nonfiction
+758,2001,The Ersatz Elevator,"Lemony Snicket, Brett Helquist",eng,Excellent,4.01,90071,nonfiction
+759,2004,Messenger ,Lois Lowry,eng,Intermediate,3.9,79746,genre fiction
+760,2007,Lover Revealed,J.R. Ward,eng,Excellent,4.3,97830,genre fiction
+761,2005,'Salem's Lot The Illustrated Edition,"Stephen King, Jerry N. Uelsmann",eng,Excellent,4.25,72797,genre fiction
+762,2007,The Mysterious Benedict Society,"Trenton Lee Stewart, Carson Ellis",en-US,Excellent,4.14,87335,genre fiction
+763,2007,God is Not Great: How Religion Poisons Everything,Christopher Hitchens,eng,Intermediate,3.96,64347,children
+764,2013,"Never Too Far (Too Far, #2)",Abbi Glines,eng,Excellent,4.21,97616,genre fiction
+765,2004,State of Fear,Michael Crichton,eng,Intermediate,3.69,65397,genre fiction
+766,2012,The Statistical Probability of Love at First Sight,Jennifer E. Smith,eng,Intermediate,3.8,89356,genre fiction
+767,2004,The Golem's Eye,Jonathan Stroud,en-US,Excellent,4.09,69058,nonfiction
+768,1980,Still Life with Woodpecker,Tom Robbins,eng,Excellent,4.04,56802,genre fiction
+769,2004,Those Who Save Us,Jenna Blum,en-US,Excellent,4.12,68480,genre fiction
+770,2005,The Broker,John Grisham,eng,Intermediate,3.77,65428,genre fiction
+771,2011,Across the Universe,Beth Revis,eng,Intermediate,3.78,94176,genre fiction
+772,1978,"The Road Less Traveled:  A New Psychology of Love, Traditional Values, and Spiritual Growth",M. Scott Peck,en-US,Excellent,4.03,61238,nonfiction
+773,2004,Blood Rites,Jim Butcher,eng,Excellent,4.33,79627,nonfiction
+774,1942,The Boxcar Children,"Gertrude Chandler Warner, L. Kate Deal",en-US,Excellent,4.09,92916,genre fiction
+775,2013,The Silent Wife,A.S.A. Harrison,eng,Novice,3.3,60323,nonfiction
+776,2011,How to Be a Woman,Caitlin Moran,eng,Intermediate,3.73,70446,genre fiction
+777,2016,A Court of Mist and Fury,Sarah J. Maas,eng,Famous,4.72,108384,genre fiction
+778,2010,Life,Keith Richards,en-GB,Intermediate,3.84,60409,genre fiction
+779,2008,Unaccustomed Earth,Jhumpa Lahiri,eng,Excellent,4.11,60126,genre fiction
+780,1998,The Pilot's Wife,Anita Shreve,eng,Intermediate,3.5,71777,genre fiction
+781,1985,White Noise,Don DeLillo,eng,Intermediate,3.86,55678,genre fiction
+782,1992,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",Stephen E. Ambrose,eng,Famous,4.42,66079,genre fiction
+783,1859,On the Origin of Species by Means of Natural Selection or the Preservation of Favoured Races in the Struggle for Life,Charles Darwin,eng,Intermediate,3.97,64162,genre fiction
+784,2003,Blankets,Craig Thompson,eng,Excellent,4.06,70454,genre fiction
+785,2008,The Story of Edgar Sawtelle,David Wroblewski,eng,Intermediate,3.6,70382,nonfiction
+786,2000,Drowning Ruth,Christina Schwarz,eng,Intermediate,3.73,67768,genre fiction
+787,1971,Post Office,Charles Bukowski,en-US,Excellent,4.01,59295,nonfiction
+788,1992,All the Pretty Horses,Cormac McCarthy,eng,Intermediate,3.97,68451,genre fiction
+789,1914,"Sherlock Holmes: The Complete Novels and Stories, Vol 2","Arthur Conan Doyle, Kyle Freeman",,Famous,4.46,66857,nonfiction
+790,1997,"One Piece, Volume 01","EiichirÅ Oda, Andy Nakatani",eng,Famous,4.42,67047,genre fiction
+791,1968,The Last Unicorn,Peter S. Beagle,eng,Excellent,4.18,76277,genre fiction
+792,2005,Magyk,Angie Sage,eng,Intermediate,3.8,86805,genre fiction
+793,2000,Fever 1793,Laurie Halse Anderson,en-US,Intermediate,3.89,81945,genre fiction
+794,2008,The Likeness,Tana French,eng,Excellent,4.05,72480,genre fiction
+795,2015,Dead Wake: The Last Crossing of the Lusitania,Erik Larson,eng,Excellent,4.07,61439,genre fiction
+796,1894,The Jungle Book,Rudyard Kipling,eng,Intermediate,3.94,67107,fiction
+797,2013,I Am Pilgrim,Terry Hayes,eng,Excellent,4.23,49740,genre fiction
+798,1956,Howl and Other Poems ,"Allen Ginsberg, William Carlos Williams",eng,Excellent,4.14,71968,nonfiction
+799,1997,Don't Sweat the Small Stuff,Richard Carlson,eng,Intermediate,3.95,63324,genre fiction
+800,2011,Go the Fuck to Sleep,"Adam Mansbach, Ricardo CortÃ©s",eng,Excellent,4.26,71816,genre fiction
+801,1992,Mostly Harmless,Douglas Adams,en-US,Intermediate,3.96,72426,nonfiction
+802,2003,Benjamin Franklin: An American Life,Walter Isaacson,eng,Intermediate,3.96,70335,genre fiction
+803,2011,The Tiger's Wife,TÃ©a Obreht,eng,Novice,3.37,66104,genre fiction
+804,2005,Poison Study,Maria V. Snyder,eng,Excellent,4.16,96417,genre fiction
+805,2007,Lover Unbound,J.R. Ward,eng,Excellent,4.33,97514,fiction
+806,2004,Going Postal,Terry Pratchett,eng,Excellent,4.36,75186,fiction
+807,1830,The Book of Mormon,"Anonymous, Joseph Smith Jr.",eng,Excellent,4.37,63530,genre fiction
+808,1980,The Mist,Stephen King,en-US,Intermediate,3.92,82062,nonfiction
+809,2005,Dead Beat,Jim Butcher,eng,Famous,4.43,78123,genre fiction
+810,2015,Golden Son,Pierce Brown,eng,Famous,4.46,57614,genre fiction
+811,2002,Night Watch,Terry Pratchett,eng,Famous,4.47,71271,nonfiction
+812,1986,The Light Fantastic,Terry Pratchett,en-US,Intermediate,3.94,75196,nonfiction
+813,2009,What the Dog Saw and Other Adventures,Malcolm Gladwell,eng,Intermediate,3.82,65277,genre fiction
+814,2015,Pretty Girls,Karin Slaughter,eng,Intermediate,3.95,60737,genre fiction
+815,2008,Last Argument of Kings,Joe Abercrombie,eng,Excellent,4.26,65068,genre fiction
+816,2014,Revival,Stephen King,en-US,Intermediate,3.75,53662,genre fiction
+817,1954,Horton Hears a Who!,Dr. Seuss,eng,Excellent,4.16,80883,genre fiction
+818,2006,The Blind Side: Evolution of a Game,Michael   Lewis,eng,Excellent,4.16,37792,children
+819,2001,Lirael,Garth Nix,en-US,Excellent,4.29,78903,genre fiction
+820,2006,School's Out Forever,James Patterson,en-US,Excellent,4.16,90157,fiction
+821,2007,é»’åŸ·äº‹ I [Kuroshitsuji I],"Yana Toboso, Tomo Kimura",eng,Excellent,4.37,74378,nonfiction
+822,2015,Winter,Marissa Meyer,eng,Famous,4.49,100464,nonfiction
+823,1886,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror ,"Robert Louis Stevenson, Robert Mighall",eng,Intermediate,3.94,80299,genre fiction
+824,2012,,Emily Seife,en-US,Famous,4.4,67264,genre fiction
+825,2008,The Painted Man,Peter V. Brett,eng,Excellent,4.27,64416,genre fiction
+826,1678,,John Bunyan,,Intermediate,3.98,67777,genre fiction
+827,2005,One Shot,Lee Child,eng,Excellent,4.2,63335,genre fiction
+828,2012,The Serpent's Shadow,Rick Riordan,eng,Excellent,4.28,82757,genre fiction
+829,2008,Duma Key,Stephen King,en-US,Intermediate,3.93,73807,genre fiction
+830,2006,The Shifting Fog,Kate Morton,eng,Intermediate,3.93,69948,genre fiction
+831,2000,,Robert Jordan,en-US,Intermediate,3.92,71355,fiction
+832,2006,Proven Guilty,Jim Butcher,eng,Famous,4.41,75133,genre fiction
+833,1864,Ð—Ð°Ð¿Ð¸ÑÐºÐ¸ Ð¸Ð· Ð¿Ð¾Ð´Ð¿Ð¾Ð»ÑŒÑ,"Fyodor Dostoyevsky, Andrew R. MacAndrew, Ben Marcus",eng,Excellent,4.17,65900,genre fiction
+834,1940,The Heart is a Lonely Hunter,Carson McCullers,eng,Intermediate,3.97,67643,genre fiction
+835,2014,The Infinite Sea,Rick Yancey,eng,Intermediate,3.94,78314,genre fiction
+836,1958,The Once and Future King,T.H. White,eng,Excellent,4.08,76911,nonfiction
+837,1992,Small Gods,Terry Pratchett,en-GB,Excellent,4.27,72588,genre fiction
+838,1999,"Bud, Not Buddy",Christopher Paul Curtis,eng,Intermediate,3.89,73000,genre fiction
+839,2006,,Alison Bechdel,eng,Excellent,4.12,48305,genre fiction
+840,2007,Predictably Irrational: The Hidden Forces that Shape Our Decisions,Dan Ariely,en-US,Excellent,4.1,61496,genre fiction
+841,2012,Ø§Ù„ÙÙŠÙ„ Ø§Ù„Ø£Ø²Ø±Ù‚,Ø£Ø­Ù…Ø¯ Ù…Ø±Ø§Ø¯,ara,Intermediate,3.8,53187,nonfiction
+842,1980,The Indian in the Cupboard,Lynne Reid Banks,eng,Intermediate,3.89,77046,genre fiction
+843,2012,A Memory of Light,"Robert Jordan, Brandon Sanderson",eng,Famous,4.5,68410,genre fiction
+844,2012,Me and Earl and the Dying Girl,Jesse Andrews,en-US,Intermediate,3.58,82270,nonfiction
+845,2010,The Ugly Truth,Jeff Kinney,en-US,Excellent,4.16,68701,nonfiction
+846,2002,"Janet Evanovich Three and Four Two-Book Set (Stephanie Plum, #3-4)",Janet Evanovich,,Excellent,4.34,63691,genre fiction
+847,1998,"The Surgeon of Crowthorne: a tale of murder, madness & the love of words",Simon Winchester,eng,Intermediate,3.84,71411,genre fiction
+848,2002,2nd Chance,"James Patterson, Andrew Gross",eng,Excellent,4.01,68834,genre fiction
+849,1986,The Complete Maus,Art Spiegelman,en-GB,Famous,4.53,76785,nonfiction
+850,2001,The Eyre Affair,Jasper Fforde,en-US,Intermediate,3.92,85683,nonfiction
+851,1989,Anne Rice's The Vampire Lestat: The Graphic Novel,"Faye Perozich, Anne Rice, John Bolton, Daerick GrÃ¶ss",en-GB,Excellent,4.17,61842,genre fiction
+852,1978,,"Louis Sachar, Adam McCauley",eng,Excellent,4.14,74121,genre fiction
+853,1998,The Art of Happiness: A Handbook for Living,"Dalai Lama XIV, Howard C. Cutler",eng,Excellent,4.14,61498,nonfiction
+854,2014,The Bone Clocks,David Mitchell,eng,Intermediate,3.81,53151,genre fiction
+855,1998,Black and Blue,Anna Quindlen,eng,Intermediate,3.86,67753,genre fiction
+856,2010,,"L.J. Smith, Kevin Williamson, Julie Plec",en-US,Excellent,4.1,59715,genre fiction
+857,2004,The Last Juror,John Grisham,eng,Intermediate,3.85,63114,nonfiction
+858,2003,Diary,Chuck Palahniuk,eng,Intermediate,3.6,58428,genre fiction
+859,2005,Eleven on Top,Janet Evanovich,en-US,Excellent,4.15,84363,genre fiction
+860,2005,Tintenblut,"Cornelia Funke, Anthea Bell",eng,Intermediate,3.91,82291,genre fiction
+861,2003,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman,en-US,Intermediate,3.75,56548,genre fiction
+862,1945,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder,Evelyn Waugh,eng,Intermediate,3.99,69087,nonfiction
+863,2007,White Night,Jim Butcher,en-US,Famous,4.41,73534,fiction
+864,2014,The Miniaturist,Jessie Burton,eng,Intermediate,3.58,56344,genre fiction
+865,1984,Dragons of Autumn Twilight,"Margaret Weis, Tracy Hickman",en-US,Excellent,4.03,76219,nonfiction
+866,2006,The Lost Colony,Eoin Colfer,en-US,Excellent,4.01,103844,nonfiction
+867,2006,Extras,Scott Westerfeld,en-US,Intermediate,3.59,85873,genre fiction
+868,2005,The Burning Bridge,John Flanagan,en-US,Excellent,4.28,74156,nonfiction
+869,2014,The Book of Life,Deborah Harkness,eng,Excellent,4.15,63027,genre fiction
+870,1992,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,eng,Intermediate,3.89,66049,genre fiction
+871,1992,The Stinky Cheese Man and Other Fairly Stupid Tales,"Jon Scieszka, Lane Smith",eng,Excellent,4.2,78487,nonfiction
+872,2009,Horns,Joe Hill,en-US,Intermediate,3.92,66287,nonfiction
+873,2011,Catherine the Great: Portrait of a Woman,Robert K. Massie,en-CA,Intermediate,3.91,66591,genre fiction
+874,2009,The Year of the Flood,Margaret Atwood,eng,Excellent,4.05,68597,genre fiction
+875,2009,Winter Garden,Kristin Hannah,en-GB,Excellent,4.13,66577,genre fiction
+876,2003,The King of Torts,John Grisham,eng,Intermediate,3.67,61835,nonfiction
+877,2006,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,"Marcus Luttrell, Patrick Robinson",eng,Excellent,4.34,46551,genre fiction
+878,2008,The 3 Mistakes of My Life,Chetan Bhagat,eng,Intermediate,2.97,53331,genre fiction
+879,1926,The Murder of Roger Ackroyd,Agatha Christie,eng,Excellent,4.2,71354,nonfiction
+880,1940,Native Son ,Richard Wright,eng,Intermediate,3.96,66194,genre fiction
+881,2008,Shadow's Edge,Brent Weeks,en-US,Excellent,4.27,66390,genre fiction
+882,2011,Under the Never Sky,Veronica Rossi,en-GB,Excellent,4.01,74029,genre fiction
+883,2003,True Believer,Nicholas Sparks,en-US,Intermediate,3.8,62840,genre fiction
+884,2011,The Lean Startupâ€Ž,Eric Ries,en-US,Excellent,4.04,86284,genre fiction
+885,2012,The Golden Lily,Richelle Mead,en-US,Excellent,4.36,86929,genre fiction
+886,2008,Chasing Harry Winston,Lauren Weisberger,eng,Novice,3.32,63342,genre fiction
+887,1983,Magician's Gambit,David Eddings,,Excellent,4.13,69616,genre fiction
+888,2009,,"Roberto Aguirre-Sacasa, Stephen King, Mike Perkins, Laura       Martin",eng,Famous,4.43,57279,genre fiction
+889,1960,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,eng,Excellent,4.15,64391,genre fiction
+890,2005,A Long Way Down,Nick Hornby,eng,Novice,3.41,59843,nonfiction
+891,1993,Out from Boneville,"Jeff Smith, Steve Hamaker",eng,Excellent,4.16,62330,genre fiction
+892,1995,Rose Madder,Stephen King,eng,Intermediate,3.66,70921,genre fiction
+893,1998,"Die Trying (Jack Reacher, #2)",Lee Child,en-US,Intermediate,4,62128,genre fiction
+894,2011,Beautiful Chaos,"Kami Garcia, Margaret Stohl, Paz Pruneda",en-US,Intermediate,3.95,69709,genre fiction
+895,1999,Keeping Faith,Jodi Picoult,,Intermediate,3.79,62405,genre fiction
+896,2007,Heart-Shaped Box,Joe Hill,en-US,Intermediate,3.82,65005,genre fiction
+897,2010,Cabin Fever,Jeff Kinney,eng,Excellent,4.21,63347,nonfiction
+898,2008,,Brent Weeks,eng,Excellent,4.29,64961,fiction
+899,2005,Everyone Worth Knowing,Lauren Weisberger,en-US,Novice,3.39,59932,genre fiction
+900,1986,Redwall,Brian Jacques,eng,Excellent,4.11,73918,genre fiction
+901,1848,Manifest der Kommunistischen Partei,"Karl Marx, Friedrich Engels, Gareth Stedman Jones",eng,Intermediate,3.51,56464,genre fiction
+902,2016,The Woman in Cabin 10,Ruth Ware,eng,Intermediate,3.67,90541,nonfiction
+903,1826,The Last of the Mohicans: A Narrative of 1757,James Fenimore Cooper,eng,Intermediate,3.69,67632,genre fiction
+904,1979,Sophie's Choice,William Styron,eng,Excellent,4.18,66923,nonfiction
+905,2004,Shopaholic and Sister,Sophie Kinsella,eng,Intermediate,3.64,69007,genre fiction
+906,2010,The Iron Daughter,Julie Kagawa,eng,Excellent,4.13,93340,genre fiction
+907,2000,The Prayer of Jabez:  Breaking Through to the Blessed Life,Bruce H. Wilkinson,eng,Intermediate,3.92,57468,nonfiction
+908,2012,The Age of Miracles,Karen Thompson Walker,eng,Intermediate,3.64,61296,genre fiction
+909,2009,Have a Little Faith: A True Story,Mitch Albom,en-US,Excellent,4.16,60002,nonfiction
+910,2006,My Life in France,"Julia Child, Alex Prud'Homme",eng,Excellent,4.16,63100,genre fiction
+911,2014,The Rosie Effect,Graeme Simsion,eng,Intermediate,3.56,27308,genre fiction
+912,2011,The Secret of the Nagas.,Amish Tripathi,eng,Intermediate,3.98,50158,genre fiction
+913,1982,Ham on Rye,Charles Bukowski,,Excellent,4.16,54140,genre fiction
+914,2001,Flipped,Wendelin Van Draanen,en-US,Intermediate,3.94,79264,nonfiction
+915,2003,Emotional Intelligence 2.0,"Travis Bradberry, Jean Greaves, Patrick Lencioni",,Intermediate,3.81,53384,genre fiction
+916,1941,Make Way for Ducklings,Robert McCloskey,,Excellent,4.21,70704,nonfiction
+917,1995,Relic,"Douglas Preston, Lincoln Child",eng,Excellent,4.01,68011,genre fiction
+918,1995,Notes from a Small Island,Bill Bryson,eng,Intermediate,3.91,66947,genre fiction
+919,2008,Small Favor,Jim Butcher,en-US,Famous,4.43,70029,nonfiction
+920,2009,The Walking Dead Compendium Volume 1,Robert Kirkman,eng,Famous,4.43,57764,genre fiction
+921,2005,Princess Academy,Shannon Hale,eng,Excellent,4.01,82470,genre fiction
+922,2015,"Everything, Everything","Nicola Yoon, David Yoon",eng,Excellent,4.11,132552,genre fiction
+923,1912,Pygmalion,George Bernard Shaw,en-US,Intermediate,3.9,70079,genre fiction
+924,2012,Flight Behavior,Barbara Kingsolver,eng,Intermediate,3.75,57078,genre fiction
+925,2008,Grip of the Shadow Plague,Brandon Mull,eng,Excellent,4.26,65638,genre fiction
+926,1999,Bridget Jones: The Edge of Reason,Helen Fielding,eng,Intermediate,3.53,73093,nonfiction
+927,1994,Captain Corelli's Mandolin,Louis de BerniÃ¨res,eng,Intermediate,3.95,57583,genre fiction
+928,2004,At First Sight,Nicholas Sparks,en-US,Intermediate,3.81,62219,genre fiction
+929,2000,Down Under,Bill Bryson,eng,Excellent,4.05,58688,genre fiction
+930,1894,The Memoirs of Sherlock Holmes,Arthur Conan Doyle,eng,Excellent,4.32,56918,nonfiction
+931,2012,The Orphan Master's Son,Adam Johnson,eng,Excellent,4.06,52765,genre fiction
+932,1984,Enchanters' End Game,David Eddings,en-US,Excellent,4.17,69134,genre fiction
+933,2003,Persepolis,"Marjane Satrapi, Mattias Ripa, Blake Ferris, Anjali Singh",en-US,Excellent,4.36,71353,nonfiction
+934,1967,The Chosen,Chaim Potok,eng,Excellent,4.03,70701,fiction
+935,1958,The Agony and the Ecstasy: A Biographical Novel of Michelangelo,"Irving Stone, ×©×ž×•××œ ×©× ×™×¦×¨",eng,Excellent,4.09,61256,genre fiction
+936,2008,El juego del Ã¡ngel,"Carlos Ruiz ZafÃ³n, Lucia Graves",eng,Intermediate,3.86,46225,genre fiction
+937,2004,Where Rainbows End,Cecelia Ahern,en-US,Intermediate,3.95,55236,nonfiction
+938,1963,Amelia Bedelia,"Peggy Parish, Fritz Siebel",eng,Excellent,4.15,72329,genre fiction
+939,2012,This Man,Jodi Ellen Malpas,eng,Excellent,4.13,79461,genre fiction
+940,2010,A Dog's Purpose ,W. Bruce Cameron,en-US,Excellent,4.35,65091,genre fiction
+941,2015,An Ember in the Ashes,Sabaa Tahir,eng,Excellent,4.32,45492,genre fiction
+942,2008,"Lover Enshrined, part one",J.R. Ward,eng,Excellent,4.12,87432,genre fiction
+943,2013,The Golem and the Jinni,Helene Wecker,eng,Excellent,4.1,59650,genre fiction
+944,2012,Ø§Ù„Ø£Ø³ÙˆØ¯ ÙŠÙ„ÙŠÙ‚ Ø¨Ùƒ,"Ø£Ø­Ù„Ø§Ù… Ù…Ø³ØªØºØ§Ù†Ù…ÙŠ, Ahlam Mosteghanemi",ara,Intermediate,3.72,42958,nonfiction
+945,2003,The Slippery Slope,"Lemony Snicket, Brett Helquist",en-US,Intermediate,4,81362,genre fiction
+946,1853,Bleak House,"Charles Dickens, Nicola Bradbury, Hablot Knight Browne",eng,Intermediate,4,67433,genre fiction
+947,1938,"Caps for sale: a tale of a peddler, some monkeys and their monkey business",Esphyr Slobodkina,eng,Excellent,4.12,72504,genre fiction
+948,2004,Furies of Calderon ,Jim Butcher,eng,Excellent,4.12,70269,genre fiction
+949,1983,Alanna: The First Adventure,Tamora Pierce,en-US,Excellent,4.27,85699,genre fiction
+950,2009,Her Fearful Symmetry,Audrey Niffenegger,en-GB,Novice,3.23,63737,nonfiction
+951,2014,The Boston Girl,Anita Diamant,eng,Intermediate,3.79,51603,genre fiction
+952,2009,"Lover Enshrined, part two",J.R. Ward,eng,Excellent,4.38,84650,children
+953,1990,The Fall of Hyperion,Dan Simmons,eng,Excellent,4.18,63235,nonfiction
+954,1987,The Black Dahlia,James Ellroy,en-US,Intermediate,3.75,61412,genre fiction
+955,1871,"Through the Looking-Glass, and What Alice Found There","Lewis Carroll, John Tenniel, Peter Glassman",eng,Excellent,4.06,63050,fiction
+956,1991,Wild Swans: Three Daughters of China,Jung Chang,en-US,Excellent,4.23,60193,nonfiction
+957,1961,"Go, Dog. Go!",P.D. Eastman,eng,Excellent,4.08,66360,fiction
+958,1937,,"Laura Ingalls Wilder, Garth Williams",,Excellent,4.19,74666,genre fiction
+959,2015,Finders Keepers,Stephen King,eng,Excellent,4.03,36541,fiction
+960,2009,The Strain,"Guillermo del Toro, Chuck Hogan",en-US,Intermediate,3.77,58631,genre fiction
+961,1890,The Complete Poems of Emily Dickinson,"Emily Dickinson, Thomas H. Johnson",eng,Excellent,4.21,60278,genre fiction
+962,1956,Old Yeller,Fred Gipson,en-US,Excellent,4.06,69815,genre fiction
+963,2007,Born Standing Up: A Comic's Life,Steve Martin,eng,Intermediate,3.87,60869,nonfiction
+964,2005,PostSecret: Extraordinary Confessions from Ordinary Lives,Frank Warren,,Excellent,4.01,58841,nonfiction
+965,2000,A Storm of Swords: Part 2 Blood and Gold,George R.R. Martin,eng,Famous,4.56,54977,genre fiction
+966,1952,The Borrowers Afield,"Mary Norton, Beth Krush, Joe Krush",,Excellent,4.02,74820,genre fiction
+967,1999,Hearts in Atlantis,Stephen King,eng,Intermediate,3.8,65063,genre fiction
+968,2016,,Jodi Picoult,eng,Excellent,4.35,73745,genre fiction
+969,1982,ç¾Šã‚’ã‚ãã‚‹å†’é™º [HitsujiwomegurubÅken],"Haruki Murakami, Alfred Birnbaum",eng,Intermediate,3.94,55262,nonfiction
+970,2003,The Queen's Fool,Philippa Gregory,en-US,Intermediate,3.83,69504,genre fiction
+971,2012,Days of Blood & Starlight,Laini Taylor,en-CA,Excellent,4.21,85746,genre fiction
+972,1984,Jitterbug Perfume,Tom Robbins,eng,Excellent,4.24,48277,genre fiction
+973,2006,"The Battle for Skandia (Ranger's Apprentice, #4)",John Flanagan,en-US,Excellent,4.32,60959,genre fiction
+974,2012,The Darkest Minds,Alexandra Bracken,eng,Excellent,4.26,83886,fiction
+975,2005,O Zahir,"Paulo Coelho, Margaret Jull Costa",eng,Intermediate,3.56,50921,genre fiction
+976,1952,The Power of Positive Thinking,Norman Vincent Peale,eng,Excellent,4.08,52704,genre fiction
+977,2015,"In a Dark, Dark Wood ",Ruth Ware,eng,Intermediate,3.65,67344,genre fiction
+978,1905,The House of Mirth,"Edith Wharton, Nina Bawden",eng,Intermediate,3.94,60611,genre fiction
+979,2006,Fairy Tail 1,"Hiro Mashima, William Flanagan",eng,Famous,4.4,65477,genre fiction
+980,2014,The Slow Regard of Silent Things,"Patrick Rothfuss, Nate  Taylor",eng,Intermediate,3.92,57716,genre fiction
+981,1853,Twelve Years a Slave,Solomon Northup,eng,Excellent,4.15,39758,genre fiction
+982,2010,"Lover Avenged, part one",J.R. Ward,eng,Famous,4.41,82824,genre fiction
+983,1999,In the Heart of the Sea: The Tragedy of the Whaleship Essex,Nathaniel Philbrick,en-US,Excellent,4.16,57259,genre fiction
+984,2006,Infidel,Ayaan Hirsi Ali,eng,Excellent,4.2,58432,genre fiction
+985,2007,The Black Swan: The Impact of the Highly Improbable,Nassim Nicholas Taleb,eng,Intermediate,3.88,53586,genre fiction
+986,2012,The Twelve,Justin Cronin,eng,Intermediate,3.98,56756,genre fiction
+987,1962,ÐžÐ´Ð¸Ð½ Ð´ÐµÐ½ÑŒ Ð˜Ð²Ð°Ð½Ð° Ð”ÐµÐ½Ð¸ÑÐ¾Ð²Ð¸Ñ‡Ð°,"Aleksandr Solzhenitsyn, H.T. Willetts",eng,Intermediate,3.94,61678,genre fiction
+988,1995,The Diamond Age,Neal Stephenson,eng,Excellent,4.19,61836,genre fiction
+989,1959,A Canticle for Leibowitz,Walter M. Miller Jr.,eng,Intermediate,3.97,66721,genre fiction
+990,-441,á¼ˆÎ½Ï„Î¹Î³ÏŒÎ½Î·,"Sophocles, J.E. Thomas",eng,Intermediate,3.6,67608,genre fiction
+991,2009,Brooklyn,Colm TÃ³ibÃ­n,eng,Intermediate,3.63,55459,genre fiction
+992,2011,Wither,Lauren DeStefano,eng,Intermediate,3.81,84776,genre fiction
+993,2016,Hillbilly Elegy. A Memoir of a Family and Culture in Crisis,J.D. Vance,eng,Intermediate,3.99,80737,genre fiction
+994,2003,Crossroads of Twilight,Robert Jordan,en-US,Intermediate,3.82,61361,genre fiction
+995,1871,The Red Badge of Courage,Stephen Crane,eng,Novice,3.21,68448,genre fiction
+996,2014,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Randall Munroe,eng,Excellent,4.17,60236,genre fiction
+997,1999,Gardens of the Moon,Steven Erikson,eng,Intermediate,3.85,57993,genre fiction
+998,2006,A Bruxa de Portobello,Paulo Coelho,eng,Intermediate,3.51,51461,genre fiction
+999,1978,A Swiftly Tilting Planet,Madeleine L'Engle,eng,Excellent,4.13,75851,genre fiction
+1000,2003,Gregor the Overlander,Suzanne Collins,eng,Intermediate,3.99,66823,genre fiction
+1001,2011,Sing You Home,Jodi Picoult,en-US,Intermediate,3.76,62494,genre fiction
+1002,1992,The Tale of the Body Thief,Anne Rice,en-US,Intermediate,3.7,67267,fiction
+1003,2005,The Camel Club,David Baldacci,eng,Excellent,4.02,58973,nonfiction
+1004,2006,Saving The World and Other Extreme Sports,James Patterson,en-US,Excellent,4.16,75436,genre fiction
+1005,1996,Blood of the Fold,Terry Goodkind,en-US,Intermediate,3.98,60624,genre fiction
+1006,2006,The Boleyn Inheritance,Philippa Gregory,eng,Intermediate,3.84,62135,genre fiction
+1007,2015,A Spool of Blue Thread,Anne Tyler,eng,Novice,3.4,42339,genre fiction
+1008,2016,The Underground Railroad,Colson Whitehead,eng,Excellent,4.04,72052,genre fiction
+1009,2007,Masquerade,Melissa de la Cruz,en-US,Intermediate,3.91,76598,genre fiction
+1010,2011,The Iron Queen,Julie Kagawa,eng,Excellent,4.24,82373,nonfiction
+1011,2012,Losing It,Cora Carmack,eng,Intermediate,3.77,84438,genre fiction
+1012,2012,The Racketeer,John Grisham,,Intermediate,3.79,48286,genre fiction
+1013,1999,Disgrace,J.M. Coetzee,eng,Intermediate,3.83,50422,fiction
+1014,1928,The House at Pooh Corner,"A.A. Milne, Ernest H. Shepard",en-US,Excellent,4.36,69102,genre fiction
+1015,2010,The Black Prism,Brent Weeks,en-US,Excellent,4.24,58906,genre fiction
+1016,2004,The Mermaid Chair,Sue Monk Kidd,eng,Novice,3.1,62760,genre fiction
+1017,1970,Frog and Toad Are Friends,Arnold Lobel,eng,Excellent,4.18,70119,nonfiction
+1018,2002,The Carnivorous Carnival,"Lemony Snicket, Brett Helquist",en-US,Intermediate,3.97,83981,genre fiction
+1019,2010,Heist Society,Ally Carter,en-US,Intermediate,3.91,75834,genre fiction
+1020,2016,Behind Closed Doors,B.A. Paris,eng,Intermediate,3.93,57865,fiction
+1021,1974,The Killer Angels,Michael Shaara,en-US,Excellent,4.3,58372,nonfiction
+1022,1995,"Circus of the Damned (Anita Blake, Vampire Hunter, #3)",Laurell K. Hamilton,en-US,Excellent,4.16,73883,fiction
+1023,2006,Ptolemy's Gate,Jonathan Stroud,eng,Excellent,4.24,63838,genre fiction
+1024,1896,The Island of Dr. Moreau,H.G. Wells,eng,Intermediate,3.72,60346,genre fiction
+1025,2012,Opal,Jennifer L. Armentrout,,Excellent,4.34,92014,genre fiction
+1026,2008,Zeitoun,Dave Eggers,,Excellent,4.08,55398,genre fiction
+1027,2010,Out of My Mind,Sharon M. Draper,en-US,Excellent,4.37,63756,nonfiction
+1028,2012,Rapture,Lauren Kate,eng,Excellent,4.03,79360,nonfiction
+1029,2010,Switched,Amanda Hocking,eng,Intermediate,3.89,45319,genre fiction
+1030,1957,Ð”Ð¾ÐºÑ‚Ð¾Ñ€ Ð–Ð¸Ð²Ð°Ð³Ð¾,"Boris Pasternak, Max Hayward, Manya Harari, John Bayley",eng,Excellent,4.03,59973,fiction
+1031,2015,,Colleen Hoover,en-GB,Excellent,4.25,72611,nonfiction
+1032,2012,Pines,Blake Crouch,,Intermediate,3.88,34789,genre fiction
+1033,1994,Disclosure,Michael Crichton,,Intermediate,3.76,57818,genre fiction
+1034,2012,Death Comes to Pemberley,P.D. James,eng,Novice,3.21,65906,genre fiction
+1035,1911,Ethan Frome,Edith Wharton,eng,Novice,3.35,72421,nonfiction
+1036,1992,A Map of the World,"Jane Hamilton, Frank  Muller, C.J. Critt",en-GB,Intermediate,3.78,61347,genre fiction
+1037,2016,It Ends with Us,Colleen Hoover,eng,Famous,4.44,80433,fiction
+1038,1905,The Gift of the Magi,"O. Henry, Lisbeth Zwerger",eng,Excellent,4.07,66537,nonfiction
+1039,1968,The Electric Kool-Aid Acid Test,Tom Wolfe,en-US,Intermediate,3.92,54848,genre fiction
+1040,1959,The Naked Lunch,"William S. Burroughs, James Grauerholz, Barry  Miles",en-US,Novice,3.46,55473,genre fiction
+1041,1991,The Sandman: Dream Country,"Neil Gaiman, Kelley Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Erickson",eng,Excellent,4.28,67753,genre fiction
+1042,2001,A Painted House,John Grisham,eng,Intermediate,3.67,59974,nonfiction
+1043,1969,The Left Hand of Darkness,"Ursula K. Le Guin, Lech JÄ™czmyk",eng,Excellent,4.05,61888,genre fiction
+1044,2008,Let It Snow: Three Holiday Romances,"John Green, Maureen Johnson, Lauren Myracle",eng,Intermediate,3.84,57632,fiction
+1045,2010,"Full Dark, No Stars",Stephen King,en-US,Excellent,4.03,60672,genre fiction
+1046,2014,Being Mortal: Medicine and What Matters in the End,Atul Gawande,eng,Famous,4.4,56510,genre fiction
+1047,1987,Intensity,Dean Koontz,eng,Excellent,4.04,58062,genre fiction
+1048,2010,Chelsea Chelsea Bang Bang,Chelsea Handler,en-US,Intermediate,3.81,55355,children
+1049,1879,Et dukkehjem,"Henrik Ibsen, Michael   Meyer",eng,Intermediate,3.69,69450,genre fiction
+1050,1959,Hawaii,James A. Michener,en-GB,Excellent,4.18,59963,genre fiction
+1051,1961,Revolutionary Road,Richard Yates,eng,Intermediate,3.89,56550,genre fiction
+1052,2006,Nick & Norah's Infinite Playlist,"Rachel Cohn, David Levithan",en-US,Intermediate,3.73,60372,genre fiction
+1053,1966,Rosencrantz and Guildenstern are Dead,"Tom Stoppard, Henry Popkin",eng,Excellent,4.06,67077,nonfiction
+1054,2011,Forever,Maggie Stiefvater,eng,Intermediate,3.91,85034,genre fiction
+1055,1996,The Beach,Alex Garland,eng,Intermediate,3.91,52333,fiction
+1056,2010,Saving CeeCee Honeycutt,"Beth Hoffman, Jenna Lamia",eng,Intermediate,3.92,54341,genre fiction
+1057,2012,Deadlocked,Charlaine Harris,eng,Intermediate,3.65,65932,nonfiction
+1058,2002,Everything's Eventual: 14 Dark Tales,Stephen King,eng,Intermediate,3.94,60932,fiction
+1059,1955,Beezus and Ramona,Beverly Cleary,,Intermediate,3.97,75987,genre fiction
+1060,1972,The Farthest Shore,Ursula K. Le Guin,,Excellent,4.11,65626,nonfiction
+1061,1996,Airframe,Michael Crichton,eng,Intermediate,3.66,59229,genre fiction
+1062,1982,Magician,Raymond E. Feist,en-US,Excellent,4.17,62432,genre fiction
+1063,2004,Bet Me,Jennifer Crusie,eng,Intermediate,3.95,70737,genre fiction
+1064,1994,Long Walk to Freedom: The Autobiography of Nelson Mandela,Nelson Mandela,eng,Excellent,4.31,43927,genre fiction
+1065,2014,Gray Mountain,John Grisham,eng,Intermediate,3.52,37379,nonfiction
+1066,1989,The Power of One,Bryce Courtenay,eng,Excellent,4.34,57312,genre fiction
+1067,1930,The Maltese Falcon,Dashiell Hammett,eng,Intermediate,3.92,58742,genre fiction
+1068,2011,Night Road,Kristin Hannah,en-US,Excellent,4.17,58028,genre fiction
+1069,1999,Tripwire,Lee Child,eng,Excellent,4.07,55251,genre fiction

@@ -1,0 +1,1071 @@
+id,gross sales,publisher revenue,sale price,sales rank,Publisher ,units sold
+1,34160,20496,4.88,1,HarperCollins Publishers,7000
+2,12437.5,7462.5,1.99,2,HarperCollins Publishers,6250
+3,47795,28677,8.69,3,"Amazon Digital Services,  Inc.",5500
+4,41250,24750,7.5,3,Hachette Book Group,5500
+5,37952.5,22771.5,7.99,4,Penguin Group (USA) LLC,4750
+6,19960,0,4.99,5,"Amazon Digital Services,  Inc.",4000
+7,27491.67,16495.002,6.99,6,HarperCollins Publishers,3933
+8,26182,15709.2,6.89,8,Hachette Book Group,3800
+9,26093.67,15656.202,6.99,9,HarperCollins Publishers,3733
+10,23792.34,14275.404,6.49,10,Random House LLC,3666
+11,17964,0,4.99,11,"Amazon Digital Services,  Inc.",3600
+12,21564,12938.4,5.99,11,Penguin Group (USA) LLC,3600
+13,3431.34,0,0.99,13,"Amazon Digital Services,  Inc.",3466
+14,6897.34,4138.404,1.99,13,HarperCollins Publishers,3466
+15,21797.82,13078.692,6.54,15,Random House LLC,3333
+16,16297.34,0,4.99,16,"Amazon Digital Services,  Inc.",3266
+17,15968,0,4.99,17,"Amazon Digital Services,  Inc.",3200
+18,15968,0,4.99,17,"Amazon Digital Services,  Inc.",3200
+19,6234.67,3740.802,1.99,18,Simon and Schuster Digital Sales Inc,3133
+20,3035.34,0,0.99,19,"Amazon Digital Services,  Inc.",3066
+21,11702.67,0,3.99,21,"Amazon Digital Services,  Inc.",2933
+22,8569.34,0,2.99,22,"Amazon Digital Services,  Inc.",2866
+23,2772,0,0.99,23,"Amazon Digital Services,  Inc.",2800
+24,8171.67,0,2.99,24,"Amazon Digital Services,  Inc.",2733
+25,2639.34,1583.604,0.99,25,"Amazon Digital Services,  Inc.",2666
+26,7774,0,2.99,26,"Amazon Digital Services,  Inc.",2600
+27,26904.06,16142.436,10.91,28,Penguin Group (USA) LLC,2466
+28,2376,0,0.99,29,"Amazon Digital Services,  Inc.",2400
+29,9576,5745.6,3.99,29,Hachette Book Group,2400
+30,9308.67,0,3.99,30,"Amazon Digital Services,  Inc.",2333
+31,4509.34,0,1.99,31,"Amazon Digital Services,  Inc.",2266
+32,2178,0,0.99,32,"Amazon Digital Services,  Inc.",2200
+33,13178,7906.8,5.99,32,HarperCollins Publishers,2200
+34,2045.34,1227.204,0.99,34,HarperCollins Publishers,2066
+35,17980,10788,8.99,35,Random House LLC,2000
+36,1964.16,0,0.99,36,"Amazon Digital Services,  Inc.",1984
+37,1964.16,1178.496,0.99,36,"Amazon Digital Services,  Inc.",1984
+38,1949.31,0,0.99,37,"Amazon Digital Services,  Inc.",1969
+39,1949.31,0,0.99,37,"Amazon Digital Services,  Inc.",1969
+40,20309.55,12185.73,10.65,41,Random House LLC,1907
+41,1873.08,0,0.99,42,"Amazon Digital Services,  Inc.",1892
+42,7485.24,0,3.99,43,"Amazon Digital Services,  Inc.",1876
+43,3703.39,2222.034,1.99,44,"Amazon Digital Services,  Inc.",1861
+44,11057.54,6634.524,5.99,45,HarperCollins Publishers,1846
+45,12791.7,7675.02,6.99,46,"Amazon Digital Services,  Inc.",1830
+46,8982,0,4.99,48,"Amazon Digital Services,  Inc.",1800
+47,3582,2149.2,1.99,48,"Amazon Digital Services,  Inc.",1800
+48,1766.16,1059.696,0.99,49,"Amazon Digital Services,  Inc.",1784
+49,10596.31,6357.786,5.99,50,Penguin Group (USA) LLC,1769
+50,15058.27,9034.962,8.59,51,Hachette Book Group,1753
+51,1720.62,1032.372,0.99,52,"Amazon Digital Services,  Inc.",1738
+52,1705.77,1023.462,0.99,53,Random House LLC,1723
+53,8517.93,0,4.99,54,"Amazon Digital Services,  Inc.",1707
+54,1675.08,1005.048,0.99,55,Macmillan,1692
+55,6687.24,0,3.99,56,"Amazon Digital Services,  Inc.",1676
+56,4966.39,2979.834,2.99,57,Penguin Group (USA) LLC,1661
+57,1629.54,977.724,0.99,58,"Amazon Digital Services,  Inc.",1646
+58,17783.3,10669.98,10.91,59,Penguin Group (USA) LLC,1630
+59,1613.7,0,0.99,59,"Amazon Digital Services,  Inc.",1630
+60,18394.85,11036.91,11.39,60,Hachette Book Group,1615
+61,10384,6230.4,6.49,61,Random House LLC,1600
+62,6320.16,0,3.99,62,"Amazon Digital Services,  Inc.",1584
+63,4707,0,3,63,"Amazon Digital Services,  Inc.",1569
+64,1522.62,0,0.99,65,"Amazon Digital Services,  Inc.",1538
+65,5924.47,0,3.89,66,"Amazon Digital Services,  Inc.",1523
+66,12040.93,0,7.99,67,"Amazon Digital Services,  Inc.",1507
+67,13413.08,8047.848,8.99,68,Hachette Book Group,1492
+68,2907.39,0,1.99,70,"Amazon Digital Services,  Inc.",1461
+69,11553.54,6932.124,7.99,71,Penguin Group (USA) LLC,1446
+70,5705.7,0,3.99,72,"Amazon Digital Services,  Inc.",1430
+71,9890.85,5934.51,6.99,73,Penguin Group (USA) LLC,1415
+72,5245.36,3147.216,3.79,75,Hachette Book Group,1384
+73,5826.64,3495.984,4.21,75,"Amazon Digital Services,  Inc.",1384
+74,2724.31,1634.586,1.99,76,Hachette Book Group,1369
+75,5462.31,3277.386,3.99,76,Hachette Book Group,1369
+76,6751.47,0,4.99,77,"Amazon Digital Services,  Inc.",1353
+77,6676.62,0,4.99,78,"Amazon Digital Services,  Inc.",1338
+78,1309.77,785.862,0.99,79,"Amazon Digital Services,  Inc.",1323
+79,5933.78,3560.268,4.54,80,HarperCollins Publishers,1307
+80,8482.43,5089.458,6.49,80,Hachette Book Group,1307
+81,6447.08,3868.248,4.99,81,Random House LLC,1292
+82,2539.24,1523.544,1.99,82,HarperCollins Publishers,1276
+83,4907.7,0,3.99,85,"Amazon Digital Services,  Inc.",1230
+84,1202.85,0,0.99,86,"Amazon Digital Services,  Inc.",1215
+85,2417.85,1450.71,1.99,86,HarperCollins Publishers,1215
+86,1188,0,0.99,87,"Amazon Digital Services,  Inc.",1200
+87,2388,0,1.99,87,"Amazon Digital Services,  Inc.",1200
+88,2356.16,1413.696,1.99,88,Macmillan,1184
+89,1157.31,694.386,0.99,89,"Amazon Digital Services,  Inc.",1169
+90,1157.31,694.386,0.99,89,"Amazon Digital Services,  Inc.",1169
+91,1111.77,0,0.99,92,"Amazon Digital Services,  Inc.",1123
+92,5603.77,3362.262,4.99,92,"Amazon Digital Services,  Inc.",1123
+93,2202.93,1321.758,1.99,93,Macmillan,1107
+94,6983.24,4189.944,6.49,95,Random House LLC,1076
+95,6885.89,4131.534,6.49,96,Random House LLC,1061
+96,1035.54,621.324,0.99,97,"Amazon Digital Services,  Inc.",1046
+97,1019.7,0,0.99,98,"Amazon Digital Services,  Inc.",1030
+98,6079.85,0,5.99,99,"Amazon Digital Services,  Inc.",1015
+99,6932.45,4159.47,6.83,99,Penguin Group (USA) LLC,1015
+100,985.05,0,0.99,101,"Amazon Digital Services,  Inc.",995
+101,5068.8,3041.28,5.12,102,Penguin Group (USA) LLC,990
+102,2195.2,1317.12,2.24,104,"Amazon Digital Services,  Inc.",980
+103,7312.5,4387.5,7.5,105,Hachette Book Group,975
+104,960.3,0,0.99,106,"Amazon Digital Services,  Inc.",970
+105,10224,6134.4,10.65,108,Penguin Group (USA) LLC,960
+106,7670.4,4602.24,7.99,108,Penguin Group (USA) LLC,960
+107,1880.55,0,1.99,111,"Amazon Digital Services,  Inc.",945
+108,4690.6,2814.36,4.99,112,Macmillan,940
+109,3730.65,2238.39,3.99,113,Penguin Group (USA) LLC,935
+110,1850.7,0,1.99,114,"Amazon Digital Services,  Inc.",930
+111,5980,3588,6.5,116,"Amazon Digital Services,  Inc.",920
+112,905.85,543.51,0.99,117,Random House LLC,915
+113,7759.2,4655.52,8.48,117,"Amazon Digital Services,  Inc.",915
+114,900.9,0,0.99,118,"Amazon Digital Services,  Inc.",910
+115,895.95,537.57,0.99,119,"Amazon Digital Services,  Inc.",905
+116,891,0,0.99,120,"Amazon Digital Services,  Inc.",900
+117,5841,3504.6,6.49,120,Macmillan,900
+118,10731.05,6438.63,11.99,121,Random House LLC,895
+119,2661.1,0,2.99,122,"Amazon Digital Services,  Inc.",890
+120,1771.1,1062.66,1.99,122,HarperCollins Publishers,890
+121,3531.15,0,3.99,123,"Amazon Digital Services,  Inc.",885
+122,6525,3915,7.5,126,Simon and Schuster Digital Sales Inc,870
+123,3451.35,0,3.99,127,"Amazon Digital Services,  Inc.",865
+124,6871.4,4122.84,7.99,128,Random House LLC,860
+125,841.5,504.9,0.99,130,"Amazon Digital Services,  Inc.",850
+126,10131.55,6078.93,11.99,131,Hachette Book Group,845
+127,6711.6,4026.96,7.99,132,Random House LLC,840
+128,816.75,0,0.99,135,"Amazon Digital Services,  Inc.",825
+129,1641.75,985.05,1.99,135,HarperCollins Publishers,825
+130,5696.85,3418.11,6.99,137,Random House LLC,815
+131,2421.9,0,2.99,138,"Amazon Digital Services,  Inc.",810
+132,8573.25,5143.95,10.65,139,Penguin Group (USA) LLC,805
+133,3192,0,3.99,140,"Amazon Digital Services,  Inc.",800
+134,792,475.2,0.99,140,"Amazon Digital Services,  Inc.",800
+135,3172.05,0,3.99,141,"Amazon Digital Services,  Inc.",795
+136,1572.1,943.26,1.99,142,"Amazon Digital Services,  Inc.",790
+137,9412.15,5647.29,11.99,143,Penguin Group (USA) LLC,785
+138,3112.2,0,3.99,144,"Amazon Digital Services,  Inc.",780
+139,8269.25,4961.55,10.67,145,Simon and Schuster Digital Sales Inc,775
+140,1512.4,907.44,1.99,148,HarperCollins Publishers,760
+141,3012.45,0,3.99,149,"Amazon Digital Services,  Inc.",755
+142,3742.5,0,4.99,150,"Amazon Digital Services,  Inc.",750
+143,2992.5,0,3.99,150,"Amazon Digital Services,  Inc.",750
+144,3717.55,2230.53,4.99,151,Random House LLC,745
+145,2952.6,1771.56,3.99,152,Macmillan,740
+146,727.65,0,0.99,153,"Amazon Digital Services,  Inc.",735
+147,3642.7,0,4.99,154,"Amazon Digital Services,  Inc.",730
+148,5444.75,3266.85,7.51,155,Random House LLC,725
+149,712.8,0,0.99,156,"Amazon Digital Services,  Inc.",720
+150,702.9,0,0.99,158,"Amazon Digital Services,  Inc.",710
+151,697.95,418.77,0.99,159,"Amazon Digital Services,  Inc.",705
+152,5593,3355.8,7.99,160,Hachette Book Group,700
+153,1353.2,811.92,1.99,164,HarperCollins Publishers,680
+154,668.25,400.95,0.99,165,"Amazon Digital Services,  Inc.",675
+155,3678.3,2206.98,5.49,166,"Amazon Digital Services,  Inc.",670
+156,658.35,395.01,0.99,167,"Amazon Digital Services,  Inc.",665
+157,7814.4,4688.64,11.84,168,Random House LLC,660
+158,648.45,0,0.99,169,"Amazon Digital Services,  Inc.",655
+159,9818.45,5891.07,14.99,169,Random House LLC,655
+160,3243.5,0,4.99,170,"Amazon Digital Services,  Inc.",650
+161,1943.5,0,2.99,170,"Amazon Digital Services,  Inc.",650
+162,3218.55,0,4.99,171,"Amazon Digital Services,  Inc.",645
+163,4473.6,2684.16,6.99,172,Random House LLC,640
+164,5663.7,3398.22,8.99,174,Simon and Schuster Digital Sales Inc,630
+165,608.85,0,0.99,177,"Amazon Digital Services,  Inc.",615
+166,603.9,362.34,0.99,178,"Amazon Digital Services,  Inc.",610
+167,1210,0,2,179,"Amazon Digital Services,  Inc.",605
+168,594,0,0.99,180,"Amazon Digital Services,  Inc.",600
+169,3540.25,0,5.95,181,"Amazon Digital Services,  Inc.",595
+170,3564.05,2138.43,5.99,181,Penguin Group (USA) LLC,595
+171,1174.1,704.46,1.99,182,"Amazon Digital Services,  Inc.",590
+172,5200.65,3120.39,8.89,183,Macmillan,585
+173,569.25,0,0.99,185,"Amazon Digital Services,  Inc.",575
+174,1134.3,0,1.99,186,"Amazon Digital Services,  Inc.",570
+175,1659.45,0,2.99,189,"Amazon Digital Services,  Inc.",555
+176,4434.45,2660.67,7.99,189,Penguin Group (USA) LLC,555
+177,544.5,326.7,0.99,190,"Amazon Digital Services,  Inc.",550
+178,534.6,0,0.99,192,"Amazon Digital Services,  Inc.",540
+179,2154.6,0,3.99,192,"Amazon Digital Services,  Inc.",540
+180,1599.65,959.79,2.99,193,Random House LLC,535
+181,524.7,314.82,0.99,194,Macmillan,530
+182,1024.85,614.91,1.99,197,"Amazon Digital Services,  Inc.",515
+183,1524.9,0,2.99,198,"Amazon Digital Services,  Inc.",510
+184,2014.95,1208.97,3.99,199,"Amazon Digital Services,  Inc.",505
+185,5433.18,3259.908,10.91,201,Penguin Group (USA) LLC,498
+186,1483.04,0,2.99,202,"Amazon Digital Services,  Inc.",496
+187,2950.91,1770.546,6.01,205,HarperCollins Publishers,491
+188,2445.1,1467.06,4.99,206,Hachette Book Group,490
+189,483.12,289.872,0.99,207,"Amazon Digital Services,  Inc.",488
+190,2605.92,1563.552,5.34,207,Penguin Group (USA) LLC,488
+191,5269.53,3161.718,10.91,210,Penguin Group (USA) LLC,483
+192,2057.58,1234.548,4.26,210,HarperCollins Publishing,483
+193,476.19,0,0.99,211,"Amazon Digital Services,  Inc.",481
+194,475.2,285.12,0.99,212,"Amazon Digital Services,  Inc.",480
+195,1429.22,0,2.99,213,"Amazon Digital Services,  Inc.",478
+196,5253.22,3151.932,10.99,213,Random House LLC,478
+197,1423.24,0,2.99,214,"Amazon Digital Services,  Inc.",476
+198,2375.24,1425.144,4.99,214,Hachette Book Group,476
+199,470.25,0,0.99,215,"Amazon Digital Services,  Inc.",475
+200,470.25,282.15,0.99,215,"Amazon Digital Services,  Inc.",475
+201,1399.32,0,2.99,219,"Amazon Digital Services,  Inc.",468
+202,461.34,0,0.99,220,"Amazon Digital Services,  Inc.",466
+203,1393.34,0,2.99,220,"Amazon Digital Services,  Inc.",466
+204,460.35,276.21,0.99,221,Macmillan,465
+205,455.4,273.24,0.99,224,Random House LLC,460
+206,455.4,0,0.99,224,"Amazon Digital Services,  Inc.",460
+207,3643.44,0,7.99,226,"Amazon Digital Services,  Inc.",456
+208,1815.45,1089.27,3.99,227,"Amazon Digital Services,  Inc.",455
+209,5000.45,3000.27,10.99,227,Simon and Schuster Digital Sales Inc,455
+210,5195.91,3117.546,11.47,228,Random House LLC,453
+211,448.47,0,0.99,228,"Amazon Digital Services,  Inc.",453
+212,2250.49,1350.294,4.99,229,Penguin Group (USA) LLC,451
+213,4792.5,2875.5,10.65,230,Random House LLC,450
+214,4771.2,2862.72,10.65,231,Penguin Group (USA) LLC,448
+215,443.52,266.112,0.99,231,"Amazon Digital Services,  Inc.",448
+216,1324.57,794.742,2.99,234,Simon and Schuster Digital Sales Inc,443
+217,8811.18,5286.708,19.98,235,Random House LLC,441
+218,2175.64,1305.384,4.99,238,Random House LLC,436
+219,430.65,0,0.99,239,"Amazon Digital Services,  Inc.",435
+220,5191.67,3115.002,11.99,240,Penguin Group (USA) LLC,433
+221,2593.67,1556.202,5.99,240,Hachette Book Group,433
+222,426.69,256.014,0.99,241,"Amazon Digital Services,  Inc.",431
+223,425.7,255.42,0.99,242,Random House LLC,430
+224,5107.74,3064.644,11.99,244,Penguin Group (USA) LLC,426
+225,3821.22,2292.732,8.97,244,"Amazon Digital Services,  Inc.",426
+226,420.75,252.45,0.99,245,Macmillan,425
+227,1687.77,0,3.99,246,"Amazon Digital Services,  Inc.",423
+228,4473,2683.8,10.65,248,Random House LLC,420
+229,413.82,248.292,0.99,249,Macmillan,418
+230,411.84,0,0.99,250,"Amazon Digital Services,  Inc.",416
+231,2070.85,1242.51,4.99,251,Random House LLC,415
+232,2537.9,1522.74,6.19,254,"Amazon Digital Services,  Inc.",410
+233,1219.92,0,2.99,255,"Amazon Digital Services,  Inc.",408
+234,1685.04,1011.024,4.13,255,"Amazon Digital Services,  Inc.",408
+235,2025.94,1215.564,4.99,256,Random House LLC,406
+236,2251.8,1351.08,5.56,257,"Amazon Digital Services,  Inc.",405
+237,1007.5,604.5,2.5,258,HarperCollins Publishers,403
+238,4270.65,2562.39,10.65,259,Penguin Group (USA) LLC,401
+239,3180.02,1908.012,7.99,261,Penguin Group (USA) LLC,398
+240,392.04,235.224,0.99,262,"Amazon Digital Services,  Inc.",396
+241,392.04,235.224,0.99,262,"Amazon Digital Services,  Inc.",396
+242,387.09,232.254,0.99,265,"Amazon Digital Services,  Inc.",391
+243,2726.1,1635.66,6.99,266,Hachette Book Group,390
+244,1154.14,692.484,2.99,268,Macmillan,386
+245,766.15,459.69,1.99,269,Random House LLC,385
+246,3060.17,1836.102,7.99,270,Penguin Group (USA) LLC,383
+247,758.19,0,1.99,271,"Amazon Digital Services,  Inc.",381
+248,3013.71,1808.226,7.91,271,"Amazon Digital Services,  Inc.",381
+249,1136.2,681.72,2.99,272,Simon and Schuster Digital Sales Inc,380
+250,1886.22,1131.732,4.99,273,Penguin Group (USA) LLC,378
+251,1124.24,674.544,2.99,274,"Amazon Digital Services,  Inc.",376
+252,371.25,0,0.99,275,"Amazon Digital Services,  Inc.",375
+253,1871.25,1122.75,4.99,275,Random House LLC,375
+254,1488.27,0,3.99,276,"Amazon Digital Services,  Inc.",373
+255,1115.27,669.162,2.99,276,Hachette Book Group,373
+256,366.3,0,0.99,278,"Amazon Digital Services,  Inc.",370
+257,2775,1665,7.5,278,Hachette Book Group,370
+258,1100.32,660.192,2.99,279,Random House LLC,368
+259,1094.34,0,2.99,280,"Amazon Digital Services,  Inc.",366
+260,4388.34,2633.004,11.99,280,Penguin Group (USA) LLC,366
+261,4084.35,2450.61,11.19,281,HarperCollins Publishers,365
+262,1811.37,0,4.99,282,"Amazon Digital Services,  Inc.",363
+263,1085.37,651.222,2.99,282,"Amazon Digital Services,  Inc.",363
+264,357.39,214.434,0.99,283,"Amazon Digital Services,  Inc.",361
+265,1079.39,647.634,2.99,283,Penguin Group (USA) LLC,361
+266,3905.78,2343.468,10.91,285,Random House LLC,358
+267,1064.44,638.664,2.99,286,Macmillan,356
+268,706.45,423.87,1.99,287,Simon and Schuster Digital Sales Inc,355
+269,1049.49,0,2.99,289,"Amazon Digital Services,  Inc.",351
+270,347.49,208.494,0.99,289,"Amazon Digital Services,  Inc.",351
+271,346.5,0,0.99,290,"Amazon Digital Services,  Inc.",350
+272,344.52,0,0.99,291,"Amazon Digital Services,  Inc.",348
+273,1031.55,618.93,2.99,293,Simon and Schuster Digital Sales Inc,345
+274,1025.57,0,2.99,294,"Amazon Digital Services,  Inc.",343
+275,1019.59,0,2.99,295,"Amazon Digital Services,  Inc.",341
+276,1019.59,611.754,2.99,295,Simon and Schuster Digital Sales Inc,341
+277,3872.6,2323.56,11.39,296,Penguin Group (USA) LLC,340
+278,1686.62,0,4.99,297,"Amazon Digital Services,  Inc.",338
+279,1676.64,0,4.99,298,"Amazon Digital Services,  Inc.",336
+280,666.65,399.99,1.99,299,HarperCollins Publishers,335
+281,2620.72,1572.432,7.99,303,Random House LLC,328
+282,2875.32,1725.192,8.82,304,Penguin Group (USA) LLC,326
+283,1300.74,0,3.99,304,"Amazon Digital Services,  Inc.",326
+284,2759.25,1655.55,8.49,305,HarperCollins Publishers,325
+285,1611.77,967.062,4.99,306,Simon and Schuster Digital Sales Inc,323
+286,2468.49,1481.094,7.69,307,Penguin Group (USA) LLC,321
+287,950.82,0,2.99,309,"Amazon Digital Services,  Inc.",318
+288,1576.84,0,4.99,310,"Amazon Digital Services,  Inc.",316
+289,2044.35,1226.61,6.49,311,Random House LLC,315
+290,1874.87,1124.922,5.99,312,Random House LLC,313
+291,307.89,184.734,0.99,313,"Amazon Digital Services,  Inc.",311
+292,306.9,0,0.99,314,"Amazon Digital Services,  Inc.",310
+293,616.9,370.14,1.99,314,"Amazon Digital Services,  Inc.",310
+294,2460.92,1476.552,7.99,315,Hachette Book Group,308
+295,2152.92,1291.752,6.99,315,Penguin Group (USA) LLC,308
+296,10327.3,6196.38,33.86,317,Penguin Group (USA) LLC,305
+297,598.99,0,1.99,319,"Amazon Digital Services,  Inc.",301
+298,1487.02,892.212,4.99,321,Random House LLC,298
+299,891.02,0,2.99,321,"Amazon Digital Services,  Inc.",298
+300,1181.04,0,3.99,322,"Amazon Digital Services,  Inc.",296
+301,885.04,531.024,2.99,322,"Amazon Digital Services,  Inc.",296
+302,1772.95,1063.77,6.01,323,HarperCollins Publishers,295
+303,292.05,0,0.99,323,"Amazon Digital Services,  Inc.",295
+304,290.07,0,0.99,324,"Amazon Digital Services,  Inc.",293
+305,288.09,172.854,0.99,325,HarperCollins Christian Publishing,291
+306,3694.6,2216.76,12.74,326,Hachette Book Group,290
+307,1149.12,689.472,3.99,327,"Amazon Digital Services,  Inc.",288
+308,1707.15,1024.29,5.99,329,Simon and Schuster Digital Sales Inc,285
+309,427.5,0,1.5,329,"Amazon Digital Services,  Inc.",285
+310,2071.56,1242.936,7.32,330,Hachette Book Group,283
+311,1412.17,847.302,4.99,330,Simon and Schuster Digital Sales Inc,283
+312,3650.19,2190.114,12.99,331,"Amazon Digital Services,  Inc.",281
+313,1387.22,0,4.99,333,"Amazon Digital Services,  Inc.",278
+314,1097.25,658.35,3.99,335,Simon and Schuster Digital Sales Inc,275
+315,2618.07,1570.842,9.59,336,HarperCollins Publishers,273
+316,267.3,0,0.99,338,"Amazon Digital Services,  Inc.",270
+317,267.3,0,0.99,338,"Amazon Digital Services,  Inc.",270
+318,263.34,0,0.99,340,"Amazon Digital Services,  Inc.",266
+319,997.5,0,3.75,340,"Amazon Digital Services,  Inc.",266
+320,1719.85,1031.91,6.49,341,Hachette Book Group,265
+321,1877.82,1126.692,7.14,342,"Amazon Digital Services,  Inc.",263
+322,1041.39,0,3.99,343,"Amazon Digital Services,  Inc.",261
+323,777.4,0,2.99,344,"Amazon Digital Services,  Inc.",260
+324,771.42,462.852,2.99,345,Simon and Schuster Digital Sales Inc,258
+325,1527.45,916.47,5.99,347,Penguin Group (USA) LLC,255
+326,997.5,0,3.99,350,"Amazon Digital Services,  Inc.",250
+327,997.5,598.5,3.99,350,"Amazon Digital Services,  Inc.",250
+328,246.51,147.906,0.99,351,"Amazon Digital Services,  Inc.",249
+329,744.51,446.706,2.99,351,Random House LLC,249
+330,1635.93,981.558,6.57,352,"Amazon Digital Services,  Inc.",249
+331,3221.52,0,12.99,353,"Amazon Digital Services,  Inc.",248
+332,741.52,444.912,2.99,354,HarperCollins Publishers,248
+333,738.53,0,2.99,355,"Amazon Digital Services,  Inc.",247
+334,1141.14,684.684,4.62,356,Penguin Group (USA) LLC,247
+335,244.53,146.718,0.99,356,"Amazon Digital Services,  Inc.",247
+336,1227.54,736.524,4.99,357,Simon and Schuster Digital Sales Inc,246
+337,977.55,0,3.99,359,"Amazon Digital Services,  Inc.",245
+338,977.55,586.53,3.99,360,"Amazon Digital Services,  Inc.",245
+339,1698.57,1019.142,6.99,363,Hachette Book Group,243
+340,726.57,435.942,2.99,364,"Amazon Digital Services,  Inc.",243
+341,1494.45,896.67,6.15,364,"Amazon Digital Services,  Inc.",243
+342,965.58,0,3.99,366,"Amazon Digital Services,  Inc.",242
+343,1202.59,721.554,4.99,367,Simon and Schuster Digital Sales Inc,241
+344,2566.65,1539.99,10.65,368,Hachette Book Group,241
+345,1197.6,718.56,4.99,370,Simon and Schuster Digital Sales Inc,240
+346,236.61,141.966,0.99,371,"Amazon Digital Services,  Inc.",239
+347,953.61,0,3.99,372,"Amazon Digital Services,  Inc.",239
+348,1544.62,926.772,6.49,373,Random House LLC,238
+349,1419.63,851.778,5.99,375,Random House LLC,237
+350,471.63,0,1.99,376,"Amazon Digital Services,  Inc.",237
+351,1182.63,709.578,4.99,376,Random House LLC,237
+352,708.63,0,2.99,376,"Amazon Digital Services,  Inc.",237
+353,1885.64,1131.384,7.99,378,HarperCollins Christian Publishing,236
+354,1642.65,985.59,6.99,380,Penguin Group (USA) LLC,235
+355,933.66,560.196,3.99,381,"Amazon Digital Services,  Inc.",234
+356,463.67,278.202,1.99,383,Simon and Schuster Digital Sales Inc,233
+357,461.68,277.008,1.99,385,HarperCollins Publishers,6264
+358,925.68,0,3.99,385,"Amazon Digital Services,  Inc.",6264
+359,2460.15,1476.09,10.65,387,Random House LLC,6237
+360,690.69,414.414,2.99,388,HarperCollins Publishers,6237
+361,687.7,412.62,2.99,389,Macmillan,6210
+362,2509.3,1505.58,10.91,389,Random House LLC,6210
+363,226.71,0,0.99,391,"Amazon Digital Services,  Inc.",6183
+364,1142.71,0,4.99,392,"Amazon Digital Services,  Inc.",6183
+365,909.72,0,3.99,393,"Amazon Digital Services,  Inc.",6156
+366,5902.92,3541.752,25.89,393,HarperCollins Publishers,6156
+367,1468.69,881.214,6.47,395,"Amazon Digital Services,  Inc.",6129
+368,223.74,134.244,0.99,397,"Amazon Digital Services,  Inc.",6102
+369,1188.76,713.256,5.26,398,"Amazon Digital Services,  Inc.",6102
+370,897.75,538.65,3.99,400,"Amazon Digital Services,  Inc.",6075
+371,221.76,0,0.99,401,"Amazon Digital Services,  Inc.",6048
+372,1274.56,764.736,5.69,401,"Amazon Digital Services,  Inc.",6048
+373,1112.77,0,4.99,403,"Amazon Digital Services,  Inc.",6021
+374,1781.77,1069.062,7.99,404,Penguin Group (USA) LLC,6021
+375,1662.78,997.668,7.49,406,Penguin Group (USA) LLC,5994
+376,660.79,396.474,2.99,408,Simon and Schuster Digital Sales Inc,5967
+377,437.8,262.68,1.99,409,Random House LLC,5940
+378,3955.6,2373.36,17.98,409,"Amazon Digital Services,  Inc.",5940
+379,2067.36,1240.416,9.44,411,"Amazon Digital Services,  Inc.",5913
+380,1311.81,787.086,5.99,412,Macmillan,5913
+381,433.82,260.292,1.99,413,"Amazon Digital Services,  Inc.",5886
+382,2177.82,1306.692,9.99,414,"Amazon Digital Services,  Inc.",5886
+383,1864.03,1118.418,8.59,415,Hachette Book Group,5859
+384,214.83,128.898,0.99,416,"Amazon Digital Services,  Inc.",5859
+385,2311.05,1386.63,10.65,416,Random House LLC,5859
+386,1072.85,0,4.99,419,"Amazon Digital Services,  Inc.",5805
+387,1717.85,1030.71,7.99,419,Random House LLC,5805
+388,642.85,385.71,2.99,420,"Amazon Digital Services,  Inc.",5805
+389,1281.86,0,5.99,421,"Amazon Digital Services,  Inc.",5778
+390,849.87,509.922,3.99,423,"Amazon Digital Services,  Inc.",5751
+391,423.87,254.322,1.99,423,HarperCollins Publishers,5751
+392,1062.87,637.722,4.99,424,Hachette Book Group,5751
+393,1693.88,1016.328,7.99,425,Penguin Group (USA) LLC,5724
+394,1080.32,648.192,5.12,427,Random House LLC,5697
+395,630.89,0,2.99,428,"Amazon Digital Services,  Inc.",5697
+396,2007.6,1204.56,9.56,430,Simon and Schuster Digital Sales Inc,5670
+397,833.91,0,3.99,431,"Amazon Digital Services,  Inc.",5643
+398,206.91,124.146,0.99,432,"Amazon Digital Services,  Inc.",5643
+399,621.92,0,2.99,433,"Amazon Digital Services,  Inc.",5616
+400,205.92,0,0.99,433,"Amazon Digital Services,  Inc.",5616
+401,1245.92,747.552,5.99,434,Random House LLC,5616
+402,1032.93,0,4.99,436,"Amazon Digital Services,  Inc.",5589
+403,2457.95,1474.77,11.99,439,Penguin Group (USA) LLC,5535
+404,1621.97,973.182,7.99,444,Penguin Group (USA) LLC,5481
+405,1703.17,1021.902,8.39,444,Random House LLC,5481
+406,603.98,0,2.99,445,"Amazon Digital Services,  Inc.",5454
+407,603.98,0,2.99,445,"Amazon Digital Services,  Inc.",5454
+408,600.99,360.594,2.99,447,Simon and Schuster Digital Sales Inc,5427
+409,198.99,119.394,0.99,447,"Amazon Digital Services,  Inc.",5427
+410,399.99,239.994,1.99,448,Hachette Book Group,5427
+411,500,300,2.5,449,HarperCollins Publishers,5400
+412,1898,0,9.49,450,"Amazon Digital Services,  Inc.",5400
+413,595.01,0,2.99,452,"Amazon Digital Services,  Inc.",5373
+414,196.02,117.612,0.99,453,"Amazon Digital Services,  Inc.",5346
+415,790.02,0,3.99,454,"Amazon Digital Services,  Inc.",5346
+416,1059.86,635.916,5.38,455,Random House LLC,5319
+417,194.04,0,0.99,457,"Amazon Digital Services,  Inc.",5292
+418,586.04,0,2.99,458,"Amazon Digital Services,  Inc.",5292
+419,1480.05,888.03,7.59,459,Random House LLC,5265
+420,583.05,349.83,2.99,460,Simon and Schuster Digital Sales Inc,5265
+421,192.06,115.236,0.99,462,HarperCollins Publishers,5238
+422,191.07,0,0.99,463,"Amazon Digital Services,  Inc.",5211
+423,770.07,0,3.99,463,"Amazon Digital Services,  Inc.",5211
+424,1726.08,1035.648,8.99,465,HarperCollins Publishers,5184
+425,1468.79,881.274,7.69,468,Penguin Group (USA) LLC,5157
+426,948.1,0,4.99,470,"Amazon Digital Services,  Inc.",5130
+427,376.11,0,1.99,471,"Amazon Digital Services,  Inc.",5103
+428,1510.11,906.066,7.99,472,Random House LLC,5103
+429,565.11,339.066,2.99,472,Random House LLC,5103
+430,750.12,0,3.99,473,"Amazon Digital Services,  Inc.",5076
+431,186.12,0,0.99,474,"Amazon Digital Services,  Inc.",5076
+432,185.13,0,0.99,475,"Amazon Digital Services,  Inc.",5049
+433,746.13,0,3.99,476,"Amazon Digital Services,  Inc.",5049
+434,184.14,110.484,0.99,477,"Amazon Digital Services,  Inc.",5022
+435,1114.14,668.484,5.99,478,Penguin Group (USA) LLC,5022
+436,553.15,331.89,2.99,479,"Amazon Digital Services,  Inc.",4995
+437,550.16,330.096,2.99,482,Macmillan,4968
+438,181.17,0,0.99,483,"Amazon Digital Services,  Inc.",4941
+439,544.18,326.508,2.99,485,Hachette Book Group,4914
+440,1243.06,745.836,6.83,486,Penguin Group (USA) LLC,4914
+441,903.19,0,4.99,488,"Amazon Digital Services,  Inc.",4887
+442,1726.2,1035.72,9.59,489,Macmillan,4860
+443,177.21,106.326,0.99,491,"Amazon Digital Services,  Inc.",4833
+444,2280.46,1368.276,12.74,492,Hachette Book Group,4833
+445,176.22,0,0.99,493,"Amazon Digital Services,  Inc.",4806
+446,532.22,319.332,2.99,493,Hachette Book Group,4806
+447,354.22,212.532,1.99,493,Hachette Book Group,4806
+448,1242.44,745.464,6.98,494,"Amazon Digital Services,  Inc.",4806
+449,175.23,105.138,0.99,495,"Amazon Digital Services,  Inc.",4779
+450,350.24,0,1.99,497,"Amazon Digital Services,  Inc.",4752
+451,702.24,421.344,3.99,497,"Amazon Digital Services,  Inc.",4752
+452,1230.24,738.144,6.99,498,HarperCollins Publishers,4752
+453,523.25,0,2.99,499,"Amazon Digital Services,  Inc.",4725
+454,868.26,0,4.99,502,"Amazon Digital Services,  Inc.",4698
+455,1216.26,729.756,6.99,502,Simon and Schuster Digital Sales Inc,4698
+456,1346.76,808.056,7.74,503,"Amazon Digital Services,  Inc.",4698
+457,1842.45,1105.47,10.65,505,Random House LLC,4671
+458,344.27,206.562,1.99,505,"Amazon Digital Services,  Inc.",4671
+459,171.27,0,0.99,508,"Amazon Digital Services,  Inc.",4671
+460,517.27,310.362,2.99,509,Simon and Schuster Digital Sales Inc,4671
+461,170.28,102.168,0.99,511,"Amazon Digital Services,  Inc.",4644
+462,1632.28,979.368,9.49,513,Penguin Group (USA) LLC,4644
+463,340.29,0,1.99,514,"Amazon Digital Services,  Inc.",4617
+464,1024.29,0,5.99,514,"Amazon Digital Services,  Inc.",4617
+465,1879.29,1127.574,10.99,516,Macmillan,4617
+466,1109.79,665.874,6.49,517,Hachette Book Group,4617
+467,648.09,388.854,3.79,517,Hachette Book Group,4617
+468,340.29,0,1.99,518,"Amazon Digital Services,  Inc.",4617
+469,508.3,304.98,2.99,519,Penguin Group (USA) LLC,4590
+470,678.3,0,3.99,519,"Amazon Digital Services,  Inc.",4590
+471,848.3,0,4.99,520,"Amazon Digital Services,  Inc.",4590
+472,1688.31,1012.986,9.99,523,Simon and Schuster Digital Sales Inc,4563
+473,1350.31,810.186,7.99,524,Random House LLC,4563
+474,674.31,404.586,3.99,524,"Amazon Digital Services,  Inc.",4563
+475,167.31,100.386,0.99,524,"Amazon Digital Services,  Inc.",4563
+476,2153.06,1291.836,12.74,525,Macmillan,4563
+477,1294.54,776.724,7.66,526,Simon and Schuster Digital Sales Inc,4563
+478,1843.79,1106.274,10.91,526,Macmillan,4563
+479,1342.32,805.392,7.99,528,HarperCollins Publishers,4536
+480,166.32,0,0.99,530,"Amazon Digital Services,  Inc.",4536
+481,1291.92,775.152,7.69,531,Penguin Group (USA) LLC,4536
+482,332.33,199.398,1.99,532,HarperCollins Publishers,4509
+483,165.33,0,0.99,534,"Amazon Digital Services,  Inc.",4509
+484,1985.63,1191.378,11.89,535,HarperCollins Publishers,4509
+485,833.33,499.998,4.99,535,"Amazon Digital Services,  Inc.",4509
+486,1835.33,1101.198,10.99,536,Random House LLC,4509
+487,1152.04,691.224,6.94,537,Random House LLC,4482
+488,164.34,0,0.99,538,"Amazon Digital Services,  Inc.",4482
+489,1226.74,0,7.39,539,"Amazon Digital Services,  Inc.",4482
+490,1153.35,692.01,6.99,541,Penguin Group (USA) LLC,4455
+491,823.35,494.01,4.99,542,"Amazon Digital Services,  Inc.",4455
+492,163.35,98.01,0.99,543,Hachette Book Group,4455
+493,823.35,494.01,4.99,544,Hachette Book Group,4455
+494,1757.25,1054.35,10.65,545,Penguin Group (USA) LLC,4455
+495,162.36,0,0.99,546,"Amazon Digital Services,  Inc.",4428
+496,1746.6,1047.96,10.65,547,Penguin Group (USA) LLC,4428
+497,162.36,97.416,0.99,549,"Amazon Digital Services,  Inc.",4428
+498,162.36,0,0.99,549,"Amazon Digital Services,  Inc.",4428
+499,162.36,97.416,0.99,550,"Amazon Digital Services,  Inc.",4428
+500,324.37,194.622,1.99,551,"Amazon Digital Services,  Inc.",4401
+501,813.37,488.022,4.99,551,Penguin Group (USA) LLC,4401
+502,1470.26,882.156,9.02,553,Random House LLC,4401
+503,161.37,96.822,0.99,554,"Amazon Digital Services,  Inc.",4401
+504,322.38,193.428,1.99,557,"Amazon Digital Services,  Inc.",4374
+505,322.38,193.428,1.99,557,"Amazon Digital Services,  Inc.",4374
+506,160.38,96.228,0.99,558,"Amazon Digital Services,  Inc.",4374
+507,320.39,192.234,1.99,561,Random House LLC,4347
+508,642.39,385.434,3.99,561,Hachette Book Group,4347
+509,615.02,369.012,3.82,562,"Amazon Digital Services,  Inc.",4347
+510,478.4,287.04,2.99,565,Macmillan,4320
+511,1438.4,863.04,8.99,565,Penguin Group (USA) LLC,4320
+512,478.4,0,2.99,566,"Amazon Digital Services,  Inc.",4320
+513,478.4,0,2.99,567,"Amazon Digital Services,  Inc.",4320
+514,1598.4,959.04,9.99,568,Random House LLC,4320
+515,475.41,0,2.99,570,"Amazon Digital Services,  Inc.",4293
+516,157.41,0,0.99,571,"Amazon Digital Services,  Inc.",4293
+517,475.41,0,2.99,572,"Amazon Digital Services,  Inc.",4293
+518,634.41,380.646,3.99,572,Hachette Book Group,4293
+519,314.42,188.652,1.99,574,Simon and Schuster Digital Sales Inc,4266
+520,1136.02,681.612,7.19,575,"Amazon Digital Services,  Inc.",4266
+521,472.42,283.452,2.99,576,"Amazon Digital Services,  Inc.",4266
+522,1420.42,852.252,8.99,577,HarperCollins Publishers,4266
+523,469.43,0,2.99,578,"Amazon Digital Services,  Inc.",4239
+524,155.43,0,0.99,580,"Amazon Digital Services,  Inc.",4239
+525,1474.23,884.538,9.39,581,"Amazon Digital Services,  Inc.",4239
+526,154.44,0,0.99,585,"Amazon Digital Services,  Inc.",4212
+527,778.44,467.064,4.99,585,Random House LLC,4212
+528,669.24,401.544,4.29,586,HarperCollins Publishing,4212
+529,2106.45,1263.87,13.59,589,HarperCollins Publishers,4185
+530,618.45,0,3.99,589,"Amazon Digital Services,  Inc.",4185
+531,1230.46,738.276,7.99,591,Penguin Group (USA) LLC,4158
+532,614.46,0,3.99,592,"Amazon Digital Services,  Inc.",4158
+533,460.46,0,2.99,594,"Amazon Digital Services,  Inc.",4158
+534,768.46,0,4.99,594,"Amazon Digital Services,  Inc.",4158
+535,1167.32,700.392,7.58,595,Penguin Group (USA) LLC,4158
+536,610.47,0,3.99,596,"Amazon Digital Services,  Inc.",4131
+537,151.47,90.882,0.99,597,"Amazon Digital Services,  Inc.",4131
+538,151.47,0,0.99,598,"Amazon Digital Services,  Inc.",4131
+539,1176.57,705.942,7.69,600,Penguin Group (USA) LLC,4131
+540,1618.8,971.28,10.65,601,Penguin Group (USA) LLC,4104
+541,1111.12,666.672,7.31,603,Penguin Group (USA) LLC,4104
+542,910.48,546.288,5.99,603,Simon and Schuster Digital Sales Inc,4104
+543,149.49,0,0.99,605,"Amazon Digital Services,  Inc.",4077
+544,151,90.6,1,607,"Amazon Digital Services,  Inc.",4077
+545,661.38,396.828,4.38,608,"Amazon Digital Services,  Inc.",4077
+546,1508.49,905.094,9.99,608,"Amazon Digital Services,  Inc.",4077
+547,1125,675,7.5,610,Penguin Group (USA) LLC,4050
+548,598.5,0,3.99,611,"Amazon Digital Services,  Inc.",4050
+549,594.51,356.706,3.99,615,Penguin Group (USA) LLC,4023
+550,594.51,356.706,3.99,615,Simon and Schuster Digital Sales Inc,4023
+551,1488.51,893.106,9.99,616,HarperCollins Publishing,4023
+552,594.51,0,3.99,616,"Amazon Digital Services,  Inc.",4023
+553,1427.42,856.452,9.58,617,"Amazon Digital Services,  Inc.",4023
+554,1144.04,686.424,7.73,619,Macmillan,3996
+555,146.52,0,0.99,620,"Amazon Digital Services,  Inc.",3996
+556,442.52,0,2.99,622,"Amazon Digital Services,  Inc.",3996
+557,145.53,87.318,0.99,624,"Amazon Digital Services,  Inc.",3969
+558,1997.73,1198.638,13.59,624,HarperCollins Publishers,3969
+559,145.53,0,0.99,625,"Amazon Digital Services,  Inc.",3969
+560,439.53,0,2.99,625,"Amazon Digital Services,  Inc.",3969
+561,439.53,263.718,2.99,626,"Amazon Digital Services,  Inc.",3969
+562,1074.57,644.742,7.31,627,Penguin Group (USA) LLC,3969
+563,675.98,405.588,4.63,628,Hachette Book Group,3942
+564,582.54,0,3.99,629,"Amazon Digital Services,  Inc.",3942
+565,1097.92,658.752,7.52,629,"Amazon Digital Services,  Inc.",3942
+566,1166.54,699.924,7.99,630,Random House LLC,3942
+567,1251.22,750.732,8.57,631,"Amazon Digital Services,  Inc.",3942
+568,144.54,0,0.99,631,"Amazon Digital Services,  Inc.",3942
+569,665.55,399.33,4.59,632,Penguin Group (USA) LLC,3915
+570,723.55,0,4.99,632,"Amazon Digital Services,  Inc.",3915
+571,990.35,594.21,6.83,634,Simon and Schuster Digital Sales Inc,3915
+572,1448.55,869.13,9.99,635,"Amazon Digital Services,  Inc.",3915
+573,868.55,521.13,5.99,636,Hachette Book Group,3915
+574,1134.72,680.832,7.88,637,Hachette Book Group,3888
+575,570.57,0,3.99,641,"Amazon Digital Services,  Inc.",3861
+576,1428.57,857.142,9.99,642,Penguin Group (USA) LLC,3861
+577,1072.5,643.5,7.5,645,Random House LLC,3861
+578,708.58,0,4.99,646,"Amazon Digital Services,  Inc.",3834
+579,1560.58,936.348,10.99,647,Penguin Group (USA) LLC,61560
+580,969.86,581.916,6.83,649,Random House LLC,61128
+581,562.59,0,3.99,651,"Amazon Digital Services,  Inc.",61128
+582,139.59,83.754,0.99,652,Random House LLC,60696
+583,1030.71,618.426,7.31,652,Penguin Group (USA) LLC,59400
+584,562.59,0,3.99,653,"Amazon Digital Services,  Inc.",58968
+585,558.6,0,3.99,655,"Amazon Digital Services,  Inc.",57240
+586,418.6,251.16,2.99,658,"Amazon Digital Services,  Inc.",56808
+587,1398.6,839.16,9.99,658,"Amazon Digital Services,  Inc.",55728
+588,698.6,0,4.99,659,"Amazon Digital Services,  Inc.",55080
+589,137.61,0,0.99,661,"Amazon Digital Services,  Inc.",54000
+590,693.61,0,4.99,663,"Amazon Digital Services,  Inc.",53784
+591,725.88,435.528,5.26,665,Penguin Group (USA) LLC,53784
+592,1516.62,909.972,10.99,666,Penguin Group (USA) LLC,53784
+593,957.72,574.632,6.94,668,Random House LLC,53568
+594,1094.63,656.778,7.99,671,Hachette Book Group,53352
+595,836.4,501.84,6.15,675,"Amazon Digital Services,  Inc.",53352
+596,1225.36,0,9.01,675,"Amazon Digital Services,  Inc.",53136
+597,542.64,0,3.99,676,"Amazon Digital Services,  Inc.",52920
+598,133.65,0,0.99,679,"Amazon Digital Services,  Inc.",52488
+599,538.65,0,3.99,680,"Amazon Digital Services,  Inc.",52488
+600,808.65,485.19,5.99,681,Random House LLC,52488
+601,873.68,524.208,6.52,682,"Amazon Digital Services,  Inc.",52056
+602,1191.26,714.756,8.89,684,Hachette Book Group,52056
+603,663.67,0,4.99,688,"Amazon Digital Services,  Inc.",51840
+604,530.67,0,3.99,689,"Amazon Digital Services,  Inc.",51624
+605,397.67,238.602,2.99,690,Random House LLC,51408
+606,394.68,0,2.99,692,"Amazon Digital Services,  Inc.",51192
+607,394.68,0,2.99,692,"Amazon Digital Services,  Inc.",51192
+608,394.68,236.808,2.99,693,"Amazon Digital Services,  Inc.",50976
+609,790.68,0,5.99,693,"Amazon Digital Services,  Inc.",50760
+610,526.68,0,3.99,693,"Amazon Digital Services,  Inc.",50544
+611,130.68,78.408,0.99,694,"Amazon Digital Services,  Inc.",50328
+612,327.36,196.416,2.48,694,Random House LLC,50112
+613,394.68,0,2.99,695,"Amazon Digital Services,  Inc.",49896
+614,260.69,156.414,1.99,696,Simon and Schuster Digital Sales Inc,49896
+615,1395.15,837.09,10.65,698,Hachette Book Group,49680
+616,129.69,77.814,0.99,699,"Amazon Digital Services,  Inc.",49680
+617,260.69,156.414,1.99,700,HarperCollins Publishers,49248
+618,492.7,295.62,3.79,701,Macmillan,49032
+619,258.7,155.22,1.99,703,Random House LLC,48816
+620,1656.2,993.72,12.74,704,Macmillan,48816
+621,514.71,0,3.99,705,"Amazon Digital Services,  Inc.",48600
+622,127.71,0,0.99,707,"Amazon Digital Services,  Inc.",48384
+623,127.71,76.626,0.99,707,"Amazon Digital Services,  Inc.",48168
+624,127.71,0,0.99,708,"Amazon Digital Services,  Inc.",47952
+625,127.71,0,0.99,709,"Amazon Digital Services,  Inc.",47736
+626,885.76,531.456,6.92,710,Penguin Group (USA) LLC,47520
+627,888.32,532.992,6.94,710,"Amazon Digital Services,  Inc.",47520
+628,1470.72,882.432,11.49,711,Random House LLC,47304
+629,787.2,472.32,6.15,712,"Amazon Digital Services,  Inc.",47304
+630,126.72,76.032,0.99,713,"Amazon Digital Services,  Inc.",47088
+631,1153.28,691.968,9.01,713,HarperCollins Publishers,47088
+632,843.28,505.968,6.64,714,Hachette Book Group,46872
+633,1395.73,837.438,10.99,716,Penguin Group (USA) LLC,46872
+634,125.73,75.438,0.99,716,"Amazon Digital Services,  Inc.",46872
+635,506.73,0,3.99,717,"Amazon Digital Services,  Inc.",46440
+636,502.74,0,3.99,719,"Amazon Digital Services,  Inc.",46440
+637,124.74,0,0.99,720,"Amazon Digital Services,  Inc.",46008
+638,1198.75,719.25,9.59,724,HarperCollins Publishers,46008
+639,1127.5,676.5,9.02,725,Random House LLC,46008
+640,122.76,73.656,0.99,728,"Amazon Digital Services,  Inc.",45792
+641,370.76,0,2.99,730,"Amazon Digital Services,  Inc.",45576
+642,121.77,73.062,0.99,733,"Amazon Digital Services,  Inc.",45360
+643,121.77,73.062,0.99,736,Random House LLC,45144
+644,974.78,584.868,7.99,737,Random House LLC,44928
+645,120.78,72.468,0.99,738,Simon and Schuster Digital Sales Inc,44280
+646,1096.78,658.068,8.99,739,Random House LLC,43848
+647,486.78,292.068,3.99,740,"Amazon Digital Services,  Inc.",43848
+648,966.79,580.074,7.99,741,Random House LLC,43416
+649,930.49,558.294,7.69,743,Penguin Group (USA) LLC,43416
+650,119.79,71.874,0.99,743,"Amazon Digital Services,  Inc.",43416
+651,671.55,402.93,5.55,745,"Amazon Digital Services,  Inc.",43200
+652,118.8,0,0.99,746,"Amazon Digital Services,  Inc.",42768
+653,118.8,71.28,0.99,748,"Amazon Digital Services,  Inc.",42552
+654,118.8,71.28,0.99,750,"Amazon Digital Services,  Inc.",42120
+655,950.81,570.486,7.99,751,Random House LLC,42120
+656,117.81,70.686,0.99,752,"Amazon Digital Services,  Inc.",41904
+657,912.73,547.638,7.67,753,Random House LLC,41472
+658,355.81,0,2.99,757,"Amazon Digital Services,  Inc.",41256
+659,117.81,0,0.99,759,"Amazon Digital Services,  Inc.",40824
+660,712.81,427.686,5.99,760,Penguin Group (USA) LLC,40824
+661,117.81,70.686,0.99,760,"Amazon Digital Services,  Inc.",40176
+662,236.81,142.086,1.99,761,"Amazon Digital Services,  Inc.",40176
+663,712.81,427.686,5.99,762,Macmillan,39960
+664,474.81,0,3.99,764,"Amazon Digital Services,  Inc.",39744
+665,355.81,0,2.99,764,"Amazon Digital Services,  Inc.",39312
+666,355.81,0,2.99,765,"Amazon Digital Services,  Inc.",39312
+667,1188.81,713.286,9.99,765,Hachette Book Group,38880
+668,355.81,213.486,2.99,766,"Amazon Digital Services,  Inc.",38664
+669,117.81,0,0.99,767,"Amazon Digital Services,  Inc.",38664
+670,593.81,0,4.99,768,"Amazon Digital Services,  Inc.",38448
+671,117.81,70.686,0.99,770,"Amazon Digital Services,  Inc.",38448
+672,784.21,470.526,6.59,770,"Amazon Digital Services,  Inc.",38448
+673,1082.9,649.74,9.1,770,"Amazon Digital Services,  Inc.",38232
+674,117.81,70.686,0.99,772,Macmillan,38016
+675,117.81,70.686,0.99,773,"Amazon Digital Services,  Inc.",38016
+676,915.11,549.066,7.69,775,Random House LLC,37584
+677,355.81,0,2.99,779,"Amazon Digital Services,  Inc.",37584
+678,640.22,384.132,5.38,779,HarperCollins Publishers,37368
+679,1307.81,784.686,10.99,781,Random House LLC,37368
+680,117.81,70.686,0.99,782,"Amazon Digital Services,  Inc.",37368
+681,593.81,0,4.99,783,"Amazon Digital Services,  Inc.",37152
+682,355.81,0,2.99,783,"Amazon Digital Services,  Inc.",37152
+683,1022.21,613.326,8.59,784,"Amazon Digital Services,  Inc.",36936
+684,117.81,0,0.99,786,"Amazon Digital Services,  Inc.",36936
+685,355.81,213.486,2.99,786,Simon and Schuster Digital Sales Inc,36936
+686,950.81,570.486,7.99,787,HarperCollins Christian Publishing,36720
+687,357.54,214.524,3.03,789,"Amazon Digital Services,  Inc.",36504
+688,352.82,0,2.99,791,"Amazon Digital Services,  Inc.",36504
+689,116.82,70.092,0.99,792,"Amazon Digital Services,  Inc.",36504
+690,862.58,517.548,7.31,792,HarperCollins Publishers,36504
+691,862.58,517.548,7.31,794,Penguin Group (USA) LLC,36504
+692,352.82,211.692,2.99,797,"Amazon Digital Services,  Inc.",36504
+693,1060.82,636.492,8.99,797,HarperCollins Publishers,36504
+694,352.82,0,2.99,798,"Amazon Digital Services,  Inc.",36288
+695,116.82,0,0.99,799,"Amazon Digital Services,  Inc.",36288
+696,1320.42,792.252,11.19,800,HarperCollins Publishers,36072
+697,761.1,456.66,6.45,802,Simon and Schuster Digital Sales Inc,36072
+698,654.9,392.94,5.55,802,"Amazon Digital Services,  Inc.",36072
+699,116.82,70.092,0.99,803,"Amazon Digital Services,  Inc.",36072
+700,116.82,70.092,0.99,804,Random House LLC,35856
+701,824.82,494.892,6.99,804,Hachette Book Group,35640
+702,1060.82,636.492,8.99,805,Random House LLC,35640
+703,706.82,424.092,5.99,808,Penguin Group (USA) LLC,35640
+704,502.68,301.608,4.26,809,HarperCollins Publishing,35640
+705,1131.62,678.972,9.59,810,Penguin Group (USA) LLC,35640
+706,234.82,140.892,1.99,810,Simon and Schuster Digital Sales Inc,35424
+707,588.82,0,4.99,811,"Amazon Digital Services,  Inc.",35424
+708,1680.32,1008.192,14.24,811,Penguin Group (USA) LLC,35424
+709,1128.08,676.848,9.56,813,Simon and Schuster Digital Sales Inc,35208
+710,352.82,211.692,2.99,814,"Amazon Digital Services,  Inc.",35208
+711,872.02,523.212,7.39,816,"Amazon Digital Services,  Inc.",35208
+712,470.82,282.492,3.99,818,"Amazon Digital Services,  Inc.",35208
+713,824.82,494.892,6.99,818,Random House LLC,34992
+714,352.82,0,2.99,819,"Amazon Digital Services,  Inc.",34992
+715,942.82,565.692,7.99,820,Penguin Group (USA) LLC,34992
+716,470.82,0,3.99,821,"Amazon Digital Services,  Inc.",34776
+717,588.82,0,4.99,823,"Amazon Digital Services,  Inc.",34776
+718,234.82,140.892,1.99,823,"Amazon Digital Services,  Inc.",34776
+719,234.82,140.892,1.99,824,"Amazon Digital Services,  Inc.",34560
+720,725.7,435.42,6.15,825,"Amazon Digital Services,  Inc.",34560
+721,466.83,0,3.99,826,"Amazon Digital Services,  Inc.",34560
+722,934.83,560.898,7.99,827,Random House LLC,34344
+723,349.83,209.898,2.99,830,"Amazon Digital Services,  Inc.",34128
+724,349.83,209.898,2.99,831,"Amazon Digital Services,  Inc.",34128
+725,115.83,0,0.99,832,"Amazon Digital Services,  Inc.",34128
+726,232.83,139.698,1.99,832,HarperCollins Publishers,34128
+727,232.83,139.698,1.99,834,"Amazon Digital Services,  Inc.",33912
+728,855.27,513.162,7.31,836,Random House LLC,33696
+729,1519.83,911.898,12.99,836,"Amazon Digital Services,  Inc.",33696
+730,466.83,0,3.99,837,"Amazon Digital Services,  Inc.",33480
+731,700.83,420.498,5.99,837,HarperCollins Publishers,33264
+732,115.83,0,0.99,838,"Amazon Digital Services,  Inc.",33264
+733,1689.48,1013.688,14.44,840,HarperCollins Publishers,33048
+734,349.83,209.898,2.99,841,Macmillan,33048
+735,583.83,350.298,4.99,842,Hachette Book Group,32832
+736,1170,702,10,843,"Amazon Digital Services,  Inc.",32832
+737,1402.83,841.698,11.99,844,Penguin Group (USA) LLC,32832
+738,115.83,0,0.99,845,"Amazon Digital Services,  Inc.",32616
+739,349.83,0,2.99,846,"Amazon Digital Services,  Inc.",32616
+740,1084.59,650.754,9.27,846,Penguin Group (USA) LLC,32616
+741,232.83,139.698,1.99,848,"Amazon Digital Services,  Inc.",32400
+742,466.83,0,3.99,852,"Amazon Digital Services,  Inc.",32184
+743,349.83,0,2.99,852,"Amazon Digital Services,  Inc.",32184
+744,466.83,0,3.99,853,"Amazon Digital Services,  Inc.",32184
+745,1391.13,834.678,11.89,854,Simon and Schuster Digital Sales Inc,32184
+746,232.83,139.698,1.99,857,Hachette Book Group,31968
+747,799.11,479.466,6.83,859,Macmillan,31752
+748,349.83,0,2.99,860,"Amazon Digital Services,  Inc.",31752
+749,583.83,350.298,4.99,862,Penguin Group (USA) LLC,31752
+750,114.84,0,0.99,863,"Amazon Digital Services,  Inc.",31752
+751,624.08,374.448,5.38,865,"Amazon Digital Services,  Inc.",31536
+752,694.84,0,5.99,866,"Amazon Digital Services,  Inc.",31536
+753,892.04,535.224,7.69,867,Random House LLC,31536
+754,346.84,0,2.99,868,"Amazon Digital Services,  Inc.",31536
+755,462.84,0,3.99,869,"Amazon Digital Services,  Inc.",31320
+756,114.84,68.904,0.99,869,Random House LLC,31320
+757,1158.84,695.304,9.99,871,Penguin Group (USA) LLC,31320
+758,462.84,277.704,3.99,871,Hachette Book Group,31320
+759,230.84,138.504,1.99,873,Random House LLC,31104
+760,462.84,277.704,3.99,877,"Amazon Digital Services,  Inc.",30888
+761,694.84,0,5.99,879,"Amazon Digital Services,  Inc.",30888
+762,770.24,462.144,6.64,879,Hachette Book Group,30672
+763,114.84,68.904,0.99,881,"Amazon Digital Services,  Inc.",30672
+764,694.84,416.904,5.99,883,"Amazon Digital Services,  Inc.",30456
+765,114.84,68.904,0.99,884,"Amazon Digital Services,  Inc.",30456
+766,114.84,68.904,0.99,885,"Amazon Digital Services,  Inc.",30240
+767,114.84,0,0.99,886,"Amazon Digital Services,  Inc.",30240
+768,810.84,486.504,6.99,886,Simon and Schuster Digital Sales Inc,29808
+769,346.84,0,2.99,887,"Amazon Digital Services,  Inc.",29808
+770,114.84,0,0.99,890,"Amazon Digital Services,  Inc.",29808
+771,114.84,68.904,0.99,892,"Amazon Digital Services,  Inc.",29592
+772,462.84,0,3.99,892,"Amazon Digital Services,  Inc.",29376
+773,1042.84,625.704,8.99,893,"Amazon Digital Services,  Inc.",29160
+774,1041.68,625.008,8.98,894,"Amazon Digital Services,  Inc.",28944
+775,1506.84,904.104,12.99,894,Simon and Schuster Digital Sales Inc,28944
+776,784.16,470.496,6.76,897,"Amazon Digital Services,  Inc.",28728
+777,346.84,0,2.99,898,"Amazon Digital Services,  Inc.",28512
+778,1158.84,695.304,9.99,900,Simon and Schuster Digital Sales Inc,28512
+779,926.84,556.104,7.99,900,Random House LLC,28512
+780,458.85,0,3.99,903,"Amazon Digital Services,  Inc.",28296
+781,1367.35,820.41,11.89,904,Simon and Schuster Digital Sales Inc,28296
+782,573.85,0,4.99,905,"Amazon Digital Services,  Inc.",28296
+783,343.85,0,2.99,907,"Amazon Digital Services,  Inc.",2943
+784,1033.85,620.31,8.99,909,HarperCollins Publishers,2943
+785,343.85,0,2.99,909,"Amazon Digital Services,  Inc.",2943
+786,343.85,0,2.99,910,"Amazon Digital Services,  Inc.",2943
+787,573.85,0,4.99,911,"Amazon Digital Services,  Inc.",2916
+788,343.85,206.31,2.99,913,HarperCollins Publishers,2916
+789,458.85,0,3.99,914,"Amazon Digital Services,  Inc.",2916
+790,1263.85,758.31,10.99,914,Random House LLC,2916
+791,458.85,0,3.99,915,"Amazon Digital Services,  Inc.",2916
+792,343.85,0,2.99,916,"Amazon Digital Services,  Inc.",2916
+793,343.85,206.31,2.99,917,"Amazon Digital Services,  Inc.",2916
+794,458.85,0,3.99,918,"Amazon Digital Services,  Inc.",2916
+795,803.85,482.31,6.99,920,Penguin Group (USA) LLC,2916
+796,930.35,558.21,8.09,921,Penguin Group (USA) LLC,2916
+797,113.85,68.31,0.99,922,"Amazon Digital Services,  Inc.",2916
+798,573.85,344.31,4.99,924,"Amazon Digital Services,  Inc.",2916
+799,1269.6,761.76,11.04,926,HarperCollins Publishers,2916
+800,884.35,530.61,7.69,927,Random House LLC,2916
+801,113.85,68.31,0.99,930,"Amazon Digital Services,  Inc.",2916
+802,573.85,344.31,4.99,931,Simon and Schuster Digital Sales Inc,2916
+803,573.85,344.31,4.99,933,Macmillan,2916
+804,113.85,0,0.99,936,"Amazon Digital Services,  Inc.",2916
+805,343.85,0,2.99,937,"Amazon Digital Services,  Inc.",2916
+806,910.86,546.516,7.99,938,"Amazon Digital Services,  Inc.",2916
+807,1366.86,820.116,11.99,939,Penguin Group (USA) LLC,2916
+808,1366.86,820.116,11.99,941,Random House LLC,2916
+809,340.86,204.516,2.99,943,"Amazon Digital Services,  Inc.",2916
+810,568.86,0,4.99,944,"Amazon Digital Services,  Inc.",2916
+811,112.86,0,0.99,946,"Amazon Digital Services,  Inc.",2916
+812,910.86,546.516,7.99,947,"Amazon Digital Services,  Inc.",2916
+813,112.86,67.716,0.99,949,"Amazon Digital Services,  Inc.",2916
+814,876.66,525.996,7.69,950,Random House LLC,2916
+815,226.86,0,1.99,952,"Amazon Digital Services,  Inc.",2916
+816,568.86,341.316,4.99,952,Macmillan,2916
+817,568.86,0,4.99,953,"Amazon Digital Services,  Inc.",2916
+818,112.86,67.716,0.99,955,"Amazon Digital Services,  Inc.",2916
+819,226.86,136.116,1.99,956,HarperCollins Publishers,2889
+820,876.66,525.996,7.69,957,Penguin Group (USA) LLC,2889
+821,340.86,204.516,2.99,958,"Amazon Digital Services,  Inc.",2889
+822,1366.86,820.116,11.99,960,Penguin Group (USA) LLC,2889
+823,397.86,0,3.49,961,"Amazon Digital Services,  Inc.",2889
+824,568.86,341.316,4.99,963,Random House LLC,2889
+825,340.86,0,2.99,963,"Amazon Digital Services,  Inc.",2889
+826,454.86,272.916,3.99,966,"Amazon Digital Services,  Inc.",2889
+827,856.14,513.684,7.51,967,Penguin Group (USA) LLC,2889
+828,340.86,204.516,2.99,968,Simon and Schuster Digital Sales Inc,2889
+829,345.42,0,3.03,968,"Amazon Digital Services,  Inc.",2889
+830,844.74,506.844,7.41,969,Macmillan,2889
+831,228,0,2,970,"Amazon Digital Services,  Inc.",2889
+832,597.36,358.416,5.24,970,"Amazon Digital Services,  Inc.",2889
+833,778.62,467.172,6.83,971,Simon and Schuster Digital Sales Inc,2889
+834,910.86,546.516,7.99,971,Random House LLC,2889
+835,454.86,0,3.99,972,"Amazon Digital Services,  Inc.",2889
+836,454.86,0,3.99,973,"Amazon Digital Services,  Inc.",2889
+837,746.7,448.02,6.55,973,Macmillan,2889
+838,1220.4,732.24,10.8,977,HarperCollins Publishers,2889
+839,431.66,258.996,3.82,980,"Amazon Digital Services,  Inc.",2889
+840,902.87,541.722,7.99,981,Hachette Book Group,2889
+841,563.87,0,4.99,982,"Amazon Digital Services,  Inc.",2889
+842,1128.87,677.322,9.99,984,"Amazon Digital Services,  Inc.",2889
+843,450.87,0,3.99,985,"Amazon Digital Services,  Inc.",2889
+844,450.87,0,3.99,986,"Amazon Digital Services,  Inc.",2889
+845,1241.87,745.122,10.99,988,Random House LLC,2889
+846,111.87,67.122,0.99,990,"Amazon Digital Services,  Inc.",2889
+847,169.5,101.7,1.5,992,HarperCollins Publishers,2889
+848,450.87,270.522,3.99,993,Simon and Schuster Digital Sales Inc,2862
+849,1388.77,833.262,12.29,993,HarperCollins Publishers,2862
+850,111.87,67.122,0.99,994,"Amazon Digital Services,  Inc.",2862
+851,111.87,67.122,0.99,995,"Amazon Digital Services,  Inc.",2862
+852,111.87,0,0.99,996,"Amazon Digital Services,  Inc.",2862
+853,864.45,518.67,7.65,997,Penguin Group (USA) LLC,2862
+854,1327.75,796.65,11.75,1000,Random House LLC,2862
+855,781.96,469.176,6.92,1001,Random House LLC,2862
+856,450.87,270.522,3.99,1001,"Amazon Digital Services,  Inc.",2862
+857,337.87,0,2.99,1004,"Amazon Digital Services,  Inc.",2862
+858,970.67,582.402,8.59,1005,Penguin Group (USA) LLC,2862
+859,1015.87,609.522,8.99,1006,Hachette Book Group,2862
+860,846.37,507.822,7.49,1006,Penguin Group (USA) LLC,2862
+861,789.87,473.922,6.99,1007,"Amazon Digital Services,  Inc.",2862
+862,111.87,67.122,0.99,1007,"Amazon Digital Services,  Inc.",2862
+863,224.87,134.922,1.99,1008,"Amazon Digital Services,  Inc.",2862
+864,111.87,67.122,0.99,1009,"Amazon Digital Services,  Inc.",2862
+865,224.87,134.922,1.99,1010,HarperCollins Publishers,2862
+866,992.14,595.284,8.78,1011,Simon and Schuster Digital Sales Inc,2862
+867,282.5,169.5,2.5,1012,"Amazon Digital Services,  Inc.",2862
+868,110.88,66.528,0.99,1013,"Amazon Digital Services,  Inc.",2862
+869,838.88,503.328,7.49,1015,Macmillan,2862
+870,334.88,0,2.99,1019,"Amazon Digital Services,  Inc.",2862
+871,670.88,0,5.99,1020,"Amazon Digital Services,  Inc.",4480
+872,334.88,200.928,2.99,1020,"Amazon Digital Services,  Inc.",4480
+873,334.88,200.928,2.99,1022,Hachette Book Group,4480
+874,110.88,0,0.99,1023,"Amazon Digital Services,  Inc.",4480
+875,894.88,536.928,7.99,1024,Simon and Schuster Digital Sales Inc,4480
+876,334.88,0,2.99,1027,"Amazon Digital Services,  Inc.",4480
+877,670.88,402.528,5.99,1027,HarperCollins Publishers,4480
+878,446.88,0,3.99,1030,"Amazon Digital Services,  Inc.",4440
+879,894.88,536.928,7.99,1032,Random House LLC,4440
+880,842.24,505.344,7.52,1032,"Amazon Digital Services,  Inc.",4440
+881,334.88,0,2.99,1033,"Amazon Digital Services,  Inc.",4440
+882,1326.08,795.648,11.84,1033,Random House LLC,4440
+883,446.88,0,3.99,1034,"Amazon Digital Services,  Inc.",4440
+884,558.88,0,4.99,1035,"Amazon Digital Services,  Inc.",4440
+885,110.88,66.528,0.99,1036,"Amazon Digital Services,  Inc.",4440
+886,1230.88,738.528,10.99,1037,Penguin Group (USA) LLC,4440
+887,558.88,335.328,4.99,1042,Random House LLC,4440
+888,334.88,0,2.99,1042,"Amazon Digital Services,  Inc.",4440
+889,838.88,503.328,7.49,1043,Penguin Group (USA) LLC,4440
+890,334.88,200.928,2.99,1044,HarperCollins Publishers,4440
+891,446.88,268.128,3.99,1046,Hachette Book Group,4440
+892,670.88,0,5.99,1048,"Amazon Digital Services,  Inc.",4400
+893,222.88,133.728,1.99,1049,Simon and Schuster Digital Sales Inc,4400
+894,334.88,200.928,2.99,1050,Macmillan,4400
+895,222.88,133.728,1.99,1050,Hachette Book Group,4400
+896,109.89,0,0.99,1052,"Amazon Digital Services,  Inc.",4400
+897,331.89,0,2.99,1052,"Amazon Digital Services,  Inc.",4400
+898,1330.89,798.534,11.99,1053,Penguin Group (USA) LLC,4400
+899,442.89,0,3.99,1054,"Amazon Digital Services,  Inc.",4400
+900,109.89,0,0.99,1055,"Amazon Digital Services,  Inc.",4400
+901,331.89,0,2.99,1056,"Amazon Digital Services,  Inc.",4400
+902,331.89,0,2.99,1057,"Amazon Digital Services,  Inc.",4400
+903,109.89,65.934,0.99,1058,"Amazon Digital Services,  Inc.",4400
+904,109.89,0,0.99,1058,"Amazon Digital Services,  Inc.",4400
+905,220.89,132.534,1.99,1059,"Amazon Digital Services,  Inc.",4400
+906,331.89,0,2.99,1059,"Amazon Digital Services,  Inc.",4400
+907,331.89,0,2.99,1060,"Amazon Digital Services,  Inc.",4400
+908,899.1,539.46,8.1,1061,"Amazon Digital Services,  Inc.",4400
+909,1314.24,788.544,11.84,1062,Random House LLC,4400
+910,220.89,132.534,1.99,1066,Hachette Book Group,4400
+911,1330.89,798.534,11.99,1066,Penguin Group (USA) LLC,4400
+912,1225.44,735.264,11.04,1068,Macmillan,4360
+913,109.89,65.934,0.99,1069,"Amazon Digital Services,  Inc.",4360
+914,196.47,0,1.77,1071,"Amazon Digital Services,  Inc.",4360
+915,109.89,0,0.99,1072,"Amazon Digital Services,  Inc.",4360
+916,109.89,0,0.99,1073,"Amazon Digital Services,  Inc.",4360
+917,637.14,382.284,5.74,1074,HarperCollins Publishers,4360
+918,858.03,514.818,7.73,1075,Hachette Book Group,4360
+919,442.89,0,3.99,1076,"Amazon Digital Services,  Inc.",4360
+920,1219.89,731.934,10.99,1077,Random House LLC,4360
+921,331.89,0,2.99,1078,"Amazon Digital Services,  Inc.",4360
+922,1414.14,848.484,12.74,1080,Simon and Schuster Digital Sales Inc,4360
+923,331.89,0,2.99,1081,"Amazon Digital Services,  Inc.",4360
+924,331.89,0,2.99,1082,"Amazon Digital Services,  Inc.",4360
+925,109.89,65.934,0.99,1085,"Amazon Digital Services,  Inc.",4360
+926,548.9,0,4.99,1089,"Amazon Digital Services,  Inc.",4360
+927,1098.9,659.34,9.99,1090,"Amazon Digital Services,  Inc.",4360
+928,108.9,65.34,0.99,1091,"Amazon Digital Services,  Inc.",4360
+929,108.9,65.34,0.99,1091,"Amazon Digital Services,  Inc.",4320
+930,438.9,0,3.99,1093,"Amazon Digital Services,  Inc.",4320
+931,1230.9,738.54,11.19,1095,HarperCollins Publishers,4320
+932,108.9,65.34,0.99,1097,Macmillan,4320
+933,438.9,0,3.99,1098,"Amazon Digital Services,  Inc.",4320
+934,108.9,0,0.99,1099,"Amazon Digital Services,  Inc.",4320
+935,218.9,131.34,1.99,1099,"Amazon Digital Services,  Inc.",4320
+936,438.9,0,3.99,1100,"Amazon Digital Services,  Inc.",4320
+937,1351.9,811.14,12.29,1101,HarperCollins Publishers,4320
+938,1208.9,725.34,10.99,1101,Random House LLC,4320
+939,878.9,527.34,7.99,1102,Penguin Group (USA) LLC,4320
+940,108.9,65.34,0.99,1102,"Amazon Digital Services,  Inc.",4320
+941,328.9,0,2.99,1105,"Amazon Digital Services,  Inc.",4320
+942,603.9,362.34,5.49,1106,HarperCollins Publishers,4320
+943,988.9,593.34,8.99,1106,Random House LLC,4320
+944,438.9,0,3.99,1107,"Amazon Digital Services,  Inc.",4320
+945,1200.1,720.06,10.91,1107,Simon and Schuster Digital Sales Inc,4320
+946,988.9,593.34,8.99,1111,Penguin Group (USA) LLC,4320
+947,988.9,593.34,8.99,1112,HarperCollins Publishers,4320
+948,548.9,329.34,4.99,1118,"Amazon Digital Services,  Inc.",4280
+949,108.9,0,0.99,1119,"Amazon Digital Services,  Inc.",4280
+950,1867.8,1120.68,16.98,1119,Penguin Group (USA) LLC,4280
+951,416.9,250.14,3.79,1120,HarperCollins Publishers,4280
+952,548.9,0,4.99,1120,"Amazon Digital Services,  Inc.",4280
+953,493.9,296.34,4.49,1123,Macmillan,4280
+954,641.3,384.78,5.83,1124,Simon and Schuster Digital Sales Inc,4280
+955,1088.91,653.346,9.99,1127,Random House LLC,4280
+956,216.91,130.146,1.99,1128,Simon and Schuster Digital Sales Inc,4280
+957,434.91,260.946,3.99,1129,HarperCollins Christian Publishing,4280
+958,1160.85,696.51,10.65,1130,Penguin Group (USA) LLC,4280
+959,516.66,309.996,4.74,1131,HarperCollins Publishers,4280
+960,107.91,0,0.99,1131,"Amazon Digital Services,  Inc.",4280
+961,107.91,64.746,0.99,1132,"Amazon Digital Services,  Inc.",4280
+962,543.91,0,4.99,1132,"Amazon Digital Services,  Inc.",4280
+963,1502.02,901.212,13.78,1136,Macmillan,4280
+964,107.91,64.746,0.99,1137,"Amazon Digital Services,  Inc.",4280
+965,107.91,0,0.99,1138,"Amazon Digital Services,  Inc.",4280
+966,325.91,0,2.99,1140,"Amazon Digital Services,  Inc.",4280
+967,706.32,423.792,6.48,1141,Hachette Book Group,4240
+968,216.91,130.146,1.99,1142,Macmillan,4240
+969,1306.91,784.146,11.99,1144,Penguin Group (USA) LLC,4240
+970,960.29,576.174,8.81,1147,Simon and Schuster Digital Sales Inc,4240
+971,598.41,359.046,5.49,1148,Simon and Schuster Digital Sales Inc,4240
+972,325.91,195.546,2.99,1148,"Amazon Digital Services,  Inc.",4240
+973,325.91,0,2.99,1148,"Amazon Digital Services,  Inc.",4240
+974,325.91,195.546,2.99,1149,"Amazon Digital Services,  Inc.",4240
+975,620.21,372.126,5.69,1150,Hachette Book Group,4240
+976,434.91,0,3.99,1151,"Amazon Digital Services,  Inc.",4240
+977,325.91,0,2.99,1152,"Amazon Digital Services,  Inc.",4240
+978,107.91,0,0.99,1153,"Amazon Digital Services,  Inc.",4240
+979,325.91,0,2.99,1154,"Amazon Digital Services,  Inc.",4240
+980,434.91,0,3.99,1155,"Amazon Digital Services,  Inc.",4240
+981,434.91,0,3.99,1156,"Amazon Digital Services,  Inc.",4240
+982,543.91,326.346,4.99,1156,Random House LLC,4240
+983,543.91,0,4.99,1160,"Amazon Digital Services,  Inc.",109
+984,107.91,0,0.99,1160,"Amazon Digital Services,  Inc.",109
+985,107.91,0,0.99,1161,"Amazon Digital Services,  Inc.",109
+986,761.91,0,6.99,1161,"Amazon Digital Services,  Inc.",109
+987,538.92,0,4.99,1164,"Amazon Digital Services,  Inc.",108
+988,646.92,388.152,5.99,1166,Hachette Book Group,108
+989,970.92,582.552,8.99,1167,Macmillan,108
+990,106.92,0,0.99,1167,"Amazon Digital Services,  Inc.",108
+991,106.92,64.152,0.99,1167,"Amazon Digital Services,  Inc.",108
+992,1659.96,995.976,15.37,1168,"Amazon Digital Services,  Inc.",108
+993,412.56,0,3.82,1169,"Amazon Digital Services,  Inc.",108
+994,430.92,0,3.99,1169,"Amazon Digital Services,  Inc.",108
+995,430.92,0,3.99,1170,"Amazon Digital Services,  Inc.",108
+996,1186.92,712.152,10.99,1173,Penguin Group (USA) LLC,108
+997,1150.2,690.12,10.65,1174,Penguin Group (USA) LLC,108
+998,430.92,0,3.99,1175,"Amazon Digital Services,  Inc.",108
+999,1327.32,796.392,12.29,1179,HarperCollins Publishers,108
+1000,322.92,0,2.99,1182,"Amazon Digital Services,  Inc.",108
+1001,322.92,0,2.99,1183,"Amazon Digital Services,  Inc.",108
+1002,516.24,309.744,4.78,1184,"Amazon Digital Services,  Inc.",108
+1003,214.92,128.952,1.99,1186,HarperCollins Publishers,108
+1004,139.32,83.592,1.29,1187,"Amazon Digital Services,  Inc.",108
+1005,748.44,449.064,6.93,1190,Hachette Book Group,108
+1006,106.92,64.152,0.99,1192,"Amazon Digital Services,  Inc.",108
+1007,646.92,388.152,5.99,1193,Hachette Book Group,108
+1008,1186.92,712.152,10.99,1194,Penguin Group (USA) LLC,108
+1009,538.92,0,4.99,1195,"Amazon Digital Services,  Inc.",108
+1010,106.92,64.152,0.99,1196,"Amazon Digital Services,  Inc.",108
+1011,430.92,0,3.99,1196,"Amazon Digital Services,  Inc.",108
+1012,538.92,323.352,4.99,1197,HarperCollins Publishers,108
+1013,322.92,193.752,2.99,1198,"Amazon Digital Services,  Inc.",108
+1014,1078.92,647.352,9.99,1198,Random House LLC,108
+1015,214.92,0,1.99,1199,"Amazon Digital Services,  Inc.",108
+1016,430.92,0,3.99,1199,"Amazon Digital Services,  Inc.",108
+1017,322.92,0,2.99,1199,"Amazon Digital Services,  Inc.",108
+1018,322.92,193.752,2.99,1200,HarperCollins Publishers,108
+1019,105.93,0,0.99,1201,"Amazon Digital Services,  Inc.",107
+1020,854.93,512.958,7.99,1201,Random House LLC,107
+1021,919.13,551.478,8.59,1201,Penguin Group (USA) LLC,107
+1022,105.93,63.558,0.99,1203,"Amazon Digital Services,  Inc.",107
+1023,426.93,256.158,3.99,1206,Penguin Group (USA) LLC,107
+1024,1272.23,763.338,11.89,1207,HarperCollins Publishers,107
+1025,640.93,0,5.99,1212,"Amazon Digital Services,  Inc.",107
+1026,105.93,0,0.99,1213,"Amazon Digital Services,  Inc.",107
+1027,408.74,0,3.82,1214,"Amazon Digital Services,  Inc.",107
+1028,319.93,0,2.99,1215,"Amazon Digital Services,  Inc.",107
+1029,1282.93,769.758,11.99,1216,Random House LLC,107
+1030,640.93,384.558,5.99,1217,Macmillan,107
+1031,854.93,512.958,7.99,1217,HarperCollins Publishers,107
+1032,1175.93,705.558,10.99,1218,"Amazon Digital Services,  Inc.",107
+1033,105.93,0,0.99,1218,"Amazon Digital Services,  Inc.",107
+1034,854.93,512.958,7.99,1219,Random House LLC,107
+1035,426.93,256.158,3.99,1220,"Amazon Digital Services,  Inc.",107
+1036,405.53,243.318,3.79,1222,HarperCollins Publishers,107
+1037,324.21,194.526,3.03,1223,"Amazon Digital Services,  Inc.",107
+1038,747.93,448.758,6.99,1223,Penguin Group (USA) LLC,107
+1039,951.23,570.738,8.89,1224,Simon and Schuster Digital Sales Inc,107
+1040,319.93,0,2.99,1225,"Amazon Digital Services,  Inc.",107
+1041,529.65,317.79,4.95,1226,"Amazon Digital Services,  Inc.",107
+1042,426.93,0,3.99,1230,"Amazon Digital Services,  Inc.",107
+1043,105.93,0,0.99,1232,"Amazon Digital Services,  Inc.",107
+1044,822.83,493.698,7.69,1233,Random House LLC,107
+1045,1149.18,689.508,10.74,1235,Penguin Group (USA) LLC,107
+1046,640.93,384.558,5.99,1236,Random House LLC,107
+1047,319.93,0,2.99,1237,"Amazon Digital Services,  Inc.",107
+1048,104.94,0,0.99,1238,"Amazon Digital Services,  Inc.",106
+1049,477,286.2,4.5,1241,"Amazon Digital Services,  Inc.",106
+1050,1588.94,953.364,14.99,1243,Hachette Book Group,106
+1051,212,0,2,1243,"Amazon Digital Services,  Inc.",106
+1052,735.64,441.384,6.94,1244,Penguin Group (USA) LLC,106
+1053,846.94,508.164,7.99,1247,Random House LLC,106
+1054,1334.54,800.724,12.59,1248,Random House LLC,106
+1055,827.86,496.716,7.81,1249,Penguin Group (USA) LLC,106
+1056,589.36,353.616,5.56,1251,Hachette Book Group,106
+1057,316.94,0,2.99,1253,"Amazon Digital Services,  Inc.",106
+1058,1058.94,635.364,9.99,1255,"Amazon Digital Services,  Inc.",106
+1059,316.94,190.164,2.99,1255,"Amazon Digital Services,  Inc.",106
+1060,740.94,444.564,6.99,1257,Random House LLC,106
+1061,210.94,0,1.99,1258,"Amazon Digital Services,  Inc.",106
+1062,104.94,0,0.99,1263,"Amazon Digital Services,  Inc.",106
+1063,815.14,489.084,7.69,1265,Random House LLC,106
+1064,846.94,508.164,7.99,1266,Random House LLC,106
+1065,316.94,0,2.99,1266,"Amazon Digital Services,  Inc.",106
+1066,104.94,62.964,0.99,1268,"Amazon Digital Services,  Inc.",106
+1067,846.94,508.164,7.99,1270,Random House LLC,106
+1068,846.94,508.164,7.99,1271,Hachette Book Group,106
+1069,104.94,62.964,0.99,1272,"Amazon Digital Services,  Inc.",106
+1070,316.94,0,2.99,1273,"Amazon Digital Services,  Inc.",106
